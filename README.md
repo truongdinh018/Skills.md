@@ -61,3 +61,32 @@ Nội dung Markdown của skill...
 ```
 
 Danh sách phòng ban được định nghĩa trong [`src/lib/departments.ts`](src/lib/departments.ts).
+
+## Deploy lên GitHub Pages
+
+Trang web được deploy tự động lên **GitHub Pages** bằng GitHub Actions
+([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)).
+
+Bật một lần trong repo: **Settings → Pages → Source: GitHub Actions**
+(workflow cũng thử bật tự động qua `enablement: true`, nhưng một số tổ chức
+chặn nên có thể cần bật thủ công).
+
+Sau đó, mỗi lần push lên `main`, workflow sẽ:
+
+1. `npm ci` để cài dependencies.
+2. Build **static export** với `BUILD_STATIC_EXPORT=true` và `PAGES_BASE_PATH`
+   trỏ tới `/<tên-repo>` (ví dụ `/Skills.md`), tạo ra thư mục `out/`.
+3. Upload `out/` và deploy lên Pages.
+
+Trang sẽ có tại: `https://<username>.github.io/<tên-repo>/`
+(ví dụ `https://truongdinh018.github.io/Skills.md/`).
+
+Build static export cục bộ để kiểm tra:
+
+```bash
+BUILD_STATIC_EXPORT=true PAGES_BASE_PATH=/Skills.md npm run build
+# Kết quả nằm trong ./out (đây là site tĩnh sẽ deploy)
+```
+
+> Lưu ý: khi bật static export, `npm start` (`next start`) không dùng được —
+> hãy serve thư mục `out/` bằng static server bất kỳ.
