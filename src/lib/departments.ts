@@ -199,6 +199,63 @@ export const DEPARTMENTS: Department[] = [
       ring: "ring-purple-500/20",
     },
   },
+  // --- Khối quản trị: pháp lý, chi phí, hợp đồng, đầu tư ---
+  {
+    slug: "legal",
+    name: "Pháp lý",
+    shortName: "Pháp lý",
+    description:
+      "Rà soát hợp đồng, tuân thủ pháp luật và quản lý rủi ro pháp lý dự án.",
+    icon: "⚖️",
+    gradient: "from-indigo-500 to-violet-500",
+    accent: {
+      text: "text-indigo-700 dark:text-indigo-300",
+      bg: "bg-indigo-50 dark:bg-indigo-500/10",
+      ring: "ring-indigo-500/20",
+    },
+  },
+  {
+    slug: "cost-control",
+    name: "Kiểm soát chi phí",
+    shortName: "KS chi phí",
+    description:
+      "So sánh dự toán với thực tế, kiểm soát phát sinh và dự báo chi phí hoàn thành.",
+    icon: "📉",
+    gradient: "from-yellow-500 to-amber-500",
+    accent: {
+      text: "text-yellow-700 dark:text-yellow-300",
+      bg: "bg-yellow-50 dark:bg-yellow-500/10",
+      ring: "ring-yellow-500/20",
+    },
+  },
+  {
+    slug: "contracts",
+    name: "Quản lý hợp đồng",
+    shortName: "Hợp đồng",
+    description:
+      "Quản lý điều khoản, mốc thanh toán, biến động khối lượng và hồ sơ claim.",
+    icon: "📃",
+    gradient: "from-slate-500 to-gray-500",
+    accent: {
+      text: "text-slate-700 dark:text-slate-300",
+      bg: "bg-slate-100 dark:bg-slate-500/10",
+      ring: "ring-slate-500/20",
+    },
+  },
+  {
+    slug: "investment",
+    name: "Đầu tư",
+    shortName: "Đầu tư",
+    description:
+      "Thẩm định hiệu quả, phân tích khả thi và ra quyết định đầu tư dự án.",
+    icon: "📈",
+    gradient: "from-emerald-500 to-green-500",
+    accent: {
+      text: "text-emerald-700 dark:text-emerald-300",
+      bg: "bg-emerald-50 dark:bg-emerald-500/10",
+      ring: "ring-emerald-500/20",
+    },
+  },
 ];
 
 const DEPARTMENT_MAP = new Map(DEPARTMENTS.map((d) => [d.slug, d]));
