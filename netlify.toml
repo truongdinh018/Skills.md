@@ -1,0 +1,10 @@
+# Netlify config for deploying the static export (không dùng GitHub Actions).
+# Netlify builds on its own infrastructure, so it works even khi GitHub Actions
+# bị khoá. Serve tại domain gốc nên KHÔNG đặt PAGES_BASE_PATH.
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  BUILD_STATIC_EXPORT = "true"
+  NODE_VERSION = "22"

@@ -90,3 +90,43 @@ BUILD_STATIC_EXPORT=true PAGES_BASE_PATH=/Skills.md npm run build
 
 > Lưu ý: khi bật static export, `npm start` (`next start`) không dùng được —
 > hãy serve thư mục `out/` bằng static server bất kỳ.
+
+## Deploy cách khác (không dùng GitHub Actions)
+
+Nếu GitHub Actions không dùng được (ví dụ tài khoản bị khoá billing), có thể
+deploy sang các nền tảng build trên hạ tầng riêng. Bản build tĩnh phục vụ ở
+**domain gốc** nên **không đặt** `PAGES_BASE_PATH`:
+
+```bash
+BUILD_STATIC_EXPORT=true npm run build   # tạo ./out (site tĩnh, đường dẫn gốc)
+```
+
+### Cách 1 — Netlify (CLI, deploy thư mục đã build)
+
+```bash
+BUILD_STATIC_EXPORT=true npm run build
+npx netlify-cli deploy --prod --dir=out
+# Lần đầu sẽ mở trình duyệt để đăng nhập Netlify (không cần chia sẻ token).
+```
+
+Hoặc kết nối repo trên [app.netlify.com](https://app.netlify.com) → Netlify tự
+build theo [`netlify.toml`](netlify.toml) mỗi lần push (không dùng GitHub Actions).
+
+### Cách 2 — Vercel (native Next.js)
+
+```bash
+npx vercel --prod
+# Đăng nhập Vercel khi được hỏi; Vercel tự nhận diện và build Next.js.
+```
+
+Với Vercel không cần static export — cứ để Vercel build Next.js như bình thường.
+
+### Cách 3 — Cloudflare Pages (Wrangler)
+
+```bash
+BUILD_STATIC_EXPORT=true npm run build
+npx wrangler pages deploy out --project-name=skills-hub
+```
+
+> Các nền tảng trên build/độc lập với GitHub Actions nên vẫn deploy được khi
+> Actions bị khoá. Chỉ cần đăng nhập/uỷ quyền một lần cho nền tảng tương ứng.
