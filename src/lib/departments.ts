@@ -114,6 +114,91 @@ export const DEPARTMENTS: Department[] = [
       ring: "ring-fuchsia-500/20",
     },
   },
+  // --- Phòng ban đặc thù công ty xây dựng ---
+  {
+    slug: "site-management",
+    name: "Ban chỉ huy công trường",
+    shortName: "Chỉ huy CT",
+    description:
+      "Điều hành công trường: giao ban, tiến độ, phối hợp thầu phụ và báo cáo.",
+    icon: "🏗️",
+    gradient: "from-orange-500 to-amber-500",
+    accent: {
+      text: "text-orange-700 dark:text-orange-300",
+      bg: "bg-orange-50 dark:bg-orange-500/10",
+      ring: "ring-orange-500/20",
+    },
+  },
+  {
+    slug: "construction-tech",
+    name: "Kỹ thuật thi công",
+    shortName: "KT thi công",
+    description:
+      "Triển khai bản vẽ, biện pháp thi công và nghiệm thu kỹ thuật tại hiện trường.",
+    icon: "📐",
+    gradient: "from-blue-500 to-cyan-500",
+    accent: {
+      text: "text-blue-700 dark:text-blue-300",
+      bg: "bg-blue-50 dark:bg-blue-500/10",
+      ring: "ring-blue-500/20",
+    },
+  },
+  {
+    slug: "qaqc",
+    name: "Quản lý chất lượng (QA/QC)",
+    shortName: "QA/QC",
+    description:
+      "Kiểm soát chất lượng theo ITP, nghiệm thu và xử lý điểm không phù hợp.",
+    icon: "✅",
+    gradient: "from-teal-500 to-emerald-500",
+    accent: {
+      text: "text-teal-700 dark:text-teal-300",
+      bg: "bg-teal-50 dark:bg-teal-500/10",
+      ring: "ring-teal-500/20",
+    },
+  },
+  {
+    slug: "hse",
+    name: "An toàn lao động (HSE)",
+    shortName: "An toàn",
+    description:
+      "An toàn - sức khỏe - môi trường: cấp phép, kiểm tra và ứng phó sự cố.",
+    icon: "🦺",
+    gradient: "from-red-500 to-orange-500",
+    accent: {
+      text: "text-red-700 dark:text-red-300",
+      bg: "bg-red-50 dark:bg-red-500/10",
+      ring: "ring-red-500/20",
+    },
+  },
+  {
+    slug: "estimating",
+    name: "Dự toán - Đấu thầu",
+    shortName: "Dự toán",
+    description:
+      "Bóc tách khối lượng, lập dự toán và chuẩn bị hồ sơ dự thầu.",
+    icon: "🧮",
+    gradient: "from-green-500 to-lime-500",
+    accent: {
+      text: "text-green-700 dark:text-green-300",
+      bg: "bg-green-50 dark:bg-green-500/10",
+      ring: "ring-green-500/20",
+    },
+  },
+  {
+    slug: "procurement",
+    name: "Vật tư - Thiết bị",
+    shortName: "Vật tư",
+    description:
+      "Mua sắm, nghiệm thu vật tư đầu vào và quản lý máy móc thiết bị công trường.",
+    icon: "🚚",
+    gradient: "from-purple-500 to-fuchsia-500",
+    accent: {
+      text: "text-purple-700 dark:text-purple-300",
+      bg: "bg-purple-50 dark:bg-purple-500/10",
+      ring: "ring-purple-500/20",
+    },
+  },
 ];
 
 const DEPARTMENT_MAP = new Map(DEPARTMENTS.map((d) => [d.slug, d]));
