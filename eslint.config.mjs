@@ -12,6 +12,11 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Prebuilt static site published at the repo root for GitHub Pages
+    // (see the deploy notes in README). These are generated artifacts.
+    "_next/**",
+    "_not-found/**",
+    "404/**",
   ]),
 ]);
 

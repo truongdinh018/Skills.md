@@ -6,6 +6,7 @@ import { getAllSkills, getSkillBySlug } from "@/lib/skills";
 import { DepartmentBadge, DifficultyBadge } from "@/components/badges";
 import { Markdown } from "@/components/markdown";
 import { SkillCard } from "@/components/skill-card";
+import { SkillActions } from "@/components/skill-actions";
 
 export function generateStaticParams() {
   return getAllSkills().map((skill) => ({ slug: skill.slug }));
@@ -75,6 +76,10 @@ export default async function SkillDetailPage({
               #{tag}
             </span>
           ))}
+        </div>
+
+        <div className="mt-5">
+          <SkillActions slug={skill.slug} raw={skill.raw} />
         </div>
       </header>
 

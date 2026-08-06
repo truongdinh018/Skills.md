@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { Search, X } from "lucide-react";
 import type { Skill } from "@/lib/skills";
 import type { Department } from "@/lib/departments";
@@ -11,15 +12,27 @@ type Props = {
   skills: Skill[];
   departments: Department[];
   initialDepartment?: string;
+  initialQuery?: string;
 };
 
 export function SkillBrowser({
   skills,
   departments,
   initialDepartment = "all",
+  initialQuery = "",
 }: Props) {
-  const [query, setQuery] = useState("");
-  const [department, setDepartment] = useState(initialDepartment);
+  // Read ?q= and ?dept= from the URL (client-side; the page wraps this in a
+  // Suspense boundary so static export bails to client rendering here).
+  const searchParams = useSearchParams();
+  const [query, setQuery] = useState(
+    () => searchParams.get("q") ?? initialQuery,
+  );
+  const [department, setDepartment] = useState(() => {
+    const dept = searchParams.get("dept");
+    return dept && departments.some((d) => d.slug === dept)
+      ? dept
+      : initialDepartment;
+  });
 
   const filtered = useMemo(() => {
     const byDept =

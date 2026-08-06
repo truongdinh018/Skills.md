@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, BookOpen, Layers, Search } from "lucide-react";
+import { ArrowRight, BookOpen, Clock, Layers, Sparkles } from "lucide-react";
 import { DEPARTMENTS } from "@/lib/departments";
 import {
   getAllSkills,
@@ -7,10 +7,14 @@ import {
   getSkillsByDepartment,
 } from "@/lib/skills";
 import { SkillCard } from "@/components/skill-card";
+import { HeroSearch } from "@/components/hero-search";
+import { DepartmentBadge } from "@/components/badges";
 
 export default function HomePage() {
   const skills = getAllSkills();
   const featured = getFeaturedSkills();
+  // getAllSkills() is already sorted by `updated` (newest first).
+  const recent = skills.slice(0, 6);
 
   return (
     <div>
@@ -33,18 +37,21 @@ export default function HomePage() {
             Chuẩn hóa quy trình và hướng dẫn công việc dưới dạng skill dễ tìm,
             dễ đọc — giúp cả công ty làm việc nhất quán và onboarding nhanh hơn.
           </p>
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+
+          <HeroSearch />
+
+          <div className="mt-5 flex flex-wrap items-center justify-center gap-3">
             <Link
               href="/skills"
-              className="inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-5 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-indigo-500"
+              className="inline-flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] px-5 py-3 text-sm font-semibold transition-colors hover:border-indigo-300"
             >
-              <Search className="h-4 w-4" /> Khám phá skill
+              Xem tất cả skill <ArrowRight className="h-4 w-4" />
             </Link>
             <Link
               href="#departments"
               className="inline-flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] px-5 py-3 text-sm font-semibold transition-colors hover:border-indigo-300"
             >
-              Xem theo phòng ban <ArrowRight className="h-4 w-4" />
+              Xem theo phòng ban
             </Link>
           </div>
 
@@ -118,6 +125,49 @@ export default function HomePage() {
             ))}
           </div>
         </div>
+      </section>
+
+      {/* Recently updated (ranked) */}
+      <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+        <div className="flex items-center gap-2">
+          <Sparkles className="h-5 w-5 text-indigo-500" />
+          <h2 className="text-2xl font-bold tracking-tight">Mới cập nhật</h2>
+        </div>
+        <p className="mt-1 text-sm text-[var(--muted)]">
+          Những skill vừa được thêm hoặc chỉnh sửa gần đây.
+        </p>
+        <ol className="mt-8 divide-y divide-[var(--border)] overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--card)]">
+          {recent.map((skill, i) => (
+            <li key={skill.slug}>
+              <Link
+                href={`/skills/${skill.slug}`}
+                className="group flex items-center gap-4 px-4 py-4 transition-colors hover:bg-[var(--background)] sm:px-6"
+              >
+                <span className="w-6 shrink-0 text-center text-lg font-bold text-[var(--muted)]">
+                  {i + 1}
+                </span>
+                <div className="min-w-0 flex-1">
+                  <div className="flex flex-wrap items-center gap-2">
+                    <h3 className="truncate font-semibold group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                      {skill.title}
+                    </h3>
+                    <DepartmentBadge
+                      department={skill.departmentInfo}
+                      asLink={false}
+                    />
+                  </div>
+                  <p className="mt-0.5 line-clamp-1 text-sm text-[var(--muted)]">
+                    {skill.summary}
+                  </p>
+                </div>
+                <span className="hidden shrink-0 items-center gap-1.5 text-xs text-[var(--muted)] sm:inline-flex">
+                  <Clock className="h-3.5 w-3.5" /> {skill.updated}
+                </span>
+                <ArrowRight className="h-4 w-4 shrink-0 text-[var(--muted)] transition-transform group-hover:translate-x-0.5 group-hover:text-indigo-500" />
+              </Link>
+            </li>
+          ))}
+        </ol>
       </section>
     </div>
   );

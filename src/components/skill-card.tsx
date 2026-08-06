@@ -22,7 +22,11 @@ export function SkillCard({ skill }: { skill: Skill }) {
         {skill.summary}
       </p>
 
-      <div className="mt-4 flex flex-wrap gap-1.5">
+      <p className="mt-3 truncate text-xs font-medium text-[var(--muted)]">
+        {skill.author}
+      </p>
+
+      <div className="mt-3 flex flex-wrap gap-1.5">
         {skill.tags.slice(0, 3).map((tag) => (
           <span
             key={tag}

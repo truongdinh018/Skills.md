@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { getAllSkills } from "@/lib/skills";
 import { DEPARTMENTS } from "@/lib/departments";
 import { SkillBrowser } from "@/components/skill-browser";
@@ -21,7 +22,11 @@ export default function SkillsPage() {
         </p>
       </header>
 
-      <SkillBrowser skills={skills} departments={DEPARTMENTS} />
+      <Suspense
+        fallback={<p className="text-sm text-[var(--muted)]">Đang tải…</p>}
+      >
+        <SkillBrowser skills={skills} departments={DEPARTMENTS} />
+      </Suspense>
     </div>
   );
 }

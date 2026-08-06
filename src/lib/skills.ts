@@ -21,6 +21,8 @@ export type SkillFrontmatter = {
 export type Skill = SkillFrontmatter & {
   slug: string;
   content: string;
+  /** The full raw file contents (frontmatter + body), for download/copy. */
+  raw: string;
   department: string;
   departmentInfo: Department;
 };
@@ -65,6 +67,7 @@ function readSkillFile(fileName: string): Skill | null {
     ...data,
     slug,
     content,
+    raw,
     departmentInfo,
   };
 }
