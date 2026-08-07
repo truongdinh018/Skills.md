@@ -10,11 +10,9 @@ export function DepartmentBadge({
   asLink?: boolean;
 }) {
   const content = (
-    <span
-      className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ring-1 ring-inset ${department.accent.bg} ${department.accent.text} ${department.accent.ring}`}
-    >
+    <span className="inline-flex items-center gap-1.5 rounded-md border border-[var(--border)] bg-[var(--surface-2)] px-2 py-0.5 font-mono text-[10px] font-medium uppercase tracking-wide text-[var(--muted)]">
       <span aria-hidden>{department.icon}</span>
-      {department.name}
+      {department.shortName}
     </span>
   );
 
@@ -31,18 +29,15 @@ export function DepartmentBadge({
 }
 
 const DIFFICULTY_STYLES: Record<Difficulty, string> = {
-  "Cơ bản":
-    "bg-emerald-50 text-emerald-700 ring-emerald-500/20 dark:bg-emerald-500/10 dark:text-emerald-300",
-  "Trung bình":
-    "bg-amber-50 text-amber-700 ring-amber-500/20 dark:bg-amber-500/10 dark:text-amber-300",
-  "Nâng cao":
-    "bg-rose-50 text-rose-700 ring-rose-500/20 dark:bg-rose-500/10 dark:text-rose-300",
+  "Cơ bản": "border-emerald-500/30 text-emerald-400",
+  "Trung bình": "border-amber-500/30 text-amber-400",
+  "Nâng cao": "border-rose-500/30 text-rose-400",
 };
 
 export function DifficultyBadge({ difficulty }: { difficulty: Difficulty }) {
   return (
     <span
-      className={`inline-flex items-center rounded-full px-2.5 py-1 text-xs font-medium ring-1 ring-inset ${DIFFICULTY_STYLES[difficulty]}`}
+      className={`inline-flex items-center rounded-md border bg-transparent px-2 py-0.5 font-mono text-[10px] font-medium ${DIFFICULTY_STYLES[difficulty]}`}
     >
       {difficulty}
     </span>

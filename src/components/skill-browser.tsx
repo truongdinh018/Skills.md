@@ -21,8 +21,6 @@ export function SkillBrowser({
   initialDepartment = "all",
   initialQuery = "",
 }: Props) {
-  // Read ?q= and ?dept= from the URL (client-side; the page wraps this in a
-  // Suspense boundary so static export bails to client rendering here).
   const searchParams = useSearchParams();
   const [query, setQuery] = useState(
     () => searchParams.get("q") ?? initialQuery,
@@ -33,27 +31,31 @@ export function SkillBrowser({
       ? dept
       : initialDepartment;
   });
+  const [agentOnly, setAgentOnly] = useState(
+    () => searchParams.get("agent") === "1",
+  );
 
   const filtered = useMemo(() => {
-    const byDept =
+    let list =
       department === "all"
         ? skills
         : skills.filter((s) => s.department === department);
-    return filterSkills(byDept, query);
-  }, [skills, department, query]);
+    if (agentOnly) list = list.filter((s) => s.hasAgentPackage);
+    return filterSkills(list, query);
+  }, [skills, department, query, agentOnly]);
 
   return (
     <div>
       <div className="flex flex-col gap-4">
         <div className="relative">
-          <Search className="pointer-events-none absolute left-3 top-1/2 h-5 w-5 -translate-y-1/2 text-[var(--muted)]" />
+          <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-[var(--muted)]" />
           <input
             type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Tìm skill theo tên, mô tả, tag..."
+            placeholder="Filter by name, tag, department…"
             aria-label="Tìm kiếm skill"
-            className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] py-3 pl-11 pr-10 text-sm outline-none transition-colors focus:border-indigo-400 focus:ring-2 focus:ring-indigo-500/20"
+            className="w-full rounded-lg border border-[var(--border)] bg-[var(--card)] py-3 pl-10 pr-10 font-mono text-sm outline-none focus:border-[var(--accent)]/50 focus:ring-1 focus:ring-[var(--accent)]/30"
           />
           {query && (
             <button
@@ -67,12 +69,12 @@ export function SkillBrowser({
           )}
         </div>
 
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap items-center gap-2">
           <FilterChip
             active={department === "all"}
             onClick={() => setDepartment("all")}
           >
-            Tất cả
+            All
           </FilterChip>
           {departments.map((dept) => (
             <FilterChip
@@ -80,25 +82,32 @@ export function SkillBrowser({
               active={department === dept.slug}
               onClick={() => setDepartment(dept.slug)}
             >
-              <span aria-hidden>{dept.icon}</span> {dept.shortName}
+              {dept.shortName}
             </FilterChip>
           ))}
+          <span className="mx-1 h-4 w-px bg-[var(--border)]" aria-hidden />
+          <FilterChip
+            active={agentOnly}
+            onClick={() => setAgentOnly((v) => !v)}
+          >
+            Agent package
+          </FilterChip>
         </div>
       </div>
 
-      <p className="mt-6 text-sm text-[var(--muted)]" aria-live="polite">
+      <p className="mt-6 font-mono text-xs text-[var(--muted)]" aria-live="polite">
         {filtered.length} skill{filtered.length === 1 ? "" : "s"}
       </p>
 
       {filtered.length > 0 ? (
-        <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {filtered.map((skill) => (
             <SkillCard key={skill.slug} skill={skill} />
           ))}
         </div>
       ) : (
-        <div className="mt-4 rounded-2xl border border-dashed border-[var(--border)] p-10 text-center text-[var(--muted)]">
-          Không tìm thấy skill nào phù hợp. Thử từ khóa khác nhé.
+        <div className="mt-4 rounded-xl border border-dashed border-[var(--border)] p-10 text-center font-mono text-sm text-[var(--muted)]">
+          No skills matched. Try another query.
         </div>
       )}
     </div>
@@ -119,9 +128,9 @@ function FilterChip({
       type="button"
       onClick={onClick}
       aria-pressed={active}
-      className={`inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-sm font-medium transition-colors ${
+      className={`inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 font-mono text-xs font-medium transition-colors ${
         active
-          ? "bg-indigo-600 text-white shadow-sm"
+          ? "bg-[var(--accent)] text-[var(--accent-fg)]"
           : "bg-[var(--card)] text-[var(--muted)] ring-1 ring-inset ring-[var(--border)] hover:text-[var(--foreground)]"
       }`}
     >

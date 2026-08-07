@@ -17,7 +17,7 @@ export function SkillActions({ slug, raw }: Props) {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch {
-      // Clipboard may be unavailable (e.g. insecure context); ignore.
+      // ignore
     }
   }
 
@@ -38,24 +38,24 @@ export function SkillActions({ slug, raw }: Props) {
       <button
         type="button"
         onClick={copy}
-        className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border)] bg-[var(--card)] px-3 py-1.5 text-sm font-medium transition-colors hover:border-indigo-300"
+        className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border)] bg-[var(--card)] px-3 py-1.5 font-mono text-xs font-medium transition-colors hover:border-[var(--accent)]/40"
       >
         {copied ? (
           <>
-            <Check className="h-4 w-4 text-emerald-600" /> Đã sao chép
+            <Check className="h-3.5 w-3.5 text-[var(--accent)]" /> Copied
           </>
         ) : (
           <>
-            <Copy className="h-4 w-4" /> Sao chép Markdown
+            <Copy className="h-3.5 w-3.5" /> Copy Markdown
           </>
         )}
       </button>
       <button
         type="button"
         onClick={download}
-        className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border)] bg-[var(--card)] px-3 py-1.5 text-sm font-medium transition-colors hover:border-indigo-300"
+        className="inline-flex items-center gap-1.5 rounded-lg border border-[var(--border)] bg-[var(--card)] px-3 py-1.5 font-mono text-xs font-medium transition-colors hover:border-[var(--accent)]/40"
       >
-        <Download className="h-4 w-4" /> Tải .md
+        <Download className="h-3.5 w-3.5" /> Download .md
       </button>
     </div>
   );

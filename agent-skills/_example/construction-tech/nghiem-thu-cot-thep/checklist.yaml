@@ -1,0 +1,112 @@
+sop_slug: "nghiem-thu-cot-thep"
+department: "construction-tech"
+version: "1.0.0"
+updated: "2026-08-04"
+
+hold_points:
+  - id: HP-01
+    description: "Ký biên bản nghiệm thu cốt thép trước khi đổ bê tông"
+    requires_items:
+      - "CHK-REBAR-01"
+      - "CHK-REBAR-02"
+      - "CHK-REBAR-03"
+      - "CHK-REBAR-04"
+      - "CHK-FORM-01"
+      - "CHK-FORM-02"
+      - "CHK-FORM-03"
+      - "CHK-FORM-04"
+      - "CHK-PROC-03"
+    evidence:
+      - "bien-ban-nghiem-thu-cot-thep-ky"
+
+items:
+  - id: CHK-REBAR-01
+    section: "Kiểm tra cốt thép"
+    text: "Đúng đường kính, số lượng, khoảng cách theo bản vẽ"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+      - "doi-chieu-ban-ve"
+    hold_point: false
+
+  - id: CHK-REBAR-02
+    section: "Kiểm tra cốt thép"
+    text: "Chiều dài neo, nối chồng đạt yêu cầu"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+      - "doi-chieu-ban-ve"
+    hold_point: false
+
+  - id: CHK-REBAR-03
+    section: "Kiểm tra cốt thép"
+    text: "Buộc chắc chắn, không xê dịch khi đổ"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-REBAR-04
+    section: "Kiểm tra cốt thép"
+    text: "Con kê bảo đảm chiều dày lớp bảo vệ"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-FORM-01
+    section: "Kiểm tra cốp pha & chi tiết chờ"
+    text: "Cốp pha kín khít, chống đỡ ổn định"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-FORM-02
+    section: "Kiểm tra cốp pha & chi tiết chờ"
+    text: "Kích thước hình học, cao độ, tim trục đúng"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+      - "bien-ban-do"
+    hold_point: false
+
+  - id: CHK-FORM-03
+    section: "Kiểm tra cốp pha & chi tiết chờ"
+    text: "Chi tiết chờ (ống, giằng, bu lông) đúng vị trí"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-FORM-04
+    section: "Kiểm tra cốp pha & chi tiết chờ"
+    text: "Vệ sinh sạch trong cốp pha, tưới ẩm nếu cần"
+    severity: must
+    evidence:
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-PROC-01
+    section: "Trình tự nghiệm thu"
+    text: "Nhà thầu đã tự kiểm tra và mời nghiệm thu"
+    severity: should
+    evidence: []
+    hold_point: false
+
+  - id: CHK-PROC-02
+    section: "Trình tự nghiệm thu"
+    text: "Kỹ thuật + QA/QC + TVGS đã kiểm tra hiện trường"
+    severity: must
+    evidence:
+      - "danh-sach-tham-du"
+      - "bien-ban-nghiem-thu-cot-thep-ky"
+    hold_point: false
+
+  - id: CHK-PROC-03
+    section: "Trình tự nghiệm thu"
+    text: "Biên bản nghiệm thu cốt thép đã được ký duyệt trước khi đổ"
+    severity: must
+    evidence:
+      - "bien-ban-nghiem-thu-cot-thep-ky"
+    hold_point: true

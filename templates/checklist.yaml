@@ -1,0 +1,43 @@
+# Machine-readable checklist for Agent Skill modes: check + comply
+# Copy vào agent-skills/<department>/<slug>/checklist.yaml và điền thật.
+#
+# severity trên từng mục (tuỳ chọn): blocker | major | minor
+#   - must + blocker  → thiếu = NON_COMPLIANT
+#   - must + major    → thiếu = tối thiểu PARTIAL (thường NON_COMPLIANT nếu hold point)
+#   - should          → thiếu không chặn COMPLIANT nếu mọi must đạt
+
+sop_slug: "ten-sop-slug" # khớp tên folder / content/skills/<slug>.md
+department: "engineering" # slug phòng ban
+version: "1.0.0"
+updated: "2026-08-07"
+
+# Hold points: id tham chiếu tới item bên dưới hoặc mô tả độc lập
+hold_points:
+  - id: HP-01
+    description: "Mô tả điểm dừng bắt buộc"
+    requires_items: ["CHK-01", "CHK-02"] # mọi item listed phải pass
+    evidence: ["bien-ban-ky"]
+
+items:
+  - id: CHK-01
+    section: "Nhóm kiểm tra A"
+    text: "Mô tả mục kiểm tra (khẳng định, quan sát được)"
+    severity: must # must | should
+    evidence: # loại bằng chứng chấp nhận (để trống nếu chỉ quan sát)
+      - "anh-hien-truong"
+    hold_point: false
+
+  - id: CHK-02
+    section: "Nhóm kiểm tra A"
+    text: "Mục kiểm tra thứ hai"
+    severity: must
+    evidence:
+      - "bien-ban-ky"
+    hold_point: true # true = thuộc hold point; thiếu evidence → NON_COMPLIANT
+
+  - id: CHK-03
+    section: "Nhóm kiểm tra B"
+    text: "Mục nên có nhưng không chặn nếu thiếu (should)"
+    severity: should
+    evidence: []
+    hold_point: false

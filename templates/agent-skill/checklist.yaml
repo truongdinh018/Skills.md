@@ -1,0 +1,29 @@
+# Machine-readable checklist — copy & rename theo SOP thật
+# Xem templates/checklist.yaml để biết schema đầy đủ.
+
+sop_slug: "sop-slug"
+department: "engineering"
+version: "1.0.0"
+updated: "2026-08-07"
+
+hold_points:
+  - id: HP-01
+    description: "Hold point mẫu"
+    requires_items: ["CHK-01"]
+    evidence: ["bien-ban-ky"]
+
+items:
+  - id: CHK-01
+    section: "Nhóm A"
+    text: "Mục must mẫu"
+    severity: must
+    evidence:
+      - "bien-ban-ky"
+    hold_point: true
+
+  - id: CHK-02
+    section: "Nhóm A"
+    text: "Mục should mẫu"
+    severity: should
+    evidence: []
+    hold_point: false

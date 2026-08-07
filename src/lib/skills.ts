@@ -25,6 +25,10 @@ export type Skill = SkillFrontmatter & {
   raw: string;
   department: string;
   departmentInfo: Department;
+  /** Optional hub fields (not required by loader). */
+  modes: ("guide" | "check" | "comply")[];
+  /** True when agent-skills/<dept>/<slug> or _example twin exists. */
+  hasAgentPackage: boolean;
 };
 
 const SKILLS_DIR = path.join(process.cwd(), "content", "skills");
@@ -42,6 +46,32 @@ function isSkillFrontmatter(data: unknown): data is SkillFrontmatter {
     typeof d.updated === "string" &&
     typeof d.readingTime === "string"
   );
+}
+
+function parseModes(data: Record<string, unknown>): ("guide" | "check" | "comply")[] {
+  const raw = data.modes;
+  if (!Array.isArray(raw)) return ["guide", "check", "comply"];
+  const allowed = new Set(["guide", "check", "comply"]);
+  const modes = raw.filter(
+    (m): m is "guide" | "check" | "comply" =>
+      typeof m === "string" && allowed.has(m),
+  );
+  return modes.length > 0 ? modes : ["guide", "check", "comply"];
+}
+
+function agentPackageExists(department: string, slug: string): boolean {
+  const candidates = [
+    path.join(process.cwd(), "agent-skills", department, slug, "SKILL.md"),
+    path.join(
+      process.cwd(),
+      "agent-skills",
+      "_example",
+      department,
+      slug,
+      "SKILL.md",
+    ),
+  ];
+  return candidates.some((p) => fs.existsSync(p));
 }
 
 function readSkillFile(fileName: string): Skill | null {
@@ -63,12 +93,16 @@ function readSkillFile(fileName: string): Skill | null {
     );
   }
 
+  const dataRec = data as Record<string, unknown>;
+
   return {
     ...data,
     slug,
     content,
     raw,
     departmentInfo,
+    modes: parseModes(dataRec),
+    hasAgentPackage: agentPackageExists(data.department, slug),
   };
 }
 

@@ -72,3 +72,25 @@ describe("search", () => {
     expect(result.some((s) => s.slug === "code-review-hieu-qua")).toBe(true);
   });
 });
+
+describe("agent skills packages", () => {
+  it("discovers example packages under agent-skills/", async () => {
+    const { getAllAgentPackages, getAgentPackageForHubSkill } = await import(
+      "./agent-skills"
+    );
+    const pkgs = getAllAgentPackages();
+    expect(pkgs.length).toBeGreaterThan(0);
+    const rebar = getAgentPackageForHubSkill(
+      "construction-tech",
+      "nghiem-thu-cot-thep",
+    );
+    expect(rebar?.name).toBe("construction-tech-nghiem-thu-cot-thep");
+    expect(rebar?.hasChecklist).toBe(true);
+  });
+
+  it("marks hub skills that have an agent package", () => {
+    const skill = getSkillBySlug("nghiem-thu-cot-thep");
+    expect(skill?.hasAgentPackage).toBe(true);
+    expect(skill?.modes.length).toBeGreaterThan(0);
+  });
+});

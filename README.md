@@ -1,92 +1,97 @@
-# Skills.md — Skills Hub
+# SkillsHub — Marketplace SOP & Agent Skills
 
-Website nội bộ để **lưu trữ và chia sẻ skill** (quy trình, hướng dẫn công việc)
-cho các phòng ban trong công ty. Mỗi skill là một file Markdown, được phân loại
-theo phòng ban, có tìm kiếm và lọc.
+Marketplace nội bộ để **duyệt, cài và chạy SOP theo phòng ban** trên mọi AI agent
+(Cursor, Claude Code, Copilot…).
 
-Ý tưởng lấy cảm hứng từ các trang web chuyên cung cấp "skill/playbook" nội bộ:
-skill được viết bằng Markdown, có metadata (phòng ban, độ khó, tag, thời gian
-đọc) và hiển thị dưới dạng thư viện dễ duyệt.
+**Live:** [https://truongdinh018.github.io/Skills.md/](https://truongdinh018.github.io/Skills.md/)
+
+UX lấy cảm hứng từ [skills.sh](https://www.skills.sh/), [skills-hub.ai](https://skills-hub.ai/),
+[agentskill.sh](https://agentskill.sh/) — nội dung là quy trình công ty (tiếng Việt).
 
 ## Tính năng
 
-- Trang chủ với thống kê, danh sách phòng ban và skill nổi bật.
-- Trang **Tất cả skill** với tìm kiếm (không phân biệt dấu tiếng Việt) và lọc
-  theo phòng ban.
-- Trang chi tiết skill render Markdown (bảng, checklist, code block…).
-- Trang theo từng phòng ban.
+| Khu vực | Mô tả |
+|--------|--------|
+| Marketplace | Browse, Categories, search (không phân biệt dấu), leaderboard cập nhật |
+| Hub SOP | Markdown + frontmatter theo phòng ban |
+| Agent Skills | Package `SKILL.md` với 3 mode: **guide** · **check** · **comply** |
+| Install | Copy lệnh cài Cursor / Claude ngay trên trang skill |
+| Templates | Khung chung cho mọi phòng ban (`templates/`) |
 
-## Công nghệ
+## Stack
 
-- [Next.js 16](https://nextjs.org/) (App Router) + React 19 + TypeScript
-- Tailwind CSS 4 + `@tailwindcss/typography`
-- Nội dung: Markdown + frontmatter (`gray-matter`), render bằng
-  `react-markdown` + `remark-gfm`
-- Test: [Vitest](https://vitest.dev/)
+Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Vitest · GitHub Pages
 
-## Bắt đầu
+## Quick start
 
 ```bash
-npm install      # cài dependencies
-npm run dev      # chạy dev server tại http://localhost:3000
+npm install
+npm run dev      # http://localhost:3000
+npm test
 ```
 
-Các lệnh khác:
+## Cấu trúc
 
-```bash
-npm run lint     # kiểm tra ESLint
-npm test         # chạy unit test (Vitest)
-npm run build    # build production
-npm start        # chạy bản production sau khi build
+```
+content/skills/                 # SOP trên hub (người đọc)
+templates/                      # human-sop, checklist.yaml, agent-skill/
+agent-skills/                   # package cài được
+  _shared/compliance-rubric.md
+  _example/construction-tech/nghiem-thu-cot-thep/
+docs/SOP-AGENT-FRAMEWORK.md     # hướng dẫn phòng ban
+src/app/                        # UI marketplace
 ```
 
-## Thêm một skill mới
+## Thêm SOP (hub)
 
-Tạo một file Markdown trong `content/skills/<slug>.md` với frontmatter:
+Copy [`templates/human-sop.md`](templates/human-sop.md) → `content/skills/<slug>.md`.
+
+`department` phải là slug trong [`src/lib/departments.ts`](src/lib/departments.ts).
 
 ```markdown
 ---
-title: "Tên skill"
-department: "engineering"   # slug phòng ban, xem src/lib/departments.ts
+title: "Tên SOP"
+department: "construction-tech"
 summary: "Mô tả ngắn."
-tags: ["tag1", "tag2"]
-difficulty: "Cơ bản"        # Cơ bản | Trung bình | Nâng cao
-author: "Tên tác giả"
-updated: "2026-07-30"
-readingTime: "5 phút"
-featured: true              # (tùy chọn) hiển thị ở mục nổi bật
+tags: ["tag1"]
+difficulty: "Trung bình"   # Cơ bản | Trung bình | Nâng cao
+author: "Phòng …"
+updated: "2026-08-07"
+readingTime: "6 phút"
+featured: false
+modes: ["guide", "check", "comply"]
 ---
-
-Nội dung Markdown của skill...
 ```
 
-Danh sách phòng ban được định nghĩa trong [`src/lib/departments.ts`](src/lib/departments.ts).
+## Agent Skill (AI)
 
-## Deploy lên GitHub Pages
+Chi tiết: [`docs/SOP-AGENT-FRAMEWORK.md`](docs/SOP-AGENT-FRAMEWORK.md).
 
-Trang web được deploy tự động lên **GitHub Pages** bằng GitHub Actions
-([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)).
+```bash
+# Cài ví dụ nghiệm thu cốt thép vào Cursor
+cp -R agent-skills/_example/construction-tech/nghiem-thu-cot-thep \
+  ~/.cursor/skills/construction-tech-nghiem-thu-cot-thep
+```
 
-Bật một lần trong repo: **Settings → Pages → Source: GitHub Actions**
-(workflow cũng thử bật tự động qua `enablement: true`, nhưng một số tổ chức
-chặn nên có thể cần bật thủ công).
+Sau đó trong agent: *“Hướng dẫn nghiệm thu cốt thép”* / *“Kiểm tra checklist…”* / *“Chấm tuân thủ…”*.
 
-Sau đó, mỗi lần push lên `main`, workflow sẽ:
+## Deploy GitHub Pages
 
-1. `npm ci` để cài dependencies.
-2. Build **static export** với `BUILD_STATIC_EXPORT=true` và `PAGES_BASE_PATH`
-   trỏ tới `/<tên-repo>` (ví dụ `/Skills.md`), tạo ra thư mục `out/`.
-3. Upload `out/` và deploy lên Pages.
+Mỗi push `main` chạy [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml):
 
-Trang sẽ có tại: `https://<username>.github.io/<tên-repo>/`
-(ví dụ `https://truongdinh018.github.io/Skills.md/`).
+1. `npm ci` → `npm test`
+2. Static export với `BUILD_STATIC_EXPORT=true` và `PAGES_BASE_PATH=/Skills.md`
+3. Deploy artifact `out/` lên Pages
 
-Build static export cục bộ để kiểm tra:
+Bật: **Settings → Pages → Source: GitHub Actions**.
+
+Build local:
 
 ```bash
 BUILD_STATIC_EXPORT=true PAGES_BASE_PATH=/Skills.md npm run build
-# Kết quả nằm trong ./out (đây là site tĩnh sẽ deploy)
+# → ./out
 ```
 
-> Lưu ý: khi bật static export, `npm start` (`next start`) không dùng được —
-> hãy serve thư mục `out/` bằng static server bất kỳ.
+## License
+
+Nội bộ trừ khi chủ repo quy định khác.

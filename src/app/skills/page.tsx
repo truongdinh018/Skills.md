@@ -5,8 +5,8 @@ import { DEPARTMENTS } from "@/lib/departments";
 import { SkillBrowser } from "@/components/skill-browser";
 
 export const metadata: Metadata = {
-  title: "Tất cả skill",
-  description: "Tìm kiếm và lọc toàn bộ skill theo phòng ban.",
+  title: "Browse skills",
+  description: "Marketplace: tìm kiếm và lọc skill theo phòng ban / agent package.",
 };
 
 export default function SkillsPage() {
@@ -15,15 +15,21 @@ export default function SkillsPage() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
       <header className="mb-8">
-        <h1 className="text-3xl font-bold tracking-tight">Tất cả skill</h1>
-        <p className="mt-2 text-[var(--muted)]">
-          Tìm kiếm theo từ khóa hoặc lọc theo phòng ban để tìm đúng quy trình
-          bạn cần.
+        <p className="font-mono text-xs uppercase tracking-widest text-[var(--accent)]">
+          Marketplace
+        </p>
+        <h1 className="mt-2 text-3xl font-bold tracking-tight">Browse skills</h1>
+        <p className="mt-2 max-w-2xl text-sm text-[var(--muted)]">
+          Search không phân biệt dấu tiếng Việt. Bật filter{" "}
+          <span className="font-mono text-[var(--accent)]">Agent package</span>{" "}
+          để chỉ thấy SOP đã có SKILL.md cài được.
         </p>
       </header>
 
       <Suspense
-        fallback={<p className="text-sm text-[var(--muted)]">Đang tải…</p>}
+        fallback={
+          <p className="font-mono text-sm text-[var(--muted)]">Loading…</p>
+        }
       >
         <SkillBrowser skills={skills} departments={DEPARTMENTS} />
       </Suspense>

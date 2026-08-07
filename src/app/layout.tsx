@@ -1,35 +1,35 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const display = Space_Grotesk({
+  variable: "--font-display",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const mono = JetBrains_Mono({
+  variable: "--font-mono",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
   title: {
-    default: "Skills Hub — Thư viện kỹ năng nội bộ",
-    template: "%s · Skills Hub",
+    default: "SkillsHub — Marketplace SOP & Agent Skills",
+    template: "%s · SkillsHub",
   },
   description:
-    "Thư viện lưu trữ và chia sẻ skill (quy trình, hướng dẫn) cho các phòng ban trong công ty.",
+    "Marketplace nội bộ: duyệt, cài và chạy SOP phòng ban trên mọi AI agent (Cursor, Claude Code, Copilot).",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="vi"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${display.variable} ${mono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="flex min-h-full flex-col">
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
