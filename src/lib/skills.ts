@@ -61,6 +61,13 @@ function parseModes(data: Record<string, unknown>): ("guide" | "check" | "comply
 
 function agentPackageExists(department: string, slug: string): boolean {
   const candidates = [
+    path.join(
+      process.cwd(),
+      "skills",
+      `${department}-${slug}`,
+      "SKILL.md",
+    ),
+    path.join(process.cwd(), "skills", slug, "SKILL.md"),
     path.join(process.cwd(), "agent-skills", department, slug, "SKILL.md"),
     path.join(
       process.cwd(),

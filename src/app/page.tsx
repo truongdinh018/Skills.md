@@ -51,6 +51,13 @@ export default function HomePage() {
               Browse skills <ArrowRight className="h-4 w-4" />
             </Link>
             <Link
+              href="/install"
+              className="inline-flex items-center gap-2 rounded-lg border border-[var(--border)] bg-[var(--card)] px-4 py-2.5 font-mono text-sm text-[var(--foreground)] hover:border-[var(--accent)]/40"
+            >
+              <Terminal className="h-4 w-4 text-[var(--accent)]" />
+              Install (1 command)
+            </Link>
+            <Link
               href="/agent-skills"
               className="inline-flex items-center gap-2 rounded-lg border border-[var(--border)] bg-[var(--card)] px-4 py-2.5 font-mono text-sm text-[var(--foreground)] hover:border-[var(--accent)]/40"
             >
@@ -79,7 +86,7 @@ export default function HomePage() {
           <Step
             n="02"
             title="Install"
-            body="Copy lệnh cài vào ~/.cursor/skills hoặc ~/.claude/skills — cả team dùng chung."
+            body="npx skills add … hoặc paste prompt cho AI (kiểu agentskill.sh) — skill vào đúng thư mục agent."
           />
           <Step
             n="03"

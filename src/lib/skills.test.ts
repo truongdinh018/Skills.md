@@ -86,6 +86,30 @@ describe("agent skills packages", () => {
     );
     expect(rebar?.name).toBe("construction-tech-nghiem-thu-cot-thep");
     expect(rebar?.hasChecklist).toBe(true);
+    expect(rebar?.packagePath).toBe(
+      "skills/construction-tech-nghiem-thu-cot-thep",
+    );
+  });
+
+  it("exposes agentskill.sh-style CLI install commands", async () => {
+    const {
+      getAgentPackageBySlug,
+      skillsCliInstallCommand,
+      aiInstallPrompt,
+      SKILLSHUB_REPO,
+    } = await import("./agent-skills");
+    const pkg = getAgentPackageBySlug("construction-tech-nghiem-thu-cot-thep");
+    expect(pkg).toBeTruthy();
+    const cmd = skillsCliInstallCommand(pkg!);
+    expect(cmd).toContain(`npx skills add ${SKILLSHUB_REPO}`);
+    expect(cmd).toContain("-s construction-tech-nghiem-thu-cot-thep");
+    expect(aiInstallPrompt(pkg!)).toContain("guide | check | comply");
+  });
+
+  it("publishes skillshub meta skill", async () => {
+    const { getAgentPackageBySlug } = await import("./agent-skills");
+    const meta = getAgentPackageBySlug("skillshub");
+    expect(meta?.packagePath).toBe("skills/skillshub");
   });
 
   it("marks hub skills that have an agent package", () => {

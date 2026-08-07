@@ -34,7 +34,7 @@ DEPT=construction-tech
 SLUG=nghiem-thu-cot-thep
 
 mkdir -p "agent-skills/$DEPT/$SLUG/references" "agent-skills/$DEPT/$SLUG/examples"
-cp templates/agent-skill/SKILL.md "agent-skills/$DEPT/$SLUG/"
+cp templates/agent-skill/SKILL.md.template "agent-skills/$DEPT/$SLUG/SKILL.md"
 cp templates/checklist.yaml "agent-skills/$DEPT/$SLUG/"
 cp "content/skills/$SLUG.md" "agent-skills/$DEPT/$SLUG/references/sop.md"
 cp agent-skills/_shared/compliance-rubric.md \
@@ -75,13 +75,16 @@ cp -R agent-skills/<dept>/<slug> ~/.claude/skills/<dept>-<slug>
 
 Copy cùng folder `SKILL.md` vào thư mục skills của tool (xem docs tool). Nguyên tắc: **một thư mục = một skill**, có `SKILL.md` ở gốc.
 
-### Khi repo đã public trên GitHub
+### Khi repo đã public trên GitHub (kiểu agentskill.sh)
+
+Publish bản cài vào `skills/<dept>-<slug>/` (có `SKILL.md`), rồi:
 
 ```bash
-npx skills add <owner>/<repo> --skill <dept>-<slug>
+npx skills add truongdinh018/Skills.md -s <dept>-<slug> -a '*' -g -y
+# hoặc paste prompt từ trang /install vào AI
 ```
 
-(Đường dẫn skill phụ thuộc CLI; với package nằm trong `agent-skills/…` có thể cần copy local cho đến khi cấu hình publish.)
+Meta skill: `-s skillshub`.
 
 ## Bước 4 — Dùng 3 mode (câu mẫu)
 

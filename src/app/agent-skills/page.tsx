@@ -3,9 +3,12 @@ import Link from "next/link";
 import { Bot } from "lucide-react";
 import {
   getAllAgentPackages,
+  skillsCliSetupAllCommand,
   type AgentSkillPackage,
 } from "@/lib/agent-skills";
 import { InstallPanel } from "@/components/install-panel";
+import { CopyCommand } from "@/components/copy-command";
+import { getSkillBySlug } from "@/lib/skills";
 
 export const metadata: Metadata = {
   title: "Agent Skills",
@@ -27,9 +30,29 @@ export default function AgentSkillsPage() {
           Agent Skills
         </h1>
         <p className="mt-3 max-w-2xl text-sm text-[var(--muted)]">
-          Mỗi package là một SOP đóng gói chuẩn Agent Skills. Nhân sự phòng ban
-          cài cùng lệnh — AI hướng dẫn, kiểm tra checklist và chấm tuân thủ.
+          Mỗi package là một SOP đóng gói chuẩn Agent Skills. Cài một lệnh như{" "}
+          <a
+            href="https://agentskill.sh/"
+            className="text-[var(--accent)] hover:underline"
+            target="_blank"
+            rel="noreferrer"
+          >
+            agentskill.sh
+          </a>{" "}
+          — AI hướng dẫn, kiểm tra checklist và chấm tuân thủ.
         </p>
+        <div className="mt-5 max-w-2xl">
+          <CopyCommand
+            command={skillsCliSetupAllCommand()}
+            label="Install all"
+          />
+          <Link
+            href="/install"
+            className="mt-2 inline-block font-mono text-xs text-[var(--accent)] hover:underline"
+          >
+            Full install guide →
+          </Link>
+        </div>
       </header>
 
       {packages.length === 0 ? (
@@ -89,12 +112,14 @@ function AgentPackageCard({ pkg }: { pkg: AgentSkillPackage }) {
       <div className="mt-4">
         <InstallPanel pkg={pkg} compact />
       </div>
-      <Link
-        href={`/skills/${pkg.slug}`}
-        className="mt-3 inline-block font-mono text-xs text-[var(--accent)] hover:underline"
-      >
-        Xem SOP trên hub →
-      </Link>
+      {getSkillBySlug(pkg.slug) && (
+        <Link
+          href={`/skills/${pkg.slug}`}
+          className="mt-3 inline-block font-mono text-xs text-[var(--accent)] hover:underline"
+        >
+          Xem SOP trên hub →
+        </Link>
+      )}
     </div>
   );
 }

@@ -6,9 +6,11 @@ import { Check, Copy } from "lucide-react";
 type Props = {
   command: string;
   label?: string;
+  /** Prompt / multi-line — omit the `$ ` shell prefix. */
+  multiline?: boolean;
 };
 
-export function CopyCommand({ command, label }: Props) {
+export function CopyCommand({ command, label, multiline = false }: Props) {
   const [copied, setCopied] = useState(false);
 
   async function copy() {
@@ -29,8 +31,14 @@ export function CopyCommand({ command, label }: Props) {
         </div>
       )}
       <div className="flex items-stretch gap-0">
-        <pre className="flex-1 overflow-x-auto px-3 py-3 font-mono text-xs leading-relaxed text-[var(--accent)] sm:text-sm">
-          <code>$ {command}</code>
+        <pre
+          className={`flex-1 overflow-x-auto px-3 py-3 font-mono text-xs leading-relaxed text-[var(--accent)] sm:text-sm ${
+            multiline ? "max-h-48 whitespace-pre-wrap" : ""
+          }`}
+        >
+          <code>
+            {multiline ? command : `$ ${command}`}
+          </code>
         </pre>
         <button
           type="button"

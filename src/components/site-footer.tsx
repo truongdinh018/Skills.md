@@ -18,6 +18,9 @@ export function SiteFooter() {
           <Link href="/skills" className="hover:text-[var(--accent)]">
             Browse
           </Link>
+          <Link href="/install" className="hover:text-[var(--accent)]">
+            Install
+          </Link>
           <Link href="/agent-skills" className="hover:text-[var(--accent)]">
             Agent Skills
           </Link>

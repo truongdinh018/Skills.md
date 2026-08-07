@@ -5,6 +5,7 @@ const NAV = [
   { href: "/skills", label: "Browse" },
   { href: "/#categories", label: "Categories" },
   { href: "/agent-skills", label: "Agent Skills" },
+  { href: "/install", label: "Install" },
   { href: "/docs/framework", label: "Docs" },
 ];
 
@@ -35,10 +36,10 @@ export function SiteHeader() {
         </nav>
 
         <Link
-          href="/skills"
+          href="/install"
           className="rounded-md bg-[var(--accent)] px-3 py-1.5 font-mono text-xs font-semibold text-[var(--accent-fg)] transition-opacity hover:opacity-90"
         >
-          Browse skills
+          Install
         </Link>
       </div>
     </header>

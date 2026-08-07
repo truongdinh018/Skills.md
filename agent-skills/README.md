@@ -31,7 +31,13 @@ agent-skills/
 
 ## Cài nhanh (ví dụ mẫu)
 
-Sao chép package vào thư mục skill của agent, ví dụ Cursor:
+Published cho CLI (kiểu [agentskill.sh](https://agentskill.sh/)): `skills/<install-id>/`.
+
+```bash
+npx skills add truongdinh018/Skills.md -s construction-tech-nghiem-thu-cot-thep -a '*' -g -y
+```
+
+Hoặc sao chép từ example trong repo:
 
 ```bash
 mkdir -p ~/.cursor/skills

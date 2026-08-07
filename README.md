@@ -15,7 +15,7 @@ UX lấy cảm hứng từ [skills.sh](https://www.skills.sh/), [skills-hub.ai](
 | Marketplace | Browse, Categories, search (không phân biệt dấu), leaderboard cập nhật |
 | Hub SOP | Markdown + frontmatter theo phòng ban |
 | Agent Skills | Package `SKILL.md` với 3 mode: **guide** · **check** · **comply** |
-| Install | Copy lệnh cài Cursor / Claude ngay trên trang skill |
+| Install | `npx skills add` / paste prompt AI / degit — kiểu [agentskill.sh](https://agentskill.sh/) |
 | Templates | Khung chung cho mọi phòng ban (`templates/`) |
 
 ## Stack
@@ -34,12 +34,13 @@ npm test
 
 ```
 content/skills/                 # SOP trên hub (người đọc)
+skills/<install-id>/            # Agent Skill published (CLI: npx skills add)
 templates/                      # human-sop, checklist.yaml, agent-skill/
-agent-skills/                   # package cài được
+agent-skills/                   # nguồn / example packages
   _shared/compliance-rubric.md
   _example/construction-tech/nghiem-thu-cot-thep/
 docs/SOP-AGENT-FRAMEWORK.md     # hướng dẫn phòng ban
-src/app/                        # UI marketplace
+src/app/                        # UI marketplace (+ /install)
 ```
 
 ## Thêm SOP (hub)
@@ -65,15 +66,23 @@ modes: ["guide", "check", "comply"]
 
 ## Agent Skill (AI)
 
-Chi tiết: [`docs/SOP-AGENT-FRAMEWORK.md`](docs/SOP-AGENT-FRAMEWORK.md).
+Chi tiết: [`docs/SOP-AGENT-FRAMEWORK.md`](docs/SOP-AGENT-FRAMEWORK.md) · UI: [/install](https://truongdinh018.github.io/Skills.md/install/).
 
 ```bash
-# Cài ví dụ nghiệm thu cốt thép vào Cursor
-cp -R agent-skills/_example/construction-tech/nghiem-thu-cot-thep \
+# Meta — dạy AI cách cài thêm SOP (kiểu agentskill.sh)
+npx skills add truongdinh018/Skills.md -s skillshub -a '*' -g -y
+
+# Một SOP
+npx skills add truongdinh018/Skills.md -s construction-tech-nghiem-thu-cot-thep -a '*' -g -y
+
+# Fallback
+npx degit truongdinh018/Skills.md/skills/construction-tech-nghiem-thu-cot-thep \
   ~/.cursor/skills/construction-tech-nghiem-thu-cot-thep
 ```
 
-Sau đó trong agent: *“Hướng dẫn nghiệm thu cốt thép”* / *“Kiểm tra checklist…”* / *“Chấm tuân thủ…”*.
+Hoặc paste prompt từ trang **Install** vào Cursor/Claude — agent tự chạy lệnh.
+
+Sau đó: *“Hướng dẫn nghiệm thu cốt thép”* / *“Kiểm tra checklist…”* / *“Chấm tuân thủ…”*.
 
 ## Deploy GitHub Pages
 
