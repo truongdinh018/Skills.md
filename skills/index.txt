@@ -1,0 +1,1998 @@
+1:"$Sreact.fragment"
+2:I[22016,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],""]
+3:I[5014,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"default"]
+4:I[39756,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"default"]
+5:I[37457,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"default"]
+c:I[68027,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"default",1]
+:HL["/Skills.md/_next/static/chunks/41t4nt270r_uq.css","style"]
+:HL["/Skills.md/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Skills.md/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","skills",""],"q":"","i":false,"f":[[["",{"children":["skills",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Skills.md/_next/static/chunks/41t4nt270r_uq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/Skills.md/_next/static/chunks/0do-rrmaskjy7.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"space_grotesk_2a795aec-module__ktxwjW__variable jetbrains_mono_13fc341d-module__lMjmPq__variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","header",null,{"className":"sticky top-0 z-40 border-b border-[var(--border)] bg-[var(--background)]/85 backdrop-blur-md","children":["$","div",null,{"className":"mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6","children":[["$","$L2",null,{"href":"/","className":"group flex items-center gap-2.5","children":[["$","span",null,{"className":"flex h-8 w-8 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--card)] font-mono text-sm text-[var(--accent)]","children":["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"M12 19h8","key":"baeox8"}],["path",{"d":"m4 17 6-6-6-6","key":"1yngyt"}]],"className":"lucide-terminal h-4 w-4"}]}],["$","span",null,{"className":"font-mono text-sm font-semibold tracking-tight","children":[["$","span",null,{"className":"text-[var(--muted)]","children":">_"}],"skills",["$","span",null,{"className":"text-[var(--accent)]","children":"hub"}]]}]]}],["$","nav",null,{"className":"hidden items-center gap-1 text-sm font-medium md:flex","children":[["$","$L2","/skills",{"href":"/skills","className":"rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-[var(--card)] hover:text-[var(--foreground)]","children":"Browse"}],["$","$L2","/#categories",{"href":"/#categories","className":"rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-[var(--card)] hover:text-[var(--foreground)]","children":"Categories"}],["$","$L2","/agent-skills",{"href":"/agent-skills","className":"rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-[var(--card)] hover:text-[var(--foreground)]","children":"Agent Skills"}],["$","$L2","/docs/framework",{"href":"/docs/framework","className":"rounded-md px-3 py-1.5 text-[var(--muted)] transition-colors hover:bg-[var(--card)] hover:text-[var(--foreground)]","children":"Docs"}]]}],["$","$L2",null,{"href":"/skills","className":"rounded-md bg-[var(--accent)] px-3 py-1.5 font-mono text-xs font-semibold text-[var(--accent-fg)] transition-opacity hover:opacity-90","children":"Browse skills"}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface-2)]","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col gap-4 px-4 py-10 sm:flex-row sm:items-center sm:justify-between sm:px-6","children":["$L6","$L7"]}]}]]}]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"cdyRAmUAvBt54MjAaQpmU"}
+e:"$Sreact.suspense"
+f:I[42724,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js","/Skills.md/_next/static/chunks/3ytz3w--17sjz.js"],"SkillBrowser"]
+44:I[97367,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"ViewportBoundary"]
+46:I[97367,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"font-mono text-sm text-[var(--foreground)]","children":[["$","span",null,{"className":"text-[var(--muted)]","children":">_"}],"skills",["$","span",null,{"className":"text-[var(--accent)]","children":"hub"}]]}],["$","p",null,{"className":"mt-1 max-w-md text-xs text-[var(--muted)]","children":"Marketplace SOP nội bộ — cài Agent Skill một lần, dùng chung mọi AI agent trong phòng ban."}]]}]
+7:["$","div",null,{"className":"flex flex-wrap gap-4 font-mono text-xs text-[var(--muted)]","children":[["$","$L2",null,{"href":"/skills","className":"hover:text-[var(--accent)]","children":"Browse"}],["$","$L2",null,{"href":"/agent-skills","className":"hover:text-[var(--accent)]","children":"Agent Skills"}],["$","$L2",null,{"href":"/docs/framework","className":"hover:text-[var(--accent)]","children":"Docs"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:T6d6,
+## Mục tiêu
+
+Đảm bảo dự án **luôn đủ tiền chi trả** cho nhân công, vật tư và thầu phụ — kiểm soát *thời điểm* thu/chi chứ không chỉ tổng số.
+
+## Vì sao quan trọng
+
+Trong xây dựng, chi phí thường **chi ra trước** (tạm ứng, mua vật tư) nhưng giá trị nghiệm thu **thu về sau**. Chênh lệch thời điểm này gây thiếu hụt vốn lưu động, buộc phải giãn tiến độ.
+
+## Các bước lập dự báo dòng tiền
+
+1. **Gắn dòng tiền với tiến độ** — phân bổ chi phí theo tuần/tháng dựa trên kế hoạch thi công.
+2. **Lập dòng tiền vào** — theo mốc nghiệm thu và thời hạn thanh toán trong hợp đồng, trừ phần giữ lại (retention).
+3. **Lập dòng tiền ra** — lương, vật tư, thầu phụ, máy móc, chi phí chung.
+4. **Tính dòng tiền ròng lũy kế** — phát hiện các thời điểm âm.
+5. **Lập phương án bù** — tạm ứng, tín dụng, đàm phán mốc thanh toán.
+
+## Bảng dòng tiền mẫu
+
+| Chỉ tiêu | T1 | T2 | T3 |
+| --- | --- | --- | --- |
+| Tiền vào | 0 | 800 | 1.200 |
+| Tiền ra | 600 | 900 | 1.000 |
+| Ròng trong kỳ | -600 | -100 | 200 |
+| Lũy kế | -600 | -700 | -500 |
+
+## Checklist kiểm soát
+
+- [ ] Cập nhật dự báo hàng tháng theo tiến độ thực tế
+- [ ] Theo dõi công nợ phải thu và phần giữ lại
+- [ ] Cảnh báo sớm các kỳ dòng tiền âm
+- [ ] Gắn kế hoạch thanh toán thầu phụ với dòng tiền vào
+
+> **Lưu ý:** Nhiều dự án "có lãi trên giấy" vẫn chết vì **thiếu tiền mặt** đúng thời điểm. Rủi ro thường là *timing*, không phải tổng chi phí.
+11:T885,---
+title: "Lập và quản lý dòng tiền dự án (Cash flow)"
+department: "finance"
+summary: "Cách dự báo và kiểm soát dòng tiền dự án để không bị đứt vốn khi chi phí chi ra sớm hơn tiền nghiệm thu thu về."
+tags: ["dòng tiền", "cash flow", "tài chính"]
+difficulty: "Trung bình"
+author: "Phòng Tài chính - Kế toán"
+updated: "2026-08-05"
+readingTime: "7 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Đảm bảo dự án **luôn đủ tiền chi trả** cho nhân công, vật tư và thầu phụ — kiểm soát *thời điểm* thu/chi chứ không chỉ tổng số.
+
+## Vì sao quan trọng
+
+Trong xây dựng, chi phí thường **chi ra trước** (tạm ứng, mua vật tư) nhưng giá trị nghiệm thu **thu về sau**. Chênh lệch thời điểm này gây thiếu hụt vốn lưu động, buộc phải giãn tiến độ.
+
+## Các bước lập dự báo dòng tiền
+
+1. **Gắn dòng tiền với tiến độ** — phân bổ chi phí theo tuần/tháng dựa trên kế hoạch thi công.
+2. **Lập dòng tiền vào** — theo mốc nghiệm thu và thời hạn thanh toán trong hợp đồng, trừ phần giữ lại (retention).
+3. **Lập dòng tiền ra** — lương, vật tư, thầu phụ, máy móc, chi phí chung.
+4. **Tính dòng tiền ròng lũy kế** — phát hiện các thời điểm âm.
+5. **Lập phương án bù** — tạm ứng, tín dụng, đàm phán mốc thanh toán.
+
+## Bảng dòng tiền mẫu
+
+| Chỉ tiêu | T1 | T2 | T3 |
+| --- | --- | --- | --- |
+| Tiền vào | 0 | 800 | 1.200 |
+| Tiền ra | 600 | 900 | 1.000 |
+| Ròng trong kỳ | -600 | -100 | 200 |
+| Lũy kế | -600 | -700 | -500 |
+
+## Checklist kiểm soát
+
+- [ ] Cập nhật dự báo hàng tháng theo tiến độ thực tế
+- [ ] Theo dõi công nợ phải thu và phần giữ lại
+- [ ] Cảnh báo sớm các kỳ dòng tiền âm
+- [ ] Gắn kế hoạch thanh toán thầu phụ với dòng tiền vào
+
+> **Lưu ý:** Nhiều dự án "có lãi trên giấy" vẫn chết vì **thiếu tiền mặt** đúng thời điểm. Rủi ro thường là *timing*, không phải tổng chi phí.
+12:T728,
+## Mục tiêu
+
+Phát hiện **vượt chi sớm** để còn kịp xử lý, thay vì biết khi đã quá muộn.
+
+## Ba con số cần theo dõi cho mỗi hạng mục
+
+| Con số | Ý nghĩa |
+| --- | --- |
+| Chi phí đã phát sinh | Đã thực chi tới thời điểm |
+| Chi phí đã cam kết | Hợp đồng/PO đã ký nhưng chưa chi |
+| Chi phí để hoàn thành (CTC) | Ước tính phần còn lại phải chi |
+
+Dự báo tổng chi = đã phát sinh + để hoàn thành. So với **dự toán được duyệt** để biết đang lãi hay lỗ.
+
+## Chu kỳ kiểm soát
+
+1. Dùng **hệ thống mã chi phí** thống nhất (cost code / CBS).
+2. **Rà soát định kỳ** — tối thiểu hàng tháng, dự án lớn nên 2 tuần/lần, phối hợp giữa chỉ huy công trường và tài chính.
+3. **Cập nhật CTC** mỗi kỳ — báo cáo dựa trên CTC cũ 6 tuần chỉ là tài liệu lịch sử, không còn giá trị kiểm soát.
+4. **Cảnh báo theo ngưỡng** — chênh lệch vượt **5-10%** của hạng mục phải có hành động khắc phục.
+
+## Chỉ số hiệu quả chi phí (tham khảo)
+
+- **CPI = Giá trị thu được / Chi phí thực tế.** CPI < 1 nghĩa là đang vượt chi so với khối lượng hoàn thành.
+- CPI tại mốc ~20% khối lượng thường dự báo khá tốt CPI khi kết thúc → theo dõi sớm rất quan trọng.
+
+## Checklist
+
+- [ ] Mọi chi phí gắn đúng mã
+- [ ] Cập nhật CTC mỗi kỳ báo cáo
+- [ ] So sánh dự toán − cam kết − thực tế − CTC
+- [ ] Cảnh báo và xử lý khi vượt ngưỡng
+
+> **Lưu ý:** Báo cáo "đang trong ngân sách" vẫn có thể che giấu **bào mòn lợi nhuận** nếu CTC lạc quan quá mức. Hãy theo dõi *xu hướng* CTC qua các kỳ.
+13:T90b,---
+title: "Kiểm soát chi phí: dự toán và thực tế (Budget vs Actual)"
+department: "cost-control"
+summary: "Cách thiết lập chu kỳ so sánh dự toán với chi phí thực tế, dùng cost-to-complete và ngưỡng cảnh báo để phát hiện vượt chi sớm."
+tags: ["kiểm soát chi phí", "budget vs actual", "cost to complete"]
+difficulty: "Nâng cao"
+author: "Phòng Kiểm soát chi phí"
+updated: "2026-08-05"
+readingTime: "8 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Phát hiện **vượt chi sớm** để còn kịp xử lý, thay vì biết khi đã quá muộn.
+
+## Ba con số cần theo dõi cho mỗi hạng mục
+
+| Con số | Ý nghĩa |
+| --- | --- |
+| Chi phí đã phát sinh | Đã thực chi tới thời điểm |
+| Chi phí đã cam kết | Hợp đồng/PO đã ký nhưng chưa chi |
+| Chi phí để hoàn thành (CTC) | Ước tính phần còn lại phải chi |
+
+Dự báo tổng chi = đã phát sinh + để hoàn thành. So với **dự toán được duyệt** để biết đang lãi hay lỗ.
+
+## Chu kỳ kiểm soát
+
+1. Dùng **hệ thống mã chi phí** thống nhất (cost code / CBS).
+2. **Rà soát định kỳ** — tối thiểu hàng tháng, dự án lớn nên 2 tuần/lần, phối hợp giữa chỉ huy công trường và tài chính.
+3. **Cập nhật CTC** mỗi kỳ — báo cáo dựa trên CTC cũ 6 tuần chỉ là tài liệu lịch sử, không còn giá trị kiểm soát.
+4. **Cảnh báo theo ngưỡng** — chênh lệch vượt **5-10%** của hạng mục phải có hành động khắc phục.
+
+## Chỉ số hiệu quả chi phí (tham khảo)
+
+- **CPI = Giá trị thu được / Chi phí thực tế.** CPI < 1 nghĩa là đang vượt chi so với khối lượng hoàn thành.
+- CPI tại mốc ~20% khối lượng thường dự báo khá tốt CPI khi kết thúc → theo dõi sớm rất quan trọng.
+
+## Checklist
+
+- [ ] Mọi chi phí gắn đúng mã
+- [ ] Cập nhật CTC mỗi kỳ báo cáo
+- [ ] So sánh dự toán − cam kết − thực tế − CTC
+- [ ] Cảnh báo và xử lý khi vượt ngưỡng
+
+> **Lưu ý:** Báo cáo "đang trong ngân sách" vẫn có thể che giấu **bào mòn lợi nhuận** nếu CTC lạc quan quá mức. Hãy theo dõi *xu hướng* CTC qua các kỳ.
+14:T746,
+## Mục tiêu
+
+Trả lời câu hỏi: **dự án có tạo ra giá trị không** — dựa trên dòng tiền tăng thêm và giá trị thời gian của tiền.
+
+## Các bước thẩm định
+
+1. **Xác định dòng tiền tăng thêm** — chỉ tính dòng tiền do dự án tạo ra, sau thuế.
+2. **Chọn thời gian phân tích** và **suất chiết khấu** phản ánh rủi ro dự án.
+3. **Áp dụng các chỉ tiêu** đánh giá.
+4. **Phân tích độ nhạy** — kịch bản tốt/xấu.
+5. **Ra quyết định** — chấp nhận / từ chối / hoãn / điều chỉnh.
+
+## Các chỉ tiêu chính
+
+| Chỉ tiêu | Ý nghĩa | Quy tắc chấp nhận |
+| --- | --- | --- |
+| NPV | Giá trị hiện tại ròng | NPV > 0 → chấp nhận |
+| IRR | Suất sinh lời nội tại | IRR > suất yêu cầu → chấp nhận |
+| Thời gian hoàn vốn | Thời gian thu hồi vốn | ≤ ngưỡng công ty |
+| Chỉ số sinh lời (PI) | PV dòng tiền / vốn đầu tư | Dùng khi vốn hạn chế |
+
+## Lưu ý khi ra quyết định
+
+- **NPV là thước đo chuẩn** cho việc tạo giá trị; khi các chỉ tiêu mâu thuẫn (nhất là dự án loại trừ nhau), ưu tiên NPV.
+- IRR dễ truyền đạt nhưng có thể gây hiểu nhầm với dòng tiền bất thường.
+- Kết quả chỉ tốt bằng **chất lượng giả định đầu vào** — phải phản biện dự báo.
+
+## Checklist
+
+- [ ] Dòng tiền tăng thêm, sau thuế, đúng kỳ
+- [ ] Suất chiết khấu phản ánh rủi ro
+- [ ] Tính NPV, IRR, hoàn vốn, PI
+- [ ] Phân tích độ nhạy với giả định chính
+
+> **Lưu ý:** NPV > 0 chỉ nên chấp nhận khi giả định, năng lực thực hiện, thuế và yếu tố chiến lược đều hợp lý — con số không thay thế được phán đoán.
+15:T8e4,---
+title: "Thẩm định hiệu quả dự án đầu tư (NPV/IRR)"
+department: "investment"
+summary: "Cách đánh giá hiệu quả tài chính dự án bằng NPV, IRR, thời gian hoàn vốn và chỉ số sinh lời để ra quyết định đầu tư."
+tags: ["đầu tư", "npv", "irr"]
+difficulty: "Nâng cao"
+author: "Phòng Đầu tư"
+updated: "2026-08-04"
+readingTime: "8 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Trả lời câu hỏi: **dự án có tạo ra giá trị không** — dựa trên dòng tiền tăng thêm và giá trị thời gian của tiền.
+
+## Các bước thẩm định
+
+1. **Xác định dòng tiền tăng thêm** — chỉ tính dòng tiền do dự án tạo ra, sau thuế.
+2. **Chọn thời gian phân tích** và **suất chiết khấu** phản ánh rủi ro dự án.
+3. **Áp dụng các chỉ tiêu** đánh giá.
+4. **Phân tích độ nhạy** — kịch bản tốt/xấu.
+5. **Ra quyết định** — chấp nhận / từ chối / hoãn / điều chỉnh.
+
+## Các chỉ tiêu chính
+
+| Chỉ tiêu | Ý nghĩa | Quy tắc chấp nhận |
+| --- | --- | --- |
+| NPV | Giá trị hiện tại ròng | NPV > 0 → chấp nhận |
+| IRR | Suất sinh lời nội tại | IRR > suất yêu cầu → chấp nhận |
+| Thời gian hoàn vốn | Thời gian thu hồi vốn | ≤ ngưỡng công ty |
+| Chỉ số sinh lời (PI) | PV dòng tiền / vốn đầu tư | Dùng khi vốn hạn chế |
+
+## Lưu ý khi ra quyết định
+
+- **NPV là thước đo chuẩn** cho việc tạo giá trị; khi các chỉ tiêu mâu thuẫn (nhất là dự án loại trừ nhau), ưu tiên NPV.
+- IRR dễ truyền đạt nhưng có thể gây hiểu nhầm với dòng tiền bất thường.
+- Kết quả chỉ tốt bằng **chất lượng giả định đầu vào** — phải phản biện dự báo.
+
+## Checklist
+
+- [ ] Dòng tiền tăng thêm, sau thuế, đúng kỳ
+- [ ] Suất chiết khấu phản ánh rủi ro
+- [ ] Tính NPV, IRR, hoàn vốn, PI
+- [ ] Phân tích độ nhạy với giả định chính
+
+> **Lưu ý:** NPV > 0 chỉ nên chấp nhận khi giả định, năng lực thực hiện, thuế và yếu tố chiến lược đều hợp lý — con số không thay thế được phán đoán.
+16:T654,
+## Mục tiêu
+
+Phát hiện và xử lý **rủi ro pháp lý** trong hợp đồng trước khi ký, tránh tranh chấp và thiệt hại về sau.
+
+## Các điều khoản trọng yếu cần rà soát
+
+1. **Chủ thể & thẩm quyền ký** — đúng pháp nhân, người ký có ủy quyền hợp lệ.
+2. **Phạm vi công việc** — mô tả rõ ràng, tránh hiểu nhầm.
+3. **Giá trị & thanh toán** — đơn giá, mốc thanh toán, tạm ứng, giữ lại (retention).
+4. **Tiến độ & phạt** — thời hạn, phạt chậm, mức trần bồi thường.
+5. **Thay đổi khối lượng** — cơ chế xử lý phát sinh (variation).
+6. **Bảo hành & bảo đảm** — thời hạn, phạm vi, bảo lãnh.
+7. **Bất khả kháng** — định nghĩa và hậu quả.
+8. **Chấm dứt & giải quyết tranh chấp** — điều kiện, cơ quan tài phán.
+
+## Checklist rà soát
+
+- [ ] Thông tin pháp nhân và thẩm quyền ký đúng
+- [ ] Nghĩa vụ hai bên rõ ràng, cân bằng
+- [ ] Điều khoản thanh toán và phạt hợp lý
+- [ ] Cơ chế xử lý phát sinh và bất khả kháng
+- [ ] Điều khoản giải quyết tranh chấp rõ ràng
+
+## Ma trận rủi ro nhanh
+
+| Mức rủi ro | Xử lý |
+| --- | --- |
+| Cao | Bắt buộc đàm phán sửa trước khi ký |
+| Trung bình | Ghi nhận, có phương án kiểm soát |
+| Thấp | Chấp nhận, theo dõi |
+
+> **Lưu ý:** Điều khoản mập mờ về **phạm vi công việc và xử lý phát sinh** là nguồn tranh chấp phổ biến nhất — cần làm rõ ngay từ khâu ký.
+17:T7e5,---
+title: "Rà soát hợp đồng trước khi ký"
+department: "legal"
+summary: "Checklist pháp lý các điều khoản trọng yếu cần kiểm tra trước khi ký hợp đồng để phòng ngừa rủi ro và tranh chấp."
+tags: ["hợp đồng", "pháp lý", "rủi ro"]
+difficulty: "Trung bình"
+author: "Phòng Pháp lý"
+updated: "2026-08-04"
+readingTime: "7 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Phát hiện và xử lý **rủi ro pháp lý** trong hợp đồng trước khi ký, tránh tranh chấp và thiệt hại về sau.
+
+## Các điều khoản trọng yếu cần rà soát
+
+1. **Chủ thể & thẩm quyền ký** — đúng pháp nhân, người ký có ủy quyền hợp lệ.
+2. **Phạm vi công việc** — mô tả rõ ràng, tránh hiểu nhầm.
+3. **Giá trị & thanh toán** — đơn giá, mốc thanh toán, tạm ứng, giữ lại (retention).
+4. **Tiến độ & phạt** — thời hạn, phạt chậm, mức trần bồi thường.
+5. **Thay đổi khối lượng** — cơ chế xử lý phát sinh (variation).
+6. **Bảo hành & bảo đảm** — thời hạn, phạm vi, bảo lãnh.
+7. **Bất khả kháng** — định nghĩa và hậu quả.
+8. **Chấm dứt & giải quyết tranh chấp** — điều kiện, cơ quan tài phán.
+
+## Checklist rà soát
+
+- [ ] Thông tin pháp nhân và thẩm quyền ký đúng
+- [ ] Nghĩa vụ hai bên rõ ràng, cân bằng
+- [ ] Điều khoản thanh toán và phạt hợp lý
+- [ ] Cơ chế xử lý phát sinh và bất khả kháng
+- [ ] Điều khoản giải quyết tranh chấp rõ ràng
+
+## Ma trận rủi ro nhanh
+
+| Mức rủi ro | Xử lý |
+| --- | --- |
+| Cao | Bắt buộc đàm phán sửa trước khi ký |
+| Trung bình | Ghi nhận, có phương án kiểm soát |
+| Thấp | Chấp nhận, theo dõi |
+
+> **Lưu ý:** Điều khoản mập mờ về **phạm vi công việc và xử lý phát sinh** là nguồn tranh chấp phổ biến nhất — cần làm rõ ngay từ khâu ký.
+18:T60b,---
+title: "Nghiệm thu cốt thép trước khi đổ bê tông"
+department: "construction-tech"
+summary: "Checklist kiểm tra công tác cốt thép, cốp pha và vệ sinh trước khi cho phép đổ bê tông."
+tags: ["cốt thép", "nghiệm thu", "bê tông"]
+difficulty: "Trung bình"
+author: "Phòng Kỹ thuật thi công"
+updated: "2026-08-04"
+readingTime: "6 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Đảm bảo cốt thép **đúng thiết kế** và đủ điều kiện trước khi đổ bê tông — đây là điểm dừng bắt buộc (hold point).
+
+## Kiểm tra cốt thép
+
+- [ ] Đúng đường kính, số lượng, khoảng cách theo bản vẽ
+- [ ] Chiều dài neo, nối chồng đạt yêu cầu
+- [ ] Buộc chắc chắn, không xê dịch khi đổ
+- [ ] Con kê bảo đảm chiều dày lớp bảo vệ
+
+## Kiểm tra cốp pha & chi tiết chờ
+
+- [ ] Cốp pha kín khít, chống đỡ ổn định
+- [ ] Kích thước hình học, cao độ, tim trục đúng
+- [ ] Chi tiết chờ (ống, giằng, bu lông) đúng vị trí
+- [ ] Vệ sinh sạch trong cốp pha, tưới ẩm nếu cần
+
+## Trình tự nghiệm thu
+
+1. Nhà thầu tự kiểm tra và mời nghiệm thu.
+2. Kỹ thuật + QA/QC + TVGS kiểm tra hiện trường.
+3. Ký biên bản nghiệm thu cốt thép **trước khi** đổ.
+4. Chỉ đổ bê tông sau khi biên bản được ký.
+
+> **Cảnh báo:** Tuyệt đối không đổ bê tông khi chưa có biên bản nghiệm thu cốt thép được ký duyệt.
+19:T66b,---
+title: "Họp giao ban công trường hàng ngày"
+department: "site-management"
+summary: "Cách tổ chức buổi giao ban đầu ngày ngắn gọn để thống nhất công việc, an toàn và tiến độ giữa các tổ đội."
+tags: ["giao ban", "điều hành", "tiến độ"]
+difficulty: "Cơ bản"
+author: "Ban chỉ huy công trường"
+updated: "2026-08-04"
+readingTime: "5 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Đảm bảo mọi tổ đội **bắt đầu ngày làm việc** với công việc rõ ràng, nhận diện rủi ro an toàn và bám sát tiến độ.
+
+## Thời điểm & thành phần
+
+- **Thời gian:** 10-15 phút, đầu mỗi ca làm việc.
+- **Thành phần:** chỉ huy trưởng/phó, giám sát, tổ trưởng các tổ đội, cán bộ an toàn.
+
+## Nội dung cần thống nhất
+
+1. **Công việc hôm nay** — hạng mục, vị trí, khối lượng mục tiêu.
+2. **Nhân lực & thiết bị** — bố trí tổ đội, máy móc, cẩu tháp.
+3. **An toàn** — cảnh báo rủi ro của công việc trong ngày.
+4. **Vướng mắc** — thiếu vật tư, chờ bản vẽ, thời tiết.
+5. **Tiến độ** — so với kế hoạch tuần, việc cần bù.
+
+## Checklist điều hành
+
+- [ ] Điểm danh tổ đội và thiết bị
+- [ ] Giao việc rõ vị trí + khối lượng
+- [ ] Nhắc nhở an toàn theo công việc
+- [ ] Ghi nhận vướng mắc & người xử lý
+- [ ] Chốt mốc kiểm tra trong ngày
+
+> **Mẹo:** Giữ buổi giao ban đứng, ngắn gọn. Vấn đề lớn tách ra họp riêng, tránh kéo dài làm chậm ra quân.
+1a:T5ee,---
+title: "An toàn khi làm việc trên cao"
+department: "hse"
+summary: "Yêu cầu bắt buộc và checklist kiểm tra trước khi cho phép công nhân làm việc trên cao để chống ngã."
+tags: ["an toàn", "làm việc trên cao", "hse"]
+difficulty: "Cơ bản"
+author: "Phòng An toàn (HSE)"
+updated: "2026-08-04"
+readingTime: "5 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Ngăn ngừa tai nạn **ngã cao** — nhóm tai nạn nghiêm trọng và phổ biến nhất tại công trường.
+
+## Áp dụng khi
+
+Làm việc ở độ cao từ **2 mét** trở lên, hoặc nơi có nguy cơ rơi ngã.
+
+## Yêu cầu bắt buộc
+
+- [ ] Dây an toàn toàn thân + móc kép, neo vào điểm chắc chắn
+- [ ] Giàn giáo được nghiệm thu, có thẻ (thẻ xanh) còn hiệu lực
+- [ ] Sàn thao tác đủ rộng, có lan can và chắn chân
+- [ ] Che chắn/ rào chắn khu vực bên dưới
+- [ ] Công nhân đủ sức khỏe, đã huấn luyện an toàn
+
+## Trước khi bắt đầu
+
+1. Kiểm tra thời tiết (gió lớn, mưa, giông → tạm dừng).
+2. Kiểm tra tình trạng dây, móc, giàn giáo.
+3. Xác định điểm neo và lối thoát.
+4. Phổ biến rủi ro cho tổ đội.
+
+## Nguyên tắc 100% neo móc
+
+Luôn có **ít nhất một móc được neo** trong suốt quá trình di chuyển và làm việc trên cao.
+
+> **Cảnh báo:** Không có điểm neo an toàn thì không làm việc trên cao. Dừng công việc và báo cán bộ an toàn.
+1b:T621,
+## Mục tiêu
+
+Quyết định **có tham gia thầu hay không** một cách có hệ thống — bảo vệ tỷ lệ thắng và nguồn lực lập dự toán khỏi những gói không phù hợp.
+
+## 5 nhóm tiêu chí (có trọng số)
+
+| Nhóm tiêu chí | Trọng số gợi ý |
+| --- | --- |
+| Chủ đầu tư & khả năng thanh toán | 25% |
+| Mức độ phù hợp của gói (quy mô, loại hình) | 20% |
+| Năng lực & nguồn lực (nhân sự, tài chính, bảo lãnh) | 20% |
+| Vị thế cạnh tranh & xác suất thắng | 20% |
+| Phù hợp chiến lược | 15% |
+
+## Cách chấm điểm
+
+1. Chấm mỗi tiêu chí thang **1-5** (1 = kém/không rõ, 5 = rất tốt).
+2. Nhân với trọng số → điểm có trọng số.
+3. Cộng lại thành điểm tổng.
+
+## Ngưỡng quyết định (tham khảo)
+
+| Điểm tổng | Quyết định |
+| --- | --- |
+| ≥ 3,5 | Tham gia (dồn nguồn lực lập hồ sơ) |
+| 2,5 - 3,4 | Cân nhắc — lãnh đạo xem tiêu chí yếu |
+| < 2,5 | Không tham gia |
+
+## Lưu ý vận hành
+
+- Chấm trong **24-48 giờ** sau khi nhận hồ sơ mời thầu, **trước khi** mời thầu phụ báo giá.
+- Ghi lại lý do dù quyết định thế nào.
+- Đặt **red flag**: một số rủi ro đơn lẻ (chủ đầu tư nợ xấu, điều khoản bất lợi nặng) có thể loại thẳng.
+
+> **Mẹo:** Việc chấm điểm 20-30 phút/gói giúp nhiều nhà thầu loại bỏ tới ~1/3 số gói không đáng theo, dồn sức cho gói dễ thắng và có lãi.
+1c:T7cf,---
+title: "Ra quyết định tham gia thầu (Bid / No-bid)"
+department: "estimating"
+summary: "Khung chấm điểm có trọng số giúp quyết định có nên bỏ công sức dự thầu hay không, trước khi dồn nguồn lực lập hồ sơ."
+tags: ["dự thầu", "bid no-bid", "đấu thầu"]
+difficulty: "Trung bình"
+author: "Phòng Dự toán - Đấu thầu"
+updated: "2026-08-03"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Quyết định **có tham gia thầu hay không** một cách có hệ thống — bảo vệ tỷ lệ thắng và nguồn lực lập dự toán khỏi những gói không phù hợp.
+
+## 5 nhóm tiêu chí (có trọng số)
+
+| Nhóm tiêu chí | Trọng số gợi ý |
+| --- | --- |
+| Chủ đầu tư & khả năng thanh toán | 25% |
+| Mức độ phù hợp của gói (quy mô, loại hình) | 20% |
+| Năng lực & nguồn lực (nhân sự, tài chính, bảo lãnh) | 20% |
+| Vị thế cạnh tranh & xác suất thắng | 20% |
+| Phù hợp chiến lược | 15% |
+
+## Cách chấm điểm
+
+1. Chấm mỗi tiêu chí thang **1-5** (1 = kém/không rõ, 5 = rất tốt).
+2. Nhân với trọng số → điểm có trọng số.
+3. Cộng lại thành điểm tổng.
+
+## Ngưỡng quyết định (tham khảo)
+
+| Điểm tổng | Quyết định |
+| --- | --- |
+| ≥ 3,5 | Tham gia (dồn nguồn lực lập hồ sơ) |
+| 2,5 - 3,4 | Cân nhắc — lãnh đạo xem tiêu chí yếu |
+| < 2,5 | Không tham gia |
+
+## Lưu ý vận hành
+
+- Chấm trong **24-48 giờ** sau khi nhận hồ sơ mời thầu, **trước khi** mời thầu phụ báo giá.
+- Ghi lại lý do dù quyết định thế nào.
+- Đặt **red flag**: một số rủi ro đơn lẻ (chủ đầu tư nợ xấu, điều khoản bất lợi nặng) có thể loại thẳng.
+
+> **Mẹo:** Việc chấm điểm 20-30 phút/gói giúp nhiều nhà thầu loại bỏ tới ~1/3 số gói không đáng theo, dồn sức cho gói dễ thắng và có lãi.
+1d:T5f7,
+## Mục tiêu
+
+Vận hành hợp đồng **đúng cam kết**, thanh toán đúng hạn và giữ đầy đủ hồ sơ để bảo vệ quyền lợi khi có tranh chấp.
+
+## Việc quản lý hợp đồng bao gồm
+
+- Phát hành và phản hồi **thông báo (notice)** theo hợp đồng.
+- Theo dõi **nghĩa vụ tiến độ** và các mốc.
+- Quản lý **thay đổi (variation)** và quy trình thanh toán.
+- Lưu trữ **hồ sơ đồng thời (contemporaneous records)**.
+
+## Theo dõi mốc thanh toán
+
+| Mốc | Điều kiện | Giá trị | Giữ lại |
+| --- | --- | --- | --- |
+| Tạm ứng | Sau ký HĐ + bảo lãnh | 10-15% | — |
+| Theo giai đoạn | Nghiệm thu khối lượng | Theo IPC | 5-10% |
+| Quyết toán | Hoàn thành + bảo hành | Còn lại | Hoàn giữ lại |
+
+## Hồ sơ cần lưu (rất quan trọng)
+
+- Nhật ký công trường, biên bản họp, hình ảnh.
+- Công văn, chỉ thị, thông báo và phản hồi.
+- Biên bản nghiệm thu, hồ sơ thanh toán (IPC).
+- Cập nhật tiến độ đáng tin cậy.
+
+## Checklist
+
+- [ ] Đọc kỹ hợp đồng, nắm rõ nghĩa vụ và mốc
+- [ ] Theo dõi bảo lãnh/bảo hiểm còn hiệu lực
+- [ ] Phát hành thông báo đúng thời hạn và đúng mẫu
+- [ ] Lưu hồ sơ đồng thời, có hệ thống
+
+> **Lưu ý:** Quản trị hợp đồng tốt là **khung vận hành** biến các sự kiện thành xử lý có kiểm soát — thay vì để chúng trở thành tranh chấp.
+1e:T7b5,---
+title: "Quản lý hợp đồng thi công và mốc thanh toán"
+department: "contracts"
+summary: "Cách vận hành hợp đồng thi công: theo dõi nghĩa vụ, mốc thanh toán, bảo lãnh, giữ lại và hồ sơ để bảo vệ quyền lợi."
+tags: ["hợp đồng", "thanh toán", "quản trị hợp đồng"]
+difficulty: "Trung bình"
+author: "Phòng Quản lý hợp đồng"
+updated: "2026-08-03"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Vận hành hợp đồng **đúng cam kết**, thanh toán đúng hạn và giữ đầy đủ hồ sơ để bảo vệ quyền lợi khi có tranh chấp.
+
+## Việc quản lý hợp đồng bao gồm
+
+- Phát hành và phản hồi **thông báo (notice)** theo hợp đồng.
+- Theo dõi **nghĩa vụ tiến độ** và các mốc.
+- Quản lý **thay đổi (variation)** và quy trình thanh toán.
+- Lưu trữ **hồ sơ đồng thời (contemporaneous records)**.
+
+## Theo dõi mốc thanh toán
+
+| Mốc | Điều kiện | Giá trị | Giữ lại |
+| --- | --- | --- | --- |
+| Tạm ứng | Sau ký HĐ + bảo lãnh | 10-15% | — |
+| Theo giai đoạn | Nghiệm thu khối lượng | Theo IPC | 5-10% |
+| Quyết toán | Hoàn thành + bảo hành | Còn lại | Hoàn giữ lại |
+
+## Hồ sơ cần lưu (rất quan trọng)
+
+- Nhật ký công trường, biên bản họp, hình ảnh.
+- Công văn, chỉ thị, thông báo và phản hồi.
+- Biên bản nghiệm thu, hồ sơ thanh toán (IPC).
+- Cập nhật tiến độ đáng tin cậy.
+
+## Checklist
+
+- [ ] Đọc kỹ hợp đồng, nắm rõ nghĩa vụ và mốc
+- [ ] Theo dõi bảo lãnh/bảo hiểm còn hiệu lực
+- [ ] Phát hành thông báo đúng thời hạn và đúng mẫu
+- [ ] Lưu hồ sơ đồng thời, có hệ thống
+
+> **Lưu ý:** Quản trị hợp đồng tốt là **khung vận hành** biến các sự kiện thành xử lý có kiểm soát — thay vì để chúng trở thành tranh chấp.
+1f:T68e,---
+title: "Lập và kiểm soát tiến độ thi công"
+department: "site-management"
+summary: "Cách lập tiến độ thi công, bám sát thực tế và xử lý khi chậm tiến độ so với kế hoạch."
+tags: ["tiến độ", "kế hoạch", "quản lý dự án"]
+difficulty: "Trung bình"
+author: "Ban chỉ huy công trường"
+updated: "2026-08-03"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Giữ dự án **đúng tiến độ**, phát hiện sớm nguy cơ chậm và có biện pháp bù kịp thời.
+
+## Các bước lập tiến độ
+
+1. **Chia hạng mục** — bóc công việc theo WBS (móng, thân, hoàn thiện, MEP...).
+2. **Xác định thời lượng** — dựa trên khối lượng và định mức năng suất.
+3. **Xác định trình tự & ràng buộc** — công việc trước/sau, đường găng (critical path).
+4. **Phân bổ nguồn lực** — nhân công, thiết bị, vật tư theo tuần.
+5. **Lập mốc kiểm soát** — các milestone quan trọng.
+
+## Kiểm soát hàng tuần
+
+| Chỉ số | Ý nghĩa |
+| --- | --- |
+| % kế hoạch | Khối lượng dự kiến đến thời điểm |
+| % thực tế | Khối lượng đã hoàn thành |
+| Chênh lệch | Thực tế − kế hoạch (âm = chậm) |
+
+## Khi bị chậm tiến độ
+
+- Xác định nguyên nhân gốc (vật tư, thời tiết, nhân lực, bản vẽ).
+- Ưu tiên **các công việc trên đường găng**.
+- Cân nhắc tăng ca, tăng tổ đội, hoặc thi công song song.
+
+> **Lưu ý:** Chậm một công việc trên đường găng sẽ làm chậm cả dự án — hãy theo dõi đường găng sát sao nhất.
+20:T66e,---
+title: "Quy trình tuyển dụng và phỏng vấn"
+department: "hr"
+summary: "Chuẩn hóa các bước từ mô tả công việc, sàng lọc, phỏng vấn đến ra quyết định tuyển dụng công bằng và hiệu quả."
+tags: ["tuyển dụng", "phỏng vấn", "nhân sự"]
+difficulty: "Cơ bản"
+author: "Phòng Nhân sự"
+updated: "2026-08-02"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Tuyển đúng người, đúng việc — dựa trên **tiêu chí rõ ràng**, giảm cảm tính và thiên kiến.
+
+## Quy trình
+
+1. **Mô tả công việc (JD)** — nhiệm vụ, yêu cầu, tiêu chí đánh giá.
+2. **Đăng tuyển & tìm nguồn** — kênh phù hợp với vị trí.
+3. **Sàng lọc hồ sơ** — theo tiêu chí bắt buộc và ưu tiên.
+4. **Phỏng vấn** — cấu trúc thống nhất, chấm theo thang điểm.
+5. **Kiểm tra tham chiếu** — với vị trí quan trọng.
+6. **Đề nghị & thương lượng** — lương, thời gian nhận việc.
+
+## Phỏng vấn theo cấu trúc
+
+- Dùng **bộ câu hỏi chung** cho mọi ứng viên cùng vị trí.
+- Hỏi theo **tình huống thực tế** (STAR: Situation - Task - Action - Result).
+- Chấm điểm theo tiêu chí, ghi nhận bằng chứng.
+
+## Checklist
+
+- [ ] JD rõ nhiệm vụ và tiêu chí
+- [ ] Bộ câu hỏi phỏng vấn thống nhất
+- [ ] Thang điểm đánh giá khách quan
+- [ ] Phản hồi cho ứng viên đúng hẹn
+
+> **Mẹo:** Phỏng vấn có cấu trúc và chấm điểm theo tiêu chí dự báo hiệu quả công việc tốt hơn nhiều so với phỏng vấn cảm tính, tự do.
+21:T591,
+## Mục tiêu
+
+Nhìn rõ **cơ hội đang ở đâu** trong phễu bán hàng và **dự báo doanh số** đáng tin để phân bổ nguồn lực.
+
+## Các giai đoạn pipeline (ví dụ)
+
+1. **Tiềm năng (Lead)** — mới tiếp cận.
+2. **Đủ điều kiện (Qualified)** — có nhu cầu, ngân sách, thẩm quyền.
+3. **Đề xuất (Proposal)** — đã gửi báo giá/hồ sơ.
+4. **Đàm phán (Negotiation)** — thương lượng điều khoản.
+5. **Chốt (Won/Lost)** — thắng hoặc thua.
+
+## Dự báo theo xác suất
+
+| Giai đoạn | Xác suất thắng (ví dụ) |
+| --- | --- |
+| Qualified | 20% |
+| Proposal | 50% |
+| Negotiation | 80% |
+
+Doanh số dự báo ≈ Σ (giá trị cơ hội × xác suất giai đoạn).
+
+## Kỷ luật cập nhật
+
+- Mỗi cơ hội có **bước tiếp theo** và **ngày dự kiến chốt**.
+- Rà soát pipeline hàng tuần, loại bỏ cơ hội "chết".
+- Cảnh báo cơ hội đứng yên quá lâu ở một giai đoạn.
+
+## Checklist
+
+- [ ] Mọi cơ hội có giai đoạn và giá trị rõ ràng
+- [ ] Có bước tiếp theo + ngày chốt dự kiến
+- [ ] Rà soát pipeline định kỳ hàng tuần
+- [ ] Dự báo dựa trên xác suất, không cảm tính
+
+> **Mẹo:** Pipeline "phình to" nhưng toàn cơ hội cũ, không nhúc nhích là dấu hiệu xấu — chất lượng cơ hội quan trọng hơn số lượng.
+22:T70e,---
+title: "Quản lý pipeline và dự báo doanh số"
+department: "sales"
+summary: "Cách xây dựng phễu bán hàng theo giai đoạn, cập nhật cơ hội và dự báo doanh số có căn cứ để ra quyết định."
+tags: ["pipeline", "dự báo", "bán hàng"]
+difficulty: "Trung bình"
+author: "Phòng Kinh doanh"
+updated: "2026-08-02"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Nhìn rõ **cơ hội đang ở đâu** trong phễu bán hàng và **dự báo doanh số** đáng tin để phân bổ nguồn lực.
+
+## Các giai đoạn pipeline (ví dụ)
+
+1. **Tiềm năng (Lead)** — mới tiếp cận.
+2. **Đủ điều kiện (Qualified)** — có nhu cầu, ngân sách, thẩm quyền.
+3. **Đề xuất (Proposal)** — đã gửi báo giá/hồ sơ.
+4. **Đàm phán (Negotiation)** — thương lượng điều khoản.
+5. **Chốt (Won/Lost)** — thắng hoặc thua.
+
+## Dự báo theo xác suất
+
+| Giai đoạn | Xác suất thắng (ví dụ) |
+| --- | --- |
+| Qualified | 20% |
+| Proposal | 50% |
+| Negotiation | 80% |
+
+Doanh số dự báo ≈ Σ (giá trị cơ hội × xác suất giai đoạn).
+
+## Kỷ luật cập nhật
+
+- Mỗi cơ hội có **bước tiếp theo** và **ngày dự kiến chốt**.
+- Rà soát pipeline hàng tuần, loại bỏ cơ hội "chết".
+- Cảnh báo cơ hội đứng yên quá lâu ở một giai đoạn.
+
+## Checklist
+
+- [ ] Mọi cơ hội có giai đoạn và giá trị rõ ràng
+- [ ] Có bước tiếp theo + ngày chốt dự kiến
+- [ ] Rà soát pipeline định kỳ hàng tuần
+- [ ] Dự báo dựa trên xác suất, không cảm tính
+
+> **Mẹo:** Pipeline "phình to" nhưng toàn cơ hội cũ, không nhúc nhích là dấu hiệu xấu — chất lượng cơ hội quan trọng hơn số lượng.
+23:T65f,---
+title: "Lập kế hoạch nghiệm thu chất lượng (ITP)"
+department: "qaqc"
+summary: "Cách xây dựng Inspection & Test Plan xác định điểm kiểm tra, điểm dừng và hồ sơ nghiệm thu cho từng công tác."
+tags: ["itp", "nghiệm thu", "chất lượng"]
+difficulty: "Trung bình"
+author: "Phòng QA/QC"
+updated: "2026-08-02"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Xác định **kiểm tra cái gì, khi nào, ai làm, theo tiêu chuẩn nào** cho từng công tác thi công.
+
+## Thành phần một ITP
+
+1. **Hạng mục công tác** — ví dụ: cốt thép, bê tông, xây, tô.
+2. **Hoạt động kiểm tra/thử nghiệm** — nội dung kiểm tra.
+3. **Tiêu chuẩn tham chiếu** — TCVN / spec dự án.
+4. **Loại điểm kiểm soát** — H (Hold), W (Witness), R (Review).
+5. **Hồ sơ** — biểu mẫu, biên bản, phiếu thí nghiệm.
+6. **Bên tham gia** — nhà thầu, TVGS, chủ đầu tư.
+
+## Phân loại điểm kiểm soát
+
+| Ký hiệu | Ý nghĩa |
+| --- | --- |
+| H (Hold) | Điểm dừng bắt buộc, phải nghiệm thu mới làm tiếp |
+| W (Witness) | Mời chứng kiến, có thể tiếp tục nếu vắng mặt |
+| R (Review) | Xem xét hồ sơ |
+
+## Checklist chất lượng ITP
+
+- [ ] Bao phủ đủ các công tác chính
+- [ ] Gắn đúng tiêu chuẩn và tiêu chí chấp nhận
+- [ ] Xác định rõ điểm H/W/R
+- [ ] Kèm biểu mẫu hồ sơ tương ứng
+
+> **Mẹo:** Đặt điểm Hold ở các công tác bị che khuất sau này (cốt thép, chống thấm) để không phải đục phá kiểm tra về sau.
+24:T663,---
+title: "Lập kế hoạch ngân sách năm"
+department: "finance"
+summary: "Quy trình xây dựng ngân sách năm cho công ty/dự án, gắn với mục tiêu kinh doanh và cơ chế theo dõi thực hiện."
+tags: ["ngân sách", "kế hoạch", "tài chính"]
+difficulty: "Trung bình"
+author: "Phòng Tài chính - Kế toán"
+updated: "2026-08-01"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Chuyển mục tiêu kinh doanh thành **kế hoạch tài chính có thể theo dõi**, làm cơ sở kiểm soát chi tiêu cả năm.
+
+## Các bước
+
+1. **Thu thập giả định** — doanh thu dự kiến, dự án trúng thầu, đơn giá, lạm phát.
+2. **Lập ngân sách doanh thu** — theo dự án và mốc nghiệm thu.
+3. **Lập ngân sách chi phí** — trực tiếp (vật tư, nhân công, máy) và gián tiếp (quản lý, văn phòng).
+4. **Dự phòng** — thường **10-15%** cho biến động giá và rủi ro.
+5. **Trình duyệt** và phân bổ theo quý/tháng.
+
+## Theo dõi thực hiện
+
+| Chỉ số | Ý nghĩa |
+| --- | --- |
+| Ngân sách | Kế hoạch được duyệt |
+| Thực tế | Số phát sinh thực |
+| Chênh lệch | Thực tế − ngân sách |
+| % thực hiện | Thực tế / ngân sách |
+
+## Checklist
+
+- [ ] Giả định rõ ràng, có căn cứ
+- [ ] Có khoản dự phòng hợp lý
+- [ ] Phân bổ theo kỳ để theo dõi
+- [ ] Rà soát chênh lệch định kỳ hàng tháng
+
+> **Mẹo:** Ngân sách chỉ hữu ích khi được **so sánh với thực tế thường xuyên**; lập xong rồi bỏ quên thì chỉ là con số trên giấy.
+25:T654,---
+title: "Bóc tách khối lượng (BOQ) từ bản vẽ"
+department: "estimating"
+summary: "Phương pháp bóc khối lượng chính xác từ bản vẽ để lập dự toán và kiểm soát vật tư."
+tags: ["boq", "khối lượng", "dự toán"]
+difficulty: "Trung bình"
+author: "Phòng Dự toán - Đấu thầu"
+updated: "2026-08-01"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Bóc **đúng và đủ** khối lượng công tác từ bản vẽ làm cơ sở cho dự toán, đấu thầu và kiểm soát vật tư.
+
+## Nguyên tắc bóc tách
+
+1. Bóc theo **trình tự thi công** (móng → thân → hoàn thiện) để không sót.
+2. Mỗi công tác ghi rõ **đơn vị** (m³, m², md, kg, cái).
+3. Bám theo quy tắc đo bóc và định mức áp dụng.
+4. Ghi chú **diễn giải kích thước** để dễ kiểm tra lại.
+
+## Bảng diễn giải mẫu
+
+| Công tác | Diễn giải | Đơn vị | Khối lượng |
+| --- | --- | --- | --- |
+| Bê tông móng | 2 × (3,0 × 2,0 × 0,5) | m³ | 6,0 |
+| Cốt thép móng | Theo bảng thống kê thép | kg | 480 |
+| Ván khuôn móng | Chu vi × chiều cao | m² | 10,0 |
+
+## Kiểm soát chất lượng bóc tách
+
+- [ ] Đối chiếu bản vẽ kiến trúc − kết cấu − MEP
+- [ ] Kiểm tra đơn vị và công thức tính
+- [ ] Rà soát trùng/sót giữa các hạng mục
+- [ ] Cập nhật theo bản vẽ mới nhất (revision)
+
+> **Mẹo:** Luôn lưu công thức diễn giải, đừng chỉ điền con số cuối — khi bản vẽ thay đổi bạn sẽ cập nhật nhanh và dễ soát lỗi.
+26:T66b,
+## Mục tiêu
+
+Kiểm soát **mọi thay đổi** so với hợp đồng gốc để không bị "trôi" khối lượng và chi phí ngoài kiểm soát.
+
+## Vì sao cần quy trình chặt
+
+Chi phí phát sinh là **nguồn bào mòn ngân sách phổ biến nhất** — không phải vì bất ngờ, mà vì chi phí thực đã phát sinh **trước khi** được ghi nhận chính thức vào giá trị hợp đồng.
+
+## Quy trình change control
+
+1. **Ghi nhận sự kiện thay đổi** — mô tả, nguyên nhân, ngày, kèm bằng chứng.
+2. **Đánh giá tác động** — chi phí và tiến độ.
+3. **Định giá & phân loại trạng thái** — *đề xuất → báo giá → thống nhất → thực hiện*.
+4. **Phê duyệt trước khi làm** — không thi công phát sinh khi chưa được duyệt.
+5. **Cập nhật ngân sách & hợp đồng** — điều chỉnh giá trị chính thức.
+
+## Nhật ký thay đổi (change log)
+
+| Mã | Mô tả | Chi phí | Tiến độ | Trạng thái |
+| --- | --- | --- | --- | --- |
+| VO-01 | Tăng thép đài móng | +45tr | 0 | Đã duyệt |
+| VO-02 | Đổi vật liệu ốp | +12tr | +2 ngày | Đang báo giá |
+
+## Checklist
+
+- [ ] Mọi phát sinh được ghi vào change log
+- [ ] Đánh giá tác động chi phí + tiến độ
+- [ ] Phê duyệt trước khi thi công
+- [ ] Cập nhật vào giá trị hợp đồng và ngân sách
+
+> **Cảnh báo:** Thi công phát sinh khi chưa được duyệt là rủi ro lớn: dễ bị từ chối thanh toán và tạo tranh chấp. "Làm trước, tính sau" thường dẫn tới mất tiền.
+27:T812,---
+title: "Quản lý chi phí phát sinh (Variation Order)"
+department: "cost-control"
+summary: "Quy trình kiểm soát thay đổi khối lượng/thiết kế: ghi nhận, định giá và phê duyệt trước khi thi công để tránh 'scope creep'."
+tags: ["phát sinh", "variation", "change order"]
+difficulty: "Trung bình"
+author: "Phòng Kiểm soát chi phí"
+updated: "2026-07-31"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Kiểm soát **mọi thay đổi** so với hợp đồng gốc để không bị "trôi" khối lượng và chi phí ngoài kiểm soát.
+
+## Vì sao cần quy trình chặt
+
+Chi phí phát sinh là **nguồn bào mòn ngân sách phổ biến nhất** — không phải vì bất ngờ, mà vì chi phí thực đã phát sinh **trước khi** được ghi nhận chính thức vào giá trị hợp đồng.
+
+## Quy trình change control
+
+1. **Ghi nhận sự kiện thay đổi** — mô tả, nguyên nhân, ngày, kèm bằng chứng.
+2. **Đánh giá tác động** — chi phí và tiến độ.
+3. **Định giá & phân loại trạng thái** — *đề xuất → báo giá → thống nhất → thực hiện*.
+4. **Phê duyệt trước khi làm** — không thi công phát sinh khi chưa được duyệt.
+5. **Cập nhật ngân sách & hợp đồng** — điều chỉnh giá trị chính thức.
+
+## Nhật ký thay đổi (change log)
+
+| Mã | Mô tả | Chi phí | Tiến độ | Trạng thái |
+| --- | --- | --- | --- | --- |
+| VO-01 | Tăng thép đài móng | +45tr | 0 | Đã duyệt |
+| VO-02 | Đổi vật liệu ốp | +12tr | +2 ngày | Đang báo giá |
+
+## Checklist
+
+- [ ] Mọi phát sinh được ghi vào change log
+- [ ] Đánh giá tác động chi phí + tiến độ
+- [ ] Phê duyệt trước khi thi công
+- [ ] Cập nhật vào giá trị hợp đồng và ngân sách
+
+> **Cảnh báo:** Thi công phát sinh khi chưa được duyệt là rủi ro lớn: dễ bị từ chối thanh toán và tạo tranh chấp. "Làm trước, tính sau" thường dẫn tới mất tiền.
+28:T64d,---
+title: "Quy trình đổ bê tông khối lớn"
+department: "construction-tech"
+summary: "Biện pháp thi công và kiểm soát nhiệt cho cấu kiện bê tông khối lớn nhằm tránh nứt do nhiệt."
+tags: ["bê tông", "khối lớn", "biện pháp thi công"]
+difficulty: "Nâng cao"
+author: "Phòng Kỹ thuật thi công"
+updated: "2026-07-31"
+readingTime: "8 phút"
+---
+
+## Mục tiêu
+
+Đổ bê tông khối lớn (đài móng, bè móng...) **liên tục, đạt cường độ** và **kiểm soát chênh lệch nhiệt** để tránh nứt.
+
+## Chuẩn bị trước khi đổ
+
+1. Duyệt cấp phối bê tông (mác, phụ gia, tro bay/xỉ giảm nhiệt).
+2. Lập biện pháp đổ: hướng đổ, chiều dày lớp, thiết bị dự phòng.
+3. Bố trí cảm biến đo nhiệt tại tâm và bề mặt khối đổ.
+4. Chuẩn bị vật liệu bảo dưỡng và giữ nhiệt (bạt, xốp).
+
+## Trong khi đổ
+
+- Đổ theo lớp, đầm kỹ, tránh phân tầng.
+- Đổ **liên tục**, kiểm soát mạch ngừng đúng vị trí thiết kế.
+- Theo dõi độ sụt từng xe, từ chối xe không đạt.
+
+## Kiểm soát nhiệt sau khi đổ
+
+| Tiêu chí | Ngưỡng khuyến nghị |
+| --- | --- |
+| Nhiệt độ tâm khối | ≤ 70 °C |
+| Chênh lệch tâm − bề mặt | ≤ 20 °C |
+
+- Duy trì bảo dưỡng và giữ ẩm liên tục theo quy định.
+- Ghi nhật ký nhiệt cho tới khi an toàn.
+
+> **Lưu ý:** Chênh lệch nhiệt vượt ngưỡng là nguyên nhân chính gây nứt nhiệt — ưu tiên kiểm soát chỉ số này.
+29:T665,
+## Mục tiêu
+
+Đánh giá dự án có **khả thi toàn diện** hay không trước khi cam kết vốn — không chỉ nhìn con số tài chính.
+
+## Các khía cạnh khả thi
+
+1. **Thị trường** — nhu cầu, giá bán/cho thuê, cạnh tranh, hấp thụ.
+2. **Kỹ thuật** — địa điểm, quy hoạch, giải pháp thi công, tiến độ.
+3. **Tài chính** — tổng mức đầu tư, cơ cấu vốn, dòng tiền, NPV/IRR.
+4. **Pháp lý** — quyền sử dụng đất, giấy phép, điều kiện đầu tư.
+5. **Tổ chức** — năng lực triển khai, đối tác.
+
+## Nhận diện & xử lý rủi ro
+
+| Nhóm rủi ro | Ví dụ | Biện pháp |
+| --- | --- | --- |
+| Thị trường | Bán chậm, giá giảm | Phân kỳ đầu tư, khảo sát kỹ |
+| Chi phí | Vượt tổng mức đầu tư | Dự phòng, hợp đồng trọn gói |
+| Tiến độ | Chậm pháp lý, GPMB | Lập kế hoạch pháp lý sớm |
+| Tài chính | Lãi suất, dòng tiền | Cơ cấu vốn thận trọng |
+
+## Kết luận đề xuất
+
+- Nêu rõ dự án nên **đầu tư / hoãn / từ chối / điều chỉnh**.
+- Kèm điều kiện tiên quyết và các giả định then chốt.
+
+## Checklist
+
+- [ ] Đủ 5 khía cạnh khả thi
+- [ ] Bảng rủi ro kèm biện pháp giảm thiểu
+- [ ] Phân tích kịch bản (tốt/cơ sở/xấu)
+- [ ] Kết luận và điều kiện rõ ràng
+
+> **Mẹo:** Một dự án hấp dẫn về tài chính vẫn có thể thất bại vì **rủi ro pháp lý hoặc thị trường** — đánh giá đa chiều giúp tránh "bẫy con số đẹp".
+2a:T804,---
+title: "Phân tích khả thi và rủi ro dự án đầu tư"
+department: "investment"
+summary: "Khung phân tích khả thi đa chiều (thị trường, kỹ thuật, tài chính, pháp lý) và nhận diện rủi ro trước khi quyết định đầu tư."
+tags: ["khả thi", "rủi ro", "đầu tư"]
+difficulty: "Nâng cao"
+author: "Phòng Đầu tư"
+updated: "2026-07-30"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Đánh giá dự án có **khả thi toàn diện** hay không trước khi cam kết vốn — không chỉ nhìn con số tài chính.
+
+## Các khía cạnh khả thi
+
+1. **Thị trường** — nhu cầu, giá bán/cho thuê, cạnh tranh, hấp thụ.
+2. **Kỹ thuật** — địa điểm, quy hoạch, giải pháp thi công, tiến độ.
+3. **Tài chính** — tổng mức đầu tư, cơ cấu vốn, dòng tiền, NPV/IRR.
+4. **Pháp lý** — quyền sử dụng đất, giấy phép, điều kiện đầu tư.
+5. **Tổ chức** — năng lực triển khai, đối tác.
+
+## Nhận diện & xử lý rủi ro
+
+| Nhóm rủi ro | Ví dụ | Biện pháp |
+| --- | --- | --- |
+| Thị trường | Bán chậm, giá giảm | Phân kỳ đầu tư, khảo sát kỹ |
+| Chi phí | Vượt tổng mức đầu tư | Dự phòng, hợp đồng trọn gói |
+| Tiến độ | Chậm pháp lý, GPMB | Lập kế hoạch pháp lý sớm |
+| Tài chính | Lãi suất, dòng tiền | Cơ cấu vốn thận trọng |
+
+## Kết luận đề xuất
+
+- Nêu rõ dự án nên **đầu tư / hoãn / từ chối / điều chỉnh**.
+- Kèm điều kiện tiên quyết và các giả định then chốt.
+
+## Checklist
+
+- [ ] Đủ 5 khía cạnh khả thi
+- [ ] Bảng rủi ro kèm biện pháp giảm thiểu
+- [ ] Phân tích kịch bản (tốt/cơ sở/xấu)
+- [ ] Kết luận và điều kiện rõ ràng
+
+> **Mẹo:** Một dự án hấp dẫn về tài chính vẫn có thể thất bại vì **rủi ro pháp lý hoặc thị trường** — đánh giá đa chiều giúp tránh "bẫy con số đẹp".
+2b:T5d7,
+## Mục tiêu
+
+Ghi nhận chi phí **đúng công trình, đúng khoản mục** để tính giá thành chính xác và phục vụ kiểm soát chi phí.
+
+## Hệ thống mã chi phí (cost code)
+
+Mỗi khoản chi được gắn mã theo cấu trúc thống nhất, ví dụ:
+
+```text
+<Mã công trình> - <Hạng mục> - <Khoản mục chi phí>
+CT01 - MONG - NVL   (nguyên vật liệu)
+CT01 - MONG - NC    (nhân công)
+CT01 - MONG - MTC   (máy thi công)
+```
+
+## Nhóm chi phí cơ bản
+
+| Nhóm | Ví dụ |
+| --- | --- |
+| Nguyên vật liệu (NVL) | Xi măng, thép, cốt liệu |
+| Nhân công (NC) | Lương công nhân, thầu phụ nhân công |
+| Máy thi công (MTC) | Thuê/khấu hao cẩu, máy đào |
+| Chi phí chung | Lán trại, điện nước, quản lý công trường |
+
+## Nguyên tắc hạch toán
+
+- Đúng kỳ, đúng công trình, đúng khoản mục.
+- Chứng từ hợp lệ (hóa đơn, phiếu nhập, bảng lương).
+- Không "gộp" chi phí vào chi phí quản lý để tránh sai lệch giá thành.
+
+## Checklist
+
+- [ ] Mọi chứng từ được gắn mã công trình
+- [ ] Phân loại đúng nhóm chi phí
+- [ ] Đối chiếu với kho và khối lượng nghiệm thu
+- [ ] Số liệu khớp với báo cáo chi phí của công trường
+
+> **Lưu ý:** Chi phí bị hạch toán sai mã khiến báo cáo giá thành mất chính xác — đây là gốc rễ của nhiều sai lệch giữa kế toán và công trường.
+2c:T761,---
+title: "Hạch toán chi phí công trình theo khoản mục"
+department: "finance"
+summary: "Cách phân loại và ghi nhận chi phí công trình theo hệ thống mã chi phí để theo dõi giá thành chính xác."
+tags: ["kế toán", "chi phí", "mã chi phí"]
+difficulty: "Trung bình"
+author: "Phòng Tài chính - Kế toán"
+updated: "2026-07-30"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Ghi nhận chi phí **đúng công trình, đúng khoản mục** để tính giá thành chính xác và phục vụ kiểm soát chi phí.
+
+## Hệ thống mã chi phí (cost code)
+
+Mỗi khoản chi được gắn mã theo cấu trúc thống nhất, ví dụ:
+
+```text
+<Mã công trình> - <Hạng mục> - <Khoản mục chi phí>
+CT01 - MONG - NVL   (nguyên vật liệu)
+CT01 - MONG - NC    (nhân công)
+CT01 - MONG - MTC   (máy thi công)
+```
+
+## Nhóm chi phí cơ bản
+
+| Nhóm | Ví dụ |
+| --- | --- |
+| Nguyên vật liệu (NVL) | Xi măng, thép, cốt liệu |
+| Nhân công (NC) | Lương công nhân, thầu phụ nhân công |
+| Máy thi công (MTC) | Thuê/khấu hao cẩu, máy đào |
+| Chi phí chung | Lán trại, điện nước, quản lý công trường |
+
+## Nguyên tắc hạch toán
+
+- Đúng kỳ, đúng công trình, đúng khoản mục.
+- Chứng từ hợp lệ (hóa đơn, phiếu nhập, bảng lương).
+- Không "gộp" chi phí vào chi phí quản lý để tránh sai lệch giá thành.
+
+## Checklist
+
+- [ ] Mọi chứng từ được gắn mã công trình
+- [ ] Phân loại đúng nhóm chi phí
+- [ ] Đối chiếu với kho và khối lượng nghiệm thu
+- [ ] Số liệu khớp với báo cáo chi phí của công trường
+
+> **Lưu ý:** Chi phí bị hạch toán sai mã khiến báo cáo giá thành mất chính xác — đây là gốc rễ của nhiều sai lệch giữa kế toán và công trường.
+2d:T5f7,---
+title: "Review code hiệu quả"
+department: "engineering"
+summary: "Nguyên tắc và checklist để review pull request nhanh, chất lượng và tôn trọng đồng đội."
+tags: ["code review", "chất lượng", "pull request"]
+difficulty: "Trung bình"
+author: "Phòng Kỹ thuật"
+updated: "2026-07-30"
+readingTime: "7 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Đảm bảo mọi thay đổi code được kiểm tra về **tính đúng đắn, khả năng bảo trì và bảo mật** trước khi merge.
+
+## Nguyên tắc
+
+1. Review **nhỏ và thường xuyên** hơn là dồn một PR khổng lồ.
+2. Bình luận về **code, không về con người**.
+3. Phân biệt rõ *bắt buộc sửa* và *góp ý tuỳ chọn* (dùng tiền tố `nit:`).
+
+## Checklist khi review
+
+- [ ] Thay đổi có giải quyết đúng vấn đề mô tả trong PR không?
+- [ ] Có test bao phủ phần logic mới không?
+- [ ] Có xử lý các trường hợp biên (null, rỗng, lỗi mạng)?
+- [ ] Đặt tên biến/hàm rõ nghĩa?
+- [ ] Không lộ secret/API key?
+
+## Ví dụ bình luận tốt
+
+```text
+nit: Có thể tách hàm này thành helper để tái sử dụng.
+blocker: Query này thiếu index -> có nguy cơ full scan trên bảng lớn.
+```
+
+## SLA đề xuất
+
+| Loại PR | Thời gian phản hồi |
+| --- | --- |
+| Hotfix | < 1 giờ |
+| Thường | < 1 ngày làm việc |
+
+> **Lưu ý:** Nếu tranh luận quá 2 vòng bình luận, hãy chuyển sang trao đổi trực tiếp.
+2e:T61d,---
+title: "Cấp phép công việc nóng (Hot Work Permit)"
+department: "hse"
+summary: "Quy trình cấp phép và kiểm soát các công việc phát sinh nhiệt/tia lửa như hàn, cắt để phòng cháy nổ."
+tags: ["an toàn", "hàn cắt", "phòng cháy"]
+difficulty: "Trung bình"
+author: "Phòng An toàn (HSE)"
+updated: "2026-07-30"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Kiểm soát công việc sinh nhiệt/tia lửa (hàn, cắt, mài) để **ngăn cháy nổ** tại công trường.
+
+## Khi nào cần giấy phép
+
+Mọi công việc hàn, cắt hơi, mài kim loại, hoặc dùng ngọn lửa trần — đặc biệt gần vật liệu dễ cháy.
+
+## Điều kiện trước khi cấp phép
+
+- [ ] Dọn sạch vật liệu dễ cháy trong bán kính an toàn
+- [ ] Bố trí bình chữa cháy phù hợp tại chỗ
+- [ ] Có người canh lửa (fire watch) trong và sau khi làm
+- [ ] Che chắn tia lửa, bảo vệ khu vực bên dưới
+- [ ] Thiết bị hàn/cắt còn tốt, dây tiếp địa đầy đủ
+
+## Quy trình
+
+1. Người thực hiện đề nghị cấp phép, nêu vị trí & thời gian.
+2. Cán bộ an toàn kiểm tra hiện trường theo checklist.
+3. Cấp giấy phép có **thời hạn** (thường trong ca).
+4. Giám sát trong khi làm; duy trì canh lửa **tối thiểu 30-60 phút** sau khi xong.
+5. Đóng giấy phép khi khu vực an toàn.
+
+> **Cảnh báo:** Nhiều đám cháy bùng phát *sau khi* thợ hàn rời đi — không bỏ qua bước canh lửa sau công việc.
+2f:T653,---
+title: "Xử lý phiếu không phù hợp (NCR)"
+department: "qaqc"
+summary: "Quy trình phát hành và đóng phiếu Non-Conformance Report khi phát hiện công việc không đạt yêu cầu chất lượng."
+tags: ["ncr", "không phù hợp", "chất lượng"]
+difficulty: "Trung bình"
+author: "Phòng QA/QC"
+updated: "2026-07-29"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Xử lý **có hệ thống** các sản phẩm/công tác không đạt, đảm bảo được khắc phục và ngăn tái diễn.
+
+## Quy trình NCR
+
+1. **Phát hiện & ghi nhận** — mô tả sai khác so với tiêu chuẩn, kèm ảnh/vị trí.
+2. **Phân loại phương án xử lý:**
+   - Sửa chữa (rework) về đúng thiết kế
+   - Sửa để dùng được (repair) — cần tính toán/duyệt
+   - Chấp nhận có điều kiện (use-as-is) — phải được duyệt
+   - Loại bỏ (reject)
+3. **Phê duyệt phương án** — tư vấn thiết kế / chủ đầu tư khi cần.
+4. **Thực hiện khắc phục** và kiểm tra lại.
+5. **Hành động phòng ngừa** — tránh lặp lại.
+6. **Đóng NCR** — ký xác nhận đã đạt.
+
+## Nội dung tối thiểu của phiếu
+
+- [ ] Mã NCR, ngày, vị trí, hạng mục
+- [ ] Mô tả không phù hợp + tiêu chuẩn vi phạm
+- [ ] Phương án xử lý và người duyệt
+- [ ] Bằng chứng khắc phục (ảnh, kết quả thí nghiệm)
+
+> **Lưu ý:** NCR không phải để "bắt lỗi" cá nhân, mà để kiểm soát chất lượng và cải tiến. Ghi nhận trung thực giúp toàn dự án tốt hơn.
+30:T57b,
+## Mục tiêu
+
+Đảm bảo dự án **đầy đủ hồ sơ pháp lý** theo từng giai đoạn, tránh bị xử phạt hoặc đình chỉ thi công.
+
+## Hồ sơ theo giai đoạn (tổng quát)
+
+### Chuẩn bị đầu tư
+- Chủ trương đầu tư / quyết định đầu tư
+- Quyền sử dụng đất, quy hoạch
+- Đánh giá tác động môi trường (nếu thuộc diện)
+
+### Thiết kế & cấp phép
+- Thẩm định, phê duyệt thiết kế
+- Giấy phép xây dựng
+
+### Thi công
+- Hợp đồng, bảo lãnh, bảo hiểm công trình
+- Hồ sơ an toàn lao động, PCCC
+- Nhật ký thi công, hồ sơ nghiệm thu
+
+### Hoàn thành
+- Nghiệm thu hoàn thành, PCCC nghiệm thu
+- Hoàn công, bàn giao đưa vào sử dụng
+
+## Checklist kiểm soát tuân thủ
+
+- [ ] Lập danh mục hồ sơ pháp lý theo giai đoạn
+- [ ] Theo dõi thời hạn hiệu lực của giấy phép
+- [ ] Phân công người phụ trách từng đầu hồ sơ
+- [ ] Rà soát định kỳ, cảnh báo hồ sơ sắp hết hạn
+
+> **Cảnh báo:** Thi công khi chưa đủ giấy phép hoặc để hồ sơ hết hạn có thể dẫn tới **đình chỉ và xử phạt** — luôn kiểm tra trước mỗi mốc quan trọng.
+>
+> *Danh mục trên mang tính tổng quát; cần đối chiếu quy định pháp luật hiện hành và đặc thù từng dự án.*
+31:T6e3,---
+title: "Tuân thủ pháp lý dự án xây dựng"
+department: "legal"
+summary: "Danh mục hồ sơ pháp lý và giấy phép cần tuân thủ theo các giai đoạn của một dự án xây dựng."
+tags: ["pháp lý", "giấy phép", "tuân thủ"]
+difficulty: "Nâng cao"
+author: "Phòng Pháp lý"
+updated: "2026-07-29"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Đảm bảo dự án **đầy đủ hồ sơ pháp lý** theo từng giai đoạn, tránh bị xử phạt hoặc đình chỉ thi công.
+
+## Hồ sơ theo giai đoạn (tổng quát)
+
+### Chuẩn bị đầu tư
+- Chủ trương đầu tư / quyết định đầu tư
+- Quyền sử dụng đất, quy hoạch
+- Đánh giá tác động môi trường (nếu thuộc diện)
+
+### Thiết kế & cấp phép
+- Thẩm định, phê duyệt thiết kế
+- Giấy phép xây dựng
+
+### Thi công
+- Hợp đồng, bảo lãnh, bảo hiểm công trình
+- Hồ sơ an toàn lao động, PCCC
+- Nhật ký thi công, hồ sơ nghiệm thu
+
+### Hoàn thành
+- Nghiệm thu hoàn thành, PCCC nghiệm thu
+- Hoàn công, bàn giao đưa vào sử dụng
+
+## Checklist kiểm soát tuân thủ
+
+- [ ] Lập danh mục hồ sơ pháp lý theo giai đoạn
+- [ ] Theo dõi thời hạn hiệu lực của giấy phép
+- [ ] Phân công người phụ trách từng đầu hồ sơ
+- [ ] Rà soát định kỳ, cảnh báo hồ sơ sắp hết hạn
+
+> **Cảnh báo:** Thi công khi chưa đủ giấy phép hoặc để hồ sơ hết hạn có thể dẫn tới **đình chỉ và xử phạt** — luôn kiểm tra trước mỗi mốc quan trọng.
+>
+> *Danh mục trên mang tính tổng quát; cần đối chiếu quy định pháp luật hiện hành và đặc thù từng dự án.*
+32:T6d6,
+## Mục tiêu
+
+Bảo vệ quyền lợi khi phát sinh sự kiện làm **tăng thời gian/chi phí** — thông qua hồ sơ claim chặt chẽ và đúng thời hạn.
+
+## Nguyên tắc cốt lõi
+
+1. **Tuân thủ thời hạn thông báo (notice).** Nhiều hợp đồng (ví dụ mẫu FIDIC 2017) yêu cầu **thông báo trong 28 ngày** kể từ khi biết sự kiện; hồ sơ chi tiết thường nộp trong **84 ngày**. Trễ hạn có thể **mất quyền** đòi.
+2. **Thông báo sớm** ngay cả khi chưa biết hết tác động — giữ quyền trước, bổ sung chi tiết sau.
+3. **Hồ sơ đồng thời là xương sống** — nhật ký, hình ảnh, biên bản họp, công văn, hồ sơ chi phí.
+
+## Cấu trúc một hồ sơ claim
+
+- **Căn cứ hợp đồng** — điều khoản cho phép đòi.
+- **Diễn biến sự kiện** — mốc thời gian, nguyên nhân.
+- **Chứng minh quan hệ nhân - quả** — sự kiện → ảnh hưởng.
+- **Định lượng** — thời gian (EOT) và/hoặc chi phí, có chứng từ.
+
+## Checklist
+
+- [ ] Phát hành notice đúng thời hạn, đúng mẫu
+- [ ] Thu thập hồ sơ đồng thời ngay khi sự kiện xảy ra
+- [ ] Tách mã chi phí phát sinh để định lượng
+- [ ] Liên kết rõ nguyên nhân và ảnh hưởng
+- [ ] Nộp hồ sơ chi tiết trong thời hạn quy định
+
+> **Cảnh báo:** Một claim hợp lệ vẫn có thể **thất bại vì thiếu bằng chứng** hoặc **trễ thời hạn thông báo**. Kỷ luật hồ sơ quan trọng ngang với lý lẽ.
+>
+> *Thời hạn cụ thể tùy theo điều kiện hợp đồng của từng dự án — luôn đối chiếu hợp đồng đang áp dụng.*
+33:T883,---
+title: "Lập và xử lý hồ sơ claim hợp đồng"
+department: "contracts"
+summary: "Quy trình lập hồ sơ khiếu nại (claim) đòi thêm thời gian/chi phí: tuân thủ thời hạn thông báo và chứng minh bằng hồ sơ đồng thời."
+tags: ["claim", "khiếu nại", "hợp đồng"]
+difficulty: "Nâng cao"
+author: "Phòng Quản lý hợp đồng"
+updated: "2026-07-28"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Bảo vệ quyền lợi khi phát sinh sự kiện làm **tăng thời gian/chi phí** — thông qua hồ sơ claim chặt chẽ và đúng thời hạn.
+
+## Nguyên tắc cốt lõi
+
+1. **Tuân thủ thời hạn thông báo (notice).** Nhiều hợp đồng (ví dụ mẫu FIDIC 2017) yêu cầu **thông báo trong 28 ngày** kể từ khi biết sự kiện; hồ sơ chi tiết thường nộp trong **84 ngày**. Trễ hạn có thể **mất quyền** đòi.
+2. **Thông báo sớm** ngay cả khi chưa biết hết tác động — giữ quyền trước, bổ sung chi tiết sau.
+3. **Hồ sơ đồng thời là xương sống** — nhật ký, hình ảnh, biên bản họp, công văn, hồ sơ chi phí.
+
+## Cấu trúc một hồ sơ claim
+
+- **Căn cứ hợp đồng** — điều khoản cho phép đòi.
+- **Diễn biến sự kiện** — mốc thời gian, nguyên nhân.
+- **Chứng minh quan hệ nhân - quả** — sự kiện → ảnh hưởng.
+- **Định lượng** — thời gian (EOT) và/hoặc chi phí, có chứng từ.
+
+## Checklist
+
+- [ ] Phát hành notice đúng thời hạn, đúng mẫu
+- [ ] Thu thập hồ sơ đồng thời ngay khi sự kiện xảy ra
+- [ ] Tách mã chi phí phát sinh để định lượng
+- [ ] Liên kết rõ nguyên nhân và ảnh hưởng
+- [ ] Nộp hồ sơ chi tiết trong thời hạn quy định
+
+> **Cảnh báo:** Một claim hợp lệ vẫn có thể **thất bại vì thiếu bằng chứng** hoặc **trễ thời hạn thông báo**. Kỷ luật hồ sơ quan trọng ngang với lý lẽ.
+>
+> *Thời hạn cụ thể tùy theo điều kiện hợp đồng của từng dự án — luôn đối chiếu hợp đồng đang áp dụng.*
+34:T559,
+## Mục tiêu
+
+Giúp nhân viên mới **hội nhập nhanh**, hiểu rõ kỳ vọng công việc và bắt đầu đóng góp trong vòng 30 ngày.
+
+## Khi nào dùng skill này
+
+- Có nhân viên mới nhận việc.
+- Cần chuẩn hóa trải nghiệm onboarding giữa các phòng ban.
+
+## Các bước thực hiện
+
+### Trước ngày đầu tiên (D-3)
+1. Chuẩn bị tài khoản email, công cụ nội bộ và quyền truy cập.
+2. Gán một **buddy** (người đồng hành) cùng phòng ban.
+3. Gửi email chào mừng kèm lịch tuần đầu.
+
+### Tuần 1 — Làm quen
+- Giới thiệu đội nhóm và văn hóa công ty.
+- Đọc tài liệu quy trình cốt lõi của phòng ban.
+- Thiết lập môi trường làm việc và công cụ.
+
+### Tuần 2-3 — Bắt tay vào việc
+- Nhận nhiệm vụ nhỏ có phạm vi rõ ràng.
+- Họp 1:1 với quản lý mỗi tuần để tháo gỡ vướng mắc.
+
+### Tuần 4 — Đánh giá
+- Tổng kết những gì đã học và đóng góp.
+- Thống nhất mục tiêu 60-90 ngày tiếp theo.
+
+## Checklist nhanh
+
+- [ ] Tài khoản & quyền truy cập
+- [ ] Buddy được chỉ định
+- [ ] Lịch 1:1 hàng tuần
+- [ ] Mục tiêu 30/60/90 ngày
+
+> **Mẹo:** Một trải nghiệm onboarding tốt trong tháng đầu làm tăng đáng kể tỷ lệ giữ chân nhân viên.
+35:T6dc,---
+title: "Onboarding nhân viên mới trong 30 ngày"
+department: "hr"
+summary: "Lộ trình chuẩn giúp nhân viên mới hội nhập nhanh, rõ vai trò và bắt đầu tạo giá trị trong tháng đầu tiên."
+tags: ["onboarding", "quy trình", "văn hóa"]
+difficulty: "Cơ bản"
+author: "Phòng Nhân sự"
+updated: "2026-07-28"
+readingTime: "6 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Giúp nhân viên mới **hội nhập nhanh**, hiểu rõ kỳ vọng công việc và bắt đầu đóng góp trong vòng 30 ngày.
+
+## Khi nào dùng skill này
+
+- Có nhân viên mới nhận việc.
+- Cần chuẩn hóa trải nghiệm onboarding giữa các phòng ban.
+
+## Các bước thực hiện
+
+### Trước ngày đầu tiên (D-3)
+1. Chuẩn bị tài khoản email, công cụ nội bộ và quyền truy cập.
+2. Gán một **buddy** (người đồng hành) cùng phòng ban.
+3. Gửi email chào mừng kèm lịch tuần đầu.
+
+### Tuần 1 — Làm quen
+- Giới thiệu đội nhóm và văn hóa công ty.
+- Đọc tài liệu quy trình cốt lõi của phòng ban.
+- Thiết lập môi trường làm việc và công cụ.
+
+### Tuần 2-3 — Bắt tay vào việc
+- Nhận nhiệm vụ nhỏ có phạm vi rõ ràng.
+- Họp 1:1 với quản lý mỗi tuần để tháo gỡ vướng mắc.
+
+### Tuần 4 — Đánh giá
+- Tổng kết những gì đã học và đóng góp.
+- Thống nhất mục tiêu 60-90 ngày tiếp theo.
+
+## Checklist nhanh
+
+- [ ] Tài khoản & quyền truy cập
+- [ ] Buddy được chỉ định
+- [ ] Lịch 1:1 hàng tuần
+- [ ] Mục tiêu 30/60/90 ngày
+
+> **Mẹo:** Một trải nghiệm onboarding tốt trong tháng đầu làm tăng đáng kể tỷ lệ giữ chân nhân viên.
+36:T6c8,---
+title: "Quy trình mua và nghiệm thu vật tư đầu vào"
+department: "procurement"
+summary: "Từ đề nghị mua đến nhập kho công trường: kiểm soát chất lượng, chứng từ và số lượng vật tư đầu vào."
+tags: ["vật tư", "mua sắm", "nghiệm thu"]
+difficulty: "Cơ bản"
+author: "Phòng Vật tư - Thiết bị"
+updated: "2026-07-28"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Đảm bảo vật tư về công trường **đúng chủng loại, đủ số lượng, đạt chất lượng** và đầy đủ chứng từ.
+
+## Quy trình
+
+1. **Đề nghị mua** — từ kế hoạch vật tư theo tiến độ.
+2. **Chọn nhà cung cấp** — so sánh báo giá, năng lực, tiến độ giao.
+3. **Duyệt & đặt hàng** — theo hạn mức phê duyệt.
+4. **Nghiệm thu nhập kho** — kiểm tra khi hàng về.
+5. **Lưu hồ sơ** — hóa đơn, CO/CQ, phiếu nhập.
+
+## Nghiệm thu vật tư khi giao
+
+- [ ] Đúng chủng loại, quy cách, mác theo đơn hàng
+- [ ] Đủ số lượng (cân/đo/đếm thực tế)
+- [ ] Có chứng chỉ chất lượng (CO/CQ) với vật tư yêu cầu
+- [ ] Lấy mẫu thí nghiệm với vật tư chịu lực (thép, xi măng, cốt liệu)
+- [ ] Không hư hỏng, ẩm mốc, gỉ sét
+
+## Vật tư cần thí nghiệm đầu vào (ví dụ)
+
+| Vật tư | Chỉ tiêu thường kiểm |
+| --- | --- |
+| Thép | Giới hạn chảy, độ giãn dài, uốn nguội |
+| Xi măng | Cường độ, thời gian đông kết |
+| Cốt liệu | Thành phần hạt, hàm lượng bùn sét |
+
+> **Lưu ý:** Không đưa vào sử dụng vật tư chịu lực khi chưa có kết quả thí nghiệm đạt yêu cầu.
+37:T5b2,---
+title: "Viết PRD (Product Requirements Document)"
+department: "product"
+summary: "Mẫu tài liệu yêu cầu sản phẩm giúp cả team hiểu vấn đề, giải pháp và tiêu chí thành công."
+tags: ["prd", "sản phẩm", "tài liệu"]
+difficulty: "Trung bình"
+author: "Phòng Sản phẩm"
+updated: "2026-07-27"
+readingTime: "7 phút"
+---
+
+## Mục tiêu
+
+Tạo tài liệu để **cả team đồng thuận** về việc *xây gì* và *tại sao*, trước khi viết dòng code đầu tiên.
+
+## Cấu trúc PRD
+
+1. **Bối cảnh & Vấn đề** — Ai gặp vấn đề gì, ảnh hưởng ra sao.
+2. **Mục tiêu & Chỉ số** — Định nghĩa thành công (metrics).
+3. **Phạm vi** — Làm gì và **không** làm gì (out of scope).
+4. **User stories** — "Là [vai trò], tôi muốn [hành động] để [lợi ích]".
+5. **Yêu cầu chức năng** — Chi tiết hành vi mong muốn.
+6. **Rủi ro & Câu hỏi mở**.
+
+## Ví dụ tiêu chí thành công
+
+```text
+Mục tiêu: Giảm tỷ lệ bỏ giỏ hàng.
+Chỉ số: Tỷ lệ hoàn tất thanh toán tăng từ 60% -> 70% trong 1 tháng.
+```
+
+## Checklist chất lượng PRD
+
+- [ ] Vấn đề được nêu rõ ràng, có dữ liệu
+- [ ] Mục tiêu đo lường được
+- [ ] Phạm vi (in/out) rõ ràng
+- [ ] Đã review cùng Kỹ thuật & Thiết kế
+
+> **Mẹo:** PRD tốt trả lời được câu hỏi "làm sao biết đã thành công?".
+38:T60f,
+## Mục tiêu
+
+Nộp hồ sơ dự thầu **đầy đủ, đúng yêu cầu, đúng hạn** — tránh bị loại vì lỗi hình thức hoặc thiếu tài liệu.
+
+## Cấu phần hồ sơ (tổng quát)
+
+1. **Hồ sơ pháp lý & năng lực** — đăng ký kinh doanh, báo cáo tài chính, hợp đồng tương tự.
+2. **Đề xuất kỹ thuật** — biện pháp thi công, tiến độ, nhân sự, thiết bị.
+3. **Đề xuất tài chính** — bảng giá dự thầu, phân tích đơn giá.
+4. **Bảo đảm dự thầu** — bảo lãnh theo yêu cầu.
+
+## Quy trình lập hồ sơ
+
+1. **Đọc kỹ hồ sơ mời thầu (HSMT)** — lập danh mục yêu cầu bắt buộc.
+2. **Phân công & lịch** — ai làm phần nào, hạn nội bộ trước hạn nộp.
+3. **Bóc khối lượng & chào giá** — kiểm tra chéo số học.
+4. **Soát xét chéo** — đối chiếu với từng yêu cầu của HSMT.
+5. **Đóng gói & nộp** — đúng quy cách, đúng hạn.
+
+## Checklist trước khi nộp
+
+- [ ] Đủ tài liệu theo danh mục HSMT
+- [ ] Bảo đảm dự thầu hợp lệ (giá trị, thời hạn)
+- [ ] Đơn giá đã kiểm tra chéo, không lỗi số học
+- [ ] Chữ ký, đóng dấu, niêm phong đúng quy định
+- [ ] Nộp trước thời điểm đóng thầu
+
+> **Cảnh báo:** Rất nhiều hồ sơ bị loại vì **lỗi hình thức** (thiếu bảo lãnh, sai quy cách, nộp trễ) chứ không phải vì giá. Kiểm tra tuân thủ HSMT là bước sống còn.
+39:T7a5,---
+title: "Chuẩn bị hồ sơ dự thầu"
+department: "estimating"
+summary: "Checklist tổ chức lập hồ sơ dự thầu đầy đủ, đúng yêu cầu và nộp đúng hạn để không bị loại vì lỗi hình thức."
+tags: ["dự thầu", "hồ sơ", "đấu thầu"]
+difficulty: "Trung bình"
+author: "Phòng Dự toán - Đấu thầu"
+updated: "2026-07-27"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Nộp hồ sơ dự thầu **đầy đủ, đúng yêu cầu, đúng hạn** — tránh bị loại vì lỗi hình thức hoặc thiếu tài liệu.
+
+## Cấu phần hồ sơ (tổng quát)
+
+1. **Hồ sơ pháp lý & năng lực** — đăng ký kinh doanh, báo cáo tài chính, hợp đồng tương tự.
+2. **Đề xuất kỹ thuật** — biện pháp thi công, tiến độ, nhân sự, thiết bị.
+3. **Đề xuất tài chính** — bảng giá dự thầu, phân tích đơn giá.
+4. **Bảo đảm dự thầu** — bảo lãnh theo yêu cầu.
+
+## Quy trình lập hồ sơ
+
+1. **Đọc kỹ hồ sơ mời thầu (HSMT)** — lập danh mục yêu cầu bắt buộc.
+2. **Phân công & lịch** — ai làm phần nào, hạn nội bộ trước hạn nộp.
+3. **Bóc khối lượng & chào giá** — kiểm tra chéo số học.
+4. **Soát xét chéo** — đối chiếu với từng yêu cầu của HSMT.
+5. **Đóng gói & nộp** — đúng quy cách, đúng hạn.
+
+## Checklist trước khi nộp
+
+- [ ] Đủ tài liệu theo danh mục HSMT
+- [ ] Bảo đảm dự thầu hợp lệ (giá trị, thời hạn)
+- [ ] Đơn giá đã kiểm tra chéo, không lỗi số học
+- [ ] Chữ ký, đóng dấu, niêm phong đúng quy định
+- [ ] Nộp trước thời điểm đóng thầu
+
+> **Cảnh báo:** Rất nhiều hồ sơ bị loại vì **lỗi hình thức** (thiếu bảo lãnh, sai quy cách, nộp trễ) chứ không phải vì giá. Kiểm tra tuân thủ HSMT là bước sống còn.
+3a:T680,---
+title: "Khóa sổ và lập báo cáo tài chính tháng"
+department: "finance"
+summary: "Checklist các bước khóa sổ cuối tháng để lập báo cáo tài chính đúng hạn, đầy đủ và đối chiếu khớp."
+tags: ["kế toán", "khóa sổ", "báo cáo"]
+difficulty: "Trung bình"
+author: "Phòng Tài chính - Kế toán"
+updated: "2026-07-26"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Đóng sổ kế toán tháng **đúng hạn, chính xác, đối chiếu khớp** để có báo cáo phục vụ điều hành.
+
+## Trình tự khóa sổ
+
+1. **Ghi nhận đầy đủ** hóa đơn, chứng từ trong kỳ.
+2. **Đối chiếu** ngân hàng, công nợ phải thu/phải trả, kho.
+3. **Phân bổ & trích** khấu hao, chi phí trả trước, dự phòng.
+4. **Rà soát bút toán** bất thường, số dư âm.
+5. **Kết chuyển** doanh thu - chi phí, xác định kết quả.
+6. **Lập báo cáo** và giải trình biến động.
+
+## Checklist đối chiếu
+
+- [ ] Số dư ngân hàng khớp sao kê
+- [ ] Công nợ khớp biên bản đối chiếu
+- [ ] Tồn kho khớp kiểm kê
+- [ ] Chi phí công trình khớp báo cáo công trường
+- [ ] Thuế GTGT/TNCN đã kê khai
+
+## Sản phẩm đầu ra
+
+| Báo cáo | Mục đích |
+| --- | --- |
+| Bảng cân đối kế toán | Tình hình tài sản - nguồn vốn |
+| Báo cáo kết quả kinh doanh | Lãi/lỗ trong kỳ |
+| Báo cáo dòng tiền | Thu - chi tiền mặt |
+
+> **Mẹo:** Lập **lịch khóa sổ** với hạn chót cho từng đầu việc và người phụ trách — khóa sổ trễ làm cả chuỗi báo cáo trễ theo.
+3b:T533,---
+title: "Lập kế hoạch chiến dịch Marketing"
+department: "marketing"
+summary: "Khung lập kế hoạch chiến dịch từ mục tiêu, đối tượng, thông điệp đến kênh và đo lường."
+tags: ["chiến dịch", "kế hoạch", "content"]
+difficulty: "Trung bình"
+author: "Phòng Marketing"
+updated: "2026-07-25"
+readingTime: "6 phút"
+featured: true
+---
+
+## Mục tiêu
+
+Xây dựng chiến dịch có **mục tiêu đo lường được** và ngân sách hợp lý.
+
+## Khung 5W + Đo lường
+
+1. **Why** — Mục tiêu kinh doanh (nhận diện, lead, doanh thu).
+2. **Who** — Chân dung khách hàng mục tiêu.
+3. **What** — Thông điệp và ưu đãi cốt lõi.
+4. **Where** — Kênh triển khai (SEO, ads, email, social).
+5. **When** — Thời gian và các mốc chính.
+
+## KPI gợi ý
+
+| Mục tiêu | KPI |
+| --- | --- |
+| Nhận diện | Reach, impressions |
+| Tương tác | CTR, engagement rate |
+| Chuyển đổi | Số lead, CPL, ROAS |
+
+## Checklist trước khi chạy
+
+- [ ] Thông điệp thống nhất trên mọi kênh
+- [ ] Landing page & tracking (UTM) sẵn sàng
+- [ ] Ngân sách và lịch chạy được duyệt
+- [ ] Kế hoạch báo cáo hàng tuần
+
+> **Mẹo:** Luôn để lại 10-15% ngân sách để tối ưu dựa trên dữ liệu thực tế.
+3c:T635,---
+title: "Chấm công và tính lương công nhân công trường"
+department: "hr"
+summary: "Quy trình chấm công minh bạch và tính lương chính xác cho công nhân, tổ đội tại công trường."
+tags: ["chấm công", "tính lương", "công trường"]
+difficulty: "Cơ bản"
+author: "Phòng Nhân sự"
+updated: "2026-07-24"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Chấm công **minh bạch**, tính lương **đúng và đúng hạn** cho công nhân và tổ đội tại công trường.
+
+## Quy trình
+
+1. **Chấm công hàng ngày** — theo tổ đội, có xác nhận của tổ trưởng/giám sát.
+2. **Tổng hợp cuối kỳ** — công thường, tăng ca, ngày nghỉ, phụ cấp.
+3. **Đối chiếu khối lượng** — với công việc thực tế/nghiệm thu (nếu khoán).
+4. **Tính lương** — theo công nhật hoặc khoán khối lượng.
+5. **Duyệt & chi trả** — kèm bảng lương chi tiết.
+
+## Hình thức trả lương phổ biến
+
+| Hình thức | Cách tính |
+| --- | --- |
+| Công nhật | Số công × đơn giá ngày công |
+| Khoán khối lượng | Khối lượng nghiệm thu × đơn giá khoán |
+
+## Checklist minh bạch
+
+- [ ] Bảng công có xác nhận của tổ trưởng và giám sát
+- [ ] Đối chiếu công với nhật ký thi công
+- [ ] Bảng lương công khai cho người lao động
+- [ ] Lưu chứng từ ký nhận
+
+> **Lưu ý:** Chấm công thiếu xác nhận hai chiều (tổ trưởng + giám sát) dễ dẫn tới khai khống hoặc tranh chấp lương.
+3d:T5cd,---
+title: "Xử lý sự cố production (Incident Response)"
+department: "engineering"
+summary: "Quy trình ứng phó sự cố có mức độ ưu tiên rõ ràng, giảm thời gian downtime và học hỏi sau sự cố."
+tags: ["incident", "vận hành", "on-call"]
+difficulty: "Nâng cao"
+author: "Phòng Kỹ thuật"
+updated: "2026-07-22"
+readingTime: "8 phút"
+---
+
+## Mục tiêu
+
+Khôi phục dịch vụ **nhanh nhất có thể** và rút ra bài học để không lặp lại.
+
+## Phân loại mức độ (Severity)
+
+| Mức | Ảnh hưởng | Ví dụ |
+| --- | --- | --- |
+| SEV1 | Toàn bộ hệ thống ngừng | Website down hoàn toàn |
+| SEV2 | Tính năng chính lỗi | Không thanh toán được |
+| SEV3 | Ảnh hưởng nhỏ | Lỗi hiển thị nhỏ |
+
+## Quy trình 5 bước
+
+1. **Phát hiện** — Nhận alert hoặc báo cáo từ khách hàng.
+2. **Điều phối** — Chỉ định một *Incident Commander*.
+3. **Giảm thiểu** — Ưu tiên khôi phục dịch vụ (rollback, tắt tính năng...).
+4. **Khắc phục** — Sửa triệt để nguyên nhân gốc.
+5. **Hậu sự cố** — Viết postmortem **không đổ lỗi** trong 48 giờ.
+
+## Mẫu thông báo nội bộ
+
+```text
+[SEV2] Thanh toán gián đoạn
+Bắt đầu: 14:05
+Ảnh hưởng: ~15% giao dịch thất bại
+Đang xử lý: rollback bản deploy 14:00
+IC: @ten-nguoi
+```
+
+> **Nguyên tắc vàng:** Khôi phục trước, tìm nguyên nhân gốc sau.
+3e:T593,---
+title: "Xử lý ticket hỗ trợ khách hàng"
+department: "support"
+summary: "Quy trình tiếp nhận, phân loại và phản hồi ticket theo SLA để giữ trải nghiệm khách hàng nhất quán."
+tags: ["ticket", "sla", "hỗ trợ"]
+difficulty: "Cơ bản"
+author: "Phòng Chăm sóc khách hàng"
+updated: "2026-07-20"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Phản hồi **đúng hạn, đúng người và đúng cách** cho mọi yêu cầu của khách hàng.
+
+## Phân loại ưu tiên
+
+| Mức | Mô tả | SLA phản hồi đầu |
+| --- | --- | --- |
+| Khẩn cấp | Mất dịch vụ hoàn toàn | 30 phút |
+| Cao | Ảnh hưởng nghiệp vụ chính | 2 giờ |
+| Thường | Câu hỏi, yêu cầu nhỏ | 1 ngày làm việc |
+
+## Quy trình
+
+1. **Tiếp nhận & xác nhận** — Trả lời tự động cho khách biết đã nhận.
+2. **Phân loại** — Gắn nhãn ưu tiên và chủ đề.
+3. **Xử lý** — Tự giải quyết hoặc chuyển (escalate) đúng bộ phận.
+4. **Đóng ticket** — Xác nhận khách đã hài lòng.
+
+## Mẫu phản hồi đầu tiên
+
+```text
+Chào anh/chị, cảm ơn đã liên hệ.
+Bên em đã tiếp nhận yêu cầu và đang kiểm tra.
+Em sẽ phản hồi chi tiết trong vòng [SLA].
+```
+
+> **Mẹo:** Một câu xác nhận sớm giúp giảm mạnh sự lo lắng của khách hàng, ngay cả khi chưa có giải pháp.
+3f:T64e,---
+title: "Kịch bản gọi điện bán hàng (Cold Call)"
+department: "sales"
+summary: "Cấu trúc cuộc gọi bán hàng chuyên nghiệp: mở đầu, khai thác nhu cầu, xử lý từ chối và chốt bước tiếp theo."
+tags: ["bán hàng", "cold call", "kịch bản"]
+difficulty: "Cơ bản"
+author: "Phòng Kinh doanh"
+updated: "2026-07-18"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Biến một cuộc gọi lạ thành **một cuộc hẹn hoặc bước tiếp theo rõ ràng**.
+
+## Cấu trúc cuộc gọi
+
+1. **Mở đầu (15 giây):** Chào, giới thiệu ngắn, xin phép 30 giây.
+2. **Câu hỏi khai thác:** Tìm hiểu vấn đề khách đang gặp.
+3. **Giá trị:** Kết nối sản phẩm với đúng vấn đề đó.
+4. **Xử lý từ chối:** Lắng nghe -> đồng cảm -> làm rõ.
+5. **Chốt bước tiếp theo:** Đặt lịch demo/gửi báo giá.
+
+## Mẫu mở đầu
+
+```text
+Chào anh/chị, em là ... bên công ty ...
+Em gọi vì thấy bên mình đang [vấn đề cụ thể].
+Anh/chị cho em xin 30 giây được không ạ?
+```
+
+## Xử lý từ chối thường gặp
+
+| Khách nói | Phản hồi gợi ý |
+| --- | --- |
+| "Đang bận" | "Em xin phép gọi lại lúc nào tiện cho anh/chị ạ?" |
+| "Không quan tâm" | "Dạ em hiểu, cho em hỏi hiện bên mình đang xử lý [vấn đề] thế nào ạ?" |
+| "Gửi email đi" | "Vâng em gửi ngay, em xin email để gửi đúng người ạ." |
+
+> **Lưu ý:** Mục tiêu của cold call **không phải bán ngay**, mà là mở ra cuộc trò chuyện tiếp theo.
+40:T583,---
+title: "Quy trình duyệt và thanh toán hóa đơn"
+department: "finance"
+summary: "Chuẩn hóa việc tiếp nhận, kiểm tra, phê duyệt và thanh toán hóa đơn nhằm kiểm soát chi phí và tránh sai sót."
+tags: ["hóa đơn", "thanh toán", "kiểm soát"]
+difficulty: "Cơ bản"
+author: "Phòng Tài chính - Kế toán"
+updated: "2026-07-15"
+readingTime: "5 phút"
+---
+
+## Mục tiêu
+
+Đảm bảo mọi khoản chi được **kiểm tra và phê duyệt đúng thẩm quyền** trước khi thanh toán.
+
+## Quy trình 4 bước
+
+1. **Tiếp nhận** — Nhận hóa đơn kèm PO/hợp đồng liên quan.
+2. **Kiểm tra** — Đối chiếu số tiền, thông tin thuế, người thụ hưởng.
+3. **Phê duyệt** — Theo hạn mức phê duyệt.
+4. **Thanh toán & Lưu trữ** — Thực hiện chi và lưu chứng từ.
+
+## Hạn mức phê duyệt (ví dụ)
+
+| Giá trị | Người duyệt |
+| --- | --- |
+| < 10 triệu | Trưởng phòng |
+| 10 - 100 triệu | Giám đốc tài chính |
+| > 100 triệu | Ban giám đốc |
+
+## Checklist kiểm tra hóa đơn
+
+- [ ] Thông tin công ty & mã số thuế chính xác
+- [ ] Có PO/hợp đồng đối chiếu
+- [ ] Số tiền và thuế đúng
+- [ ] Chưa từng thanh toán trùng
+
+> **Cảnh báo:** Luôn kiểm tra trùng lặp trước khi chi để tránh thanh toán hai lần cho cùng một hóa đơn.
+41:T574,---
+title: "Nguyên tắc sử dụng Design System"
+department: "product"
+summary: "Hướng dẫn dùng design system nhất quán: token, component và khi nào được tạo ngoại lệ."
+tags: ["design system", "ui", "nhất quán"]
+difficulty: "Trung bình"
+author: "Phòng Sản phẩm"
+updated: "2026-07-12"
+readingTime: "6 phút"
+---
+
+## Mục tiêu
+
+Giữ giao diện **nhất quán** và tăng tốc độ phát triển bằng cách tái sử dụng thành phần chung.
+
+## Nguyên tắc cốt lõi
+
+1. **Ưu tiên component có sẵn** trước khi tạo mới.
+2. **Dùng design token** (màu, khoảng cách, bo góc) thay vì giá trị cứng.
+3. **Nhất quán hơn hoàn hảo** — tuân thủ hệ thống kể cả khi có ý tưởng riêng.
+
+## Khi nào được tạo ngoại lệ
+
+- Có nhu cầu thực sự chưa được hệ thống hỗ trợ.
+- Đã trao đổi với người phụ trách design system.
+- Ghi lại lý do để cân nhắc đưa vào hệ thống sau này.
+
+## Checklist trước khi merge UI
+
+- [ ] Dùng token thay cho màu/spacing cứng
+- [ ] Tái sử dụng component chung khi có thể
+- [ ] Kiểm tra trạng thái: hover, focus, disabled
+- [ ] Kiểm tra khả năng tiếp cận (contrast, aria-label)
+
+> **Mẹo:** Mỗi ngoại lệ không ghi lại hôm nay là một khoản "nợ thiết kế" phải trả trong tương lai.
+9:["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-12 sm:px-6","children":[["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"font-mono text-xs uppercase tracking-widest text-[var(--accent)]","children":"Marketplace"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold tracking-tight","children":"Browse skills"}],["$","p",null,{"className":"mt-2 max-w-2xl text-sm text-[var(--muted)]","children":["Search không phân biệt dấu tiếng Việt. Bật filter"," ",["$","span",null,{"className":"font-mono text-[var(--accent)]","children":"Agent package"}]," ","để chỉ thấy SOP đã có SKILL.md cài được."]}]]}],["$","$e",null,{"fallback":["$","p",null,{"className":"font-mono text-sm text-[var(--muted)]","children":"Loading…"}],"children":["$","$Lf",null,{"skills":[{"title":"Lập và quản lý dòng tiền dự án (Cash flow)","department":"finance","summary":"Cách dự báo và kiểm soát dòng tiền dự án để không bị đứt vốn khi chi phí chi ra sớm hơn tiền nghiệm thu thu về.","tags":["dòng tiền","cash flow","tài chính"],"difficulty":"Trung bình","author":"Phòng Tài chính - Kế toán","updated":"2026-08-05","readingTime":"7 phút","featured":true,"slug":"lap-quan-ly-dong-tien-du-an","content":"$10","raw":"$11","departmentInfo":{"slug":"finance","name":"Tài chính - Kế toán","shortName":"Tài chính","description":"Lập ngân sách, thanh toán, báo cáo và tuân thủ quy định tài chính.","icon":"📊","gradient":"from-emerald-500 to-teal-500","accent":{"text":"text-emerald-700 dark:text-emerald-300","bg":"bg-emerald-50 dark:bg-emerald-500/10","ring":"ring-emerald-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Kiểm soát chi phí: dự toán và thực tế (Budget vs Actual)","department":"cost-control","summary":"Cách thiết lập chu kỳ so sánh dự toán với chi phí thực tế, dùng cost-to-complete và ngưỡng cảnh báo để phát hiện vượt chi sớm.","tags":["kiểm soát chi phí","budget vs actual","cost to complete"],"difficulty":"Nâng cao","author":"Phòng Kiểm soát chi phí","updated":"2026-08-05","readingTime":"8 phút","featured":true,"slug":"kiem-soat-chi-phi-du-toan-thuc-te","content":"$12","raw":"$13","departmentInfo":{"slug":"cost-control","name":"Kiểm soát chi phí","shortName":"KS chi phí","description":"So sánh dự toán với thực tế, kiểm soát phát sinh và dự báo chi phí hoàn thành.","icon":"📉","gradient":"from-yellow-500 to-amber-500","accent":{"text":"text-yellow-700 dark:text-yellow-300","bg":"bg-yellow-50 dark:bg-yellow-500/10","ring":"ring-yellow-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Thẩm định hiệu quả dự án đầu tư (NPV/IRR)","department":"investment","summary":"Cách đánh giá hiệu quả tài chính dự án bằng NPV, IRR, thời gian hoàn vốn và chỉ số sinh lời để ra quyết định đầu tư.","tags":["đầu tư","npv","irr"],"difficulty":"Nâng cao","author":"Phòng Đầu tư","updated":"2026-08-04","readingTime":"8 phút","featured":true,"slug":"tham-dinh-hieu-qua-dau-tu","content":"$14","raw":"$15","departmentInfo":{"slug":"investment","name":"Đầu tư","shortName":"Đầu tư","description":"Thẩm định hiệu quả, phân tích khả thi và ra quyết định đầu tư dự án.","icon":"📈","gradient":"from-emerald-500 to-green-500","accent":{"text":"text-emerald-700 dark:text-emerald-300","bg":"bg-emerald-50 dark:bg-emerald-500/10","ring":"ring-emerald-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Rà soát hợp đồng trước khi ký","department":"legal","summary":"Checklist pháp lý các điều khoản trọng yếu cần kiểm tra trước khi ký hợp đồng để phòng ngừa rủi ro và tranh chấp.","tags":["hợp đồng","pháp lý","rủi ro"],"difficulty":"Trung bình","author":"Phòng Pháp lý","updated":"2026-08-04","readingTime":"7 phút","featured":true,"slug":"ra-soat-hop-dong-truoc-khi-ky","content":"$16","raw":"$17","departmentInfo":{"slug":"legal","name":"Pháp lý","shortName":"Pháp lý","description":"Rà soát hợp đồng, tuân thủ pháp luật và quản lý rủi ro pháp lý dự án.","icon":"⚖️","gradient":"from-indigo-500 to-violet-500","accent":{"text":"text-indigo-700 dark:text-indigo-300","bg":"bg-indigo-50 dark:bg-indigo-500/10","ring":"ring-indigo-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Nghiệm thu cốt thép trước khi đổ bê tông","department":"construction-tech","summary":"Checklist kiểm tra công tác cốt thép, cốp pha và vệ sinh trước khi cho phép đổ bê tông.","tags":["cốt thép","nghiệm thu","bê tông"],"difficulty":"Trung bình","author":"Phòng Kỹ thuật thi công","updated":"2026-08-04","readingTime":"6 phút","featured":true,"slug":"nghiem-thu-cot-thep","content":"\n## Mục tiêu\n\nĐảm bảo cốt thép **đúng thiết kế** và đủ điều kiện trước khi đổ bê tông — đây là điểm dừng bắt buộc (hold point).\n\n## Kiểm tra cốt thép\n\n- [ ] Đúng đường kính, số lượng, khoảng cách theo bản vẽ\n- [ ] Chiều dài neo, nối chồng đạt yêu cầu\n- [ ] Buộc chắc chắn, không xê dịch khi đổ\n- [ ] Con kê bảo đảm chiều dày lớp bảo vệ\n\n## Kiểm tra cốp pha & chi tiết chờ\n\n- [ ] Cốp pha kín khít, chống đỡ ổn định\n- [ ] Kích thước hình học, cao độ, tim trục đúng\n- [ ] Chi tiết chờ (ống, giằng, bu lông) đúng vị trí\n- [ ] Vệ sinh sạch trong cốp pha, tưới ẩm nếu cần\n\n## Trình tự nghiệm thu\n\n1. Nhà thầu tự kiểm tra và mời nghiệm thu.\n2. Kỹ thuật + QA/QC + TVGS kiểm tra hiện trường.\n3. Ký biên bản nghiệm thu cốt thép **trước khi** đổ.\n4. Chỉ đổ bê tông sau khi biên bản được ký.\n\n> **Cảnh báo:** Tuyệt đối không đổ bê tông khi chưa có biên bản nghiệm thu cốt thép được ký duyệt.\n","raw":"$18","departmentInfo":{"slug":"construction-tech","name":"Kỹ thuật thi công","shortName":"KT thi công","description":"Triển khai bản vẽ, biện pháp thi công và nghiệm thu kỹ thuật tại hiện trường.","icon":"📐","gradient":"from-blue-500 to-cyan-500","accent":{"text":"text-blue-700 dark:text-blue-300","bg":"bg-blue-50 dark:bg-blue-500/10","ring":"ring-blue-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":true},{"title":"Họp giao ban công trường hàng ngày","department":"site-management","summary":"Cách tổ chức buổi giao ban đầu ngày ngắn gọn để thống nhất công việc, an toàn và tiến độ giữa các tổ đội.","tags":["giao ban","điều hành","tiến độ"],"difficulty":"Cơ bản","author":"Ban chỉ huy công trường","updated":"2026-08-04","readingTime":"5 phút","featured":true,"slug":"hop-giao-ban-cong-truong","content":"\n## Mục tiêu\n\nĐảm bảo mọi tổ đội **bắt đầu ngày làm việc** với công việc rõ ràng, nhận diện rủi ro an toàn và bám sát tiến độ.\n\n## Thời điểm & thành phần\n\n- **Thời gian:** 10-15 phút, đầu mỗi ca làm việc.\n- **Thành phần:** chỉ huy trưởng/phó, giám sát, tổ trưởng các tổ đội, cán bộ an toàn.\n\n## Nội dung cần thống nhất\n\n1. **Công việc hôm nay** — hạng mục, vị trí, khối lượng mục tiêu.\n2. **Nhân lực & thiết bị** — bố trí tổ đội, máy móc, cẩu tháp.\n3. **An toàn** — cảnh báo rủi ro của công việc trong ngày.\n4. **Vướng mắc** — thiếu vật tư, chờ bản vẽ, thời tiết.\n5. **Tiến độ** — so với kế hoạch tuần, việc cần bù.\n\n## Checklist điều hành\n\n- [ ] Điểm danh tổ đội và thiết bị\n- [ ] Giao việc rõ vị trí + khối lượng\n- [ ] Nhắc nhở an toàn theo công việc\n- [ ] Ghi nhận vướng mắc & người xử lý\n- [ ] Chốt mốc kiểm tra trong ngày\n\n> **Mẹo:** Giữ buổi giao ban đứng, ngắn gọn. Vấn đề lớn tách ra họp riêng, tránh kéo dài làm chậm ra quân.\n","raw":"$19","departmentInfo":{"slug":"site-management","name":"Ban chỉ huy công trường","shortName":"Chỉ huy CT","description":"Điều hành công trường: giao ban, tiến độ, phối hợp thầu phụ và báo cáo.","icon":"🏗️","gradient":"from-orange-500 to-amber-500","accent":{"text":"text-orange-700 dark:text-orange-300","bg":"bg-orange-50 dark:bg-orange-500/10","ring":"ring-orange-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"An toàn khi làm việc trên cao","department":"hse","summary":"Yêu cầu bắt buộc và checklist kiểm tra trước khi cho phép công nhân làm việc trên cao để chống ngã.","tags":["an toàn","làm việc trên cao","hse"],"difficulty":"Cơ bản","author":"Phòng An toàn (HSE)","updated":"2026-08-04","readingTime":"5 phút","featured":true,"slug":"an-toan-lam-viec-tren-cao","content":"\n## Mục tiêu\n\nNgăn ngừa tai nạn **ngã cao** — nhóm tai nạn nghiêm trọng và phổ biến nhất tại công trường.\n\n## Áp dụng khi\n\nLàm việc ở độ cao từ **2 mét** trở lên, hoặc nơi có nguy cơ rơi ngã.\n\n## Yêu cầu bắt buộc\n\n- [ ] Dây an toàn toàn thân + móc kép, neo vào điểm chắc chắn\n- [ ] Giàn giáo được nghiệm thu, có thẻ (thẻ xanh) còn hiệu lực\n- [ ] Sàn thao tác đủ rộng, có lan can và chắn chân\n- [ ] Che chắn/ rào chắn khu vực bên dưới\n- [ ] Công nhân đủ sức khỏe, đã huấn luyện an toàn\n\n## Trước khi bắt đầu\n\n1. Kiểm tra thời tiết (gió lớn, mưa, giông → tạm dừng).\n2. Kiểm tra tình trạng dây, móc, giàn giáo.\n3. Xác định điểm neo và lối thoát.\n4. Phổ biến rủi ro cho tổ đội.\n\n## Nguyên tắc 100% neo móc\n\nLuôn có **ít nhất một móc được neo** trong suốt quá trình di chuyển và làm việc trên cao.\n\n> **Cảnh báo:** Không có điểm neo an toàn thì không làm việc trên cao. Dừng công việc và báo cán bộ an toàn.\n","raw":"$1a","departmentInfo":{"slug":"hse","name":"An toàn lao động (HSE)","shortName":"An toàn","description":"An toàn - sức khỏe - môi trường: cấp phép, kiểm tra và ứng phó sự cố.","icon":"🦺","gradient":"from-red-500 to-orange-500","accent":{"text":"text-red-700 dark:text-red-300","bg":"bg-red-50 dark:bg-red-500/10","ring":"ring-red-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Ra quyết định tham gia thầu (Bid / No-bid)","department":"estimating","summary":"Khung chấm điểm có trọng số giúp quyết định có nên bỏ công sức dự thầu hay không, trước khi dồn nguồn lực lập hồ sơ.","tags":["dự thầu","bid no-bid","đấu thầu"],"difficulty":"Trung bình","author":"Phòng Dự toán - Đấu thầu","updated":"2026-08-03","readingTime":"6 phút","slug":"ra-quyet-dinh-tham-gia-thau","content":"$1b","raw":"$1c","departmentInfo":{"slug":"estimating","name":"Dự toán - Đấu thầu","shortName":"Dự toán","description":"Bóc tách khối lượng, lập dự toán và chuẩn bị hồ sơ dự thầu.","icon":"🧮","gradient":"from-green-500 to-lime-500","accent":{"text":"text-green-700 dark:text-green-300","bg":"bg-green-50 dark:bg-green-500/10","ring":"ring-green-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quản lý hợp đồng thi công và mốc thanh toán","department":"contracts","summary":"Cách vận hành hợp đồng thi công: theo dõi nghĩa vụ, mốc thanh toán, bảo lãnh, giữ lại và hồ sơ để bảo vệ quyền lợi.","tags":["hợp đồng","thanh toán","quản trị hợp đồng"],"difficulty":"Trung bình","author":"Phòng Quản lý hợp đồng","updated":"2026-08-03","readingTime":"7 phút","slug":"quan-ly-hop-dong-thi-cong","content":"$1d","raw":"$1e","departmentInfo":{"slug":"contracts","name":"Quản lý hợp đồng","shortName":"Hợp đồng","description":"Quản lý điều khoản, mốc thanh toán, biến động khối lượng và hồ sơ claim.","icon":"📃","gradient":"from-slate-500 to-gray-500","accent":{"text":"text-slate-700 dark:text-slate-300","bg":"bg-slate-100 dark:bg-slate-500/10","ring":"ring-slate-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Lập và kiểm soát tiến độ thi công","department":"site-management","summary":"Cách lập tiến độ thi công, bám sát thực tế và xử lý khi chậm tiến độ so với kế hoạch.","tags":["tiến độ","kế hoạch","quản lý dự án"],"difficulty":"Trung bình","author":"Ban chỉ huy công trường","updated":"2026-08-03","readingTime":"7 phút","slug":"lap-kiem-soat-tien-do-thi-cong","content":"\n## Mục tiêu\n\nGiữ dự án **đúng tiến độ**, phát hiện sớm nguy cơ chậm và có biện pháp bù kịp thời.\n\n## Các bước lập tiến độ\n\n1. **Chia hạng mục** — bóc công việc theo WBS (móng, thân, hoàn thiện, MEP...).\n2. **Xác định thời lượng** — dựa trên khối lượng và định mức năng suất.\n3. **Xác định trình tự & ràng buộc** — công việc trước/sau, đường găng (critical path).\n4. **Phân bổ nguồn lực** — nhân công, thiết bị, vật tư theo tuần.\n5. **Lập mốc kiểm soát** — các milestone quan trọng.\n\n## Kiểm soát hàng tuần\n\n| Chỉ số | Ý nghĩa |\n| --- | --- |\n| % kế hoạch | Khối lượng dự kiến đến thời điểm |\n| % thực tế | Khối lượng đã hoàn thành |\n| Chênh lệch | Thực tế − kế hoạch (âm = chậm) |\n\n## Khi bị chậm tiến độ\n\n- Xác định nguyên nhân gốc (vật tư, thời tiết, nhân lực, bản vẽ).\n- Ưu tiên **các công việc trên đường găng**.\n- Cân nhắc tăng ca, tăng tổ đội, hoặc thi công song song.\n\n> **Lưu ý:** Chậm một công việc trên đường găng sẽ làm chậm cả dự án — hãy theo dõi đường găng sát sao nhất.\n","raw":"$1f","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:5:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quy trình tuyển dụng và phỏng vấn","department":"hr","summary":"Chuẩn hóa các bước từ mô tả công việc, sàng lọc, phỏng vấn đến ra quyết định tuyển dụng công bằng và hiệu quả.","tags":["tuyển dụng","phỏng vấn","nhân sự"],"difficulty":"Cơ bản","author":"Phòng Nhân sự","updated":"2026-08-02","readingTime":"6 phút","slug":"quy-trinh-tuyen-dung","content":"\n## Mục tiêu\n\nTuyển đúng người, đúng việc — dựa trên **tiêu chí rõ ràng**, giảm cảm tính và thiên kiến.\n\n## Quy trình\n\n1. **Mô tả công việc (JD)** — nhiệm vụ, yêu cầu, tiêu chí đánh giá.\n2. **Đăng tuyển & tìm nguồn** — kênh phù hợp với vị trí.\n3. **Sàng lọc hồ sơ** — theo tiêu chí bắt buộc và ưu tiên.\n4. **Phỏng vấn** — cấu trúc thống nhất, chấm theo thang điểm.\n5. **Kiểm tra tham chiếu** — với vị trí quan trọng.\n6. **Đề nghị & thương lượng** — lương, thời gian nhận việc.\n\n## Phỏng vấn theo cấu trúc\n\n- Dùng **bộ câu hỏi chung** cho mọi ứng viên cùng vị trí.\n- Hỏi theo **tình huống thực tế** (STAR: Situation - Task - Action - Result).\n- Chấm điểm theo tiêu chí, ghi nhận bằng chứng.\n\n## Checklist\n\n- [ ] JD rõ nhiệm vụ và tiêu chí\n- [ ] Bộ câu hỏi phỏng vấn thống nhất\n- [ ] Thang điểm đánh giá khách quan\n- [ ] Phản hồi cho ứng viên đúng hẹn\n\n> **Mẹo:** Phỏng vấn có cấu trúc và chấm điểm theo tiêu chí dự báo hiệu quả công việc tốt hơn nhiều so với phỏng vấn cảm tính, tự do.\n","raw":"$20","departmentInfo":{"slug":"hr","name":"Nhân sự","shortName":"Nhân sự","description":"Tuyển dụng, onboarding, đánh giá và phát triển nhân viên.","icon":"🧑‍💼","gradient":"from-violet-500 to-purple-500","accent":{"text":"text-violet-700 dark:text-violet-300","bg":"bg-violet-50 dark:bg-violet-500/10","ring":"ring-violet-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quản lý pipeline và dự báo doanh số","department":"sales","summary":"Cách xây dựng phễu bán hàng theo giai đoạn, cập nhật cơ hội và dự báo doanh số có căn cứ để ra quyết định.","tags":["pipeline","dự báo","bán hàng"],"difficulty":"Trung bình","author":"Phòng Kinh doanh","updated":"2026-08-02","readingTime":"6 phút","slug":"quan-ly-pipeline-du-bao-doanh-so","content":"$21","raw":"$22","departmentInfo":{"slug":"sales","name":"Kinh doanh","shortName":"Kinh doanh","description":"Kịch bản bán hàng, quản lý pipeline, chăm sóc và chốt khách hàng.","icon":"🤝","gradient":"from-amber-500 to-orange-500","accent":{"text":"text-amber-700 dark:text-amber-300","bg":"bg-amber-50 dark:bg-amber-500/10","ring":"ring-amber-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Lập kế hoạch nghiệm thu chất lượng (ITP)","department":"qaqc","summary":"Cách xây dựng Inspection & Test Plan xác định điểm kiểm tra, điểm dừng và hồ sơ nghiệm thu cho từng công tác.","tags":["itp","nghiệm thu","chất lượng"],"difficulty":"Trung bình","author":"Phòng QA/QC","updated":"2026-08-02","readingTime":"6 phút","slug":"lap-ke-hoach-nghiem-thu-itp","content":"\n## Mục tiêu\n\nXác định **kiểm tra cái gì, khi nào, ai làm, theo tiêu chuẩn nào** cho từng công tác thi công.\n\n## Thành phần một ITP\n\n1. **Hạng mục công tác** — ví dụ: cốt thép, bê tông, xây, tô.\n2. **Hoạt động kiểm tra/thử nghiệm** — nội dung kiểm tra.\n3. **Tiêu chuẩn tham chiếu** — TCVN / spec dự án.\n4. **Loại điểm kiểm soát** — H (Hold), W (Witness), R (Review).\n5. **Hồ sơ** — biểu mẫu, biên bản, phiếu thí nghiệm.\n6. **Bên tham gia** — nhà thầu, TVGS, chủ đầu tư.\n\n## Phân loại điểm kiểm soát\n\n| Ký hiệu | Ý nghĩa |\n| --- | --- |\n| H (Hold) | Điểm dừng bắt buộc, phải nghiệm thu mới làm tiếp |\n| W (Witness) | Mời chứng kiến, có thể tiếp tục nếu vắng mặt |\n| R (Review) | Xem xét hồ sơ |\n\n## Checklist chất lượng ITP\n\n- [ ] Bao phủ đủ các công tác chính\n- [ ] Gắn đúng tiêu chuẩn và tiêu chí chấp nhận\n- [ ] Xác định rõ điểm H/W/R\n- [ ] Kèm biểu mẫu hồ sơ tương ứng\n\n> **Mẹo:** Đặt điểm Hold ở các công tác bị che khuất sau này (cốt thép, chống thấm) để không phải đục phá kiểm tra về sau.\n","raw":"$23","departmentInfo":{"slug":"qaqc","name":"Quản lý chất lượng (QA/QC)","shortName":"QA/QC","description":"Kiểm soát chất lượng theo ITP, nghiệm thu và xử lý điểm không phù hợp.","icon":"✅","gradient":"from-teal-500 to-emerald-500","accent":{"text":"text-teal-700 dark:text-teal-300","bg":"bg-teal-50 dark:bg-teal-500/10","ring":"ring-teal-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Lập kế hoạch ngân sách năm","department":"finance","summary":"Quy trình xây dựng ngân sách năm cho công ty/dự án, gắn với mục tiêu kinh doanh và cơ chế theo dõi thực hiện.","tags":["ngân sách","kế hoạch","tài chính"],"difficulty":"Trung bình","author":"Phòng Tài chính - Kế toán","updated":"2026-08-01","readingTime":"6 phút","slug":"lap-ngan-sach-nam","content":"\n## Mục tiêu\n\nChuyển mục tiêu kinh doanh thành **kế hoạch tài chính có thể theo dõi**, làm cơ sở kiểm soát chi tiêu cả năm.\n\n## Các bước\n\n1. **Thu thập giả định** — doanh thu dự kiến, dự án trúng thầu, đơn giá, lạm phát.\n2. **Lập ngân sách doanh thu** — theo dự án và mốc nghiệm thu.\n3. **Lập ngân sách chi phí** — trực tiếp (vật tư, nhân công, máy) và gián tiếp (quản lý, văn phòng).\n4. **Dự phòng** — thường **10-15%** cho biến động giá và rủi ro.\n5. **Trình duyệt** và phân bổ theo quý/tháng.\n\n## Theo dõi thực hiện\n\n| Chỉ số | Ý nghĩa |\n| --- | --- |\n| Ngân sách | Kế hoạch được duyệt |\n| Thực tế | Số phát sinh thực |\n| Chênh lệch | Thực tế − ngân sách |\n| % thực hiện | Thực tế / ngân sách |\n\n## Checklist\n\n- [ ] Giả định rõ ràng, có căn cứ\n- [ ] Có khoản dự phòng hợp lý\n- [ ] Phân bổ theo kỳ để theo dõi\n- [ ] Rà soát chênh lệch định kỳ hàng tháng\n\n> **Mẹo:** Ngân sách chỉ hữu ích khi được **so sánh với thực tế thường xuyên**; lập xong rồi bỏ quên thì chỉ là con số trên giấy.\n","raw":"$24","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:0:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Bóc tách khối lượng (BOQ) từ bản vẽ","department":"estimating","summary":"Phương pháp bóc khối lượng chính xác từ bản vẽ để lập dự toán và kiểm soát vật tư.","tags":["boq","khối lượng","dự toán"],"difficulty":"Trung bình","author":"Phòng Dự toán - Đấu thầu","updated":"2026-08-01","readingTime":"7 phút","slug":"boc-tach-khoi-luong-boq","content":"\n## Mục tiêu\n\nBóc **đúng và đủ** khối lượng công tác từ bản vẽ làm cơ sở cho dự toán, đấu thầu và kiểm soát vật tư.\n\n## Nguyên tắc bóc tách\n\n1. Bóc theo **trình tự thi công** (móng → thân → hoàn thiện) để không sót.\n2. Mỗi công tác ghi rõ **đơn vị** (m³, m², md, kg, cái).\n3. Bám theo quy tắc đo bóc và định mức áp dụng.\n4. Ghi chú **diễn giải kích thước** để dễ kiểm tra lại.\n\n## Bảng diễn giải mẫu\n\n| Công tác | Diễn giải | Đơn vị | Khối lượng |\n| --- | --- | --- | --- |\n| Bê tông móng | 2 × (3,0 × 2,0 × 0,5) | m³ | 6,0 |\n| Cốt thép móng | Theo bảng thống kê thép | kg | 480 |\n| Ván khuôn móng | Chu vi × chiều cao | m² | 10,0 |\n\n## Kiểm soát chất lượng bóc tách\n\n- [ ] Đối chiếu bản vẽ kiến trúc − kết cấu − MEP\n- [ ] Kiểm tra đơn vị và công thức tính\n- [ ] Rà soát trùng/sót giữa các hạng mục\n- [ ] Cập nhật theo bản vẽ mới nhất (revision)\n\n> **Mẹo:** Luôn lưu công thức diễn giải, đừng chỉ điền con số cuối — khi bản vẽ thay đổi bạn sẽ cập nhật nhanh và dễ soát lỗi.\n","raw":"$25","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:7:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quản lý chi phí phát sinh (Variation Order)","department":"cost-control","summary":"Quy trình kiểm soát thay đổi khối lượng/thiết kế: ghi nhận, định giá và phê duyệt trước khi thi công để tránh 'scope creep'.","tags":["phát sinh","variation","change order"],"difficulty":"Trung bình","author":"Phòng Kiểm soát chi phí","updated":"2026-07-31","readingTime":"6 phút","slug":"quan-ly-chi-phi-phat-sinh","content":"$26","raw":"$27","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:1:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quy trình đổ bê tông khối lớn","department":"construction-tech","summary":"Biện pháp thi công và kiểm soát nhiệt cho cấu kiện bê tông khối lớn nhằm tránh nứt do nhiệt.","tags":["bê tông","khối lớn","biện pháp thi công"],"difficulty":"Nâng cao","author":"Phòng Kỹ thuật thi công","updated":"2026-07-31","readingTime":"8 phút","slug":"do-be-tong-khoi-lon","content":"\n## Mục tiêu\n\nĐổ bê tông khối lớn (đài móng, bè móng...) **liên tục, đạt cường độ** và **kiểm soát chênh lệch nhiệt** để tránh nứt.\n\n## Chuẩn bị trước khi đổ\n\n1. Duyệt cấp phối bê tông (mác, phụ gia, tro bay/xỉ giảm nhiệt).\n2. Lập biện pháp đổ: hướng đổ, chiều dày lớp, thiết bị dự phòng.\n3. Bố trí cảm biến đo nhiệt tại tâm và bề mặt khối đổ.\n4. Chuẩn bị vật liệu bảo dưỡng và giữ nhiệt (bạt, xốp).\n\n## Trong khi đổ\n\n- Đổ theo lớp, đầm kỹ, tránh phân tầng.\n- Đổ **liên tục**, kiểm soát mạch ngừng đúng vị trí thiết kế.\n- Theo dõi độ sụt từng xe, từ chối xe không đạt.\n\n## Kiểm soát nhiệt sau khi đổ\n\n| Tiêu chí | Ngưỡng khuyến nghị |\n| --- | --- |\n| Nhiệt độ tâm khối | ≤ 70 °C |\n| Chênh lệch tâm − bề mặt | ≤ 20 °C |\n\n- Duy trì bảo dưỡng và giữ ẩm liên tục theo quy định.\n- Ghi nhật ký nhiệt cho tới khi an toàn.\n\n> **Lưu ý:** Chênh lệch nhiệt vượt ngưỡng là nguyên nhân chính gây nứt nhiệt — ưu tiên kiểm soát chỉ số này.\n","raw":"$28","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:4:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Phân tích khả thi và rủi ro dự án đầu tư","department":"investment","summary":"Khung phân tích khả thi đa chiều (thị trường, kỹ thuật, tài chính, pháp lý) và nhận diện rủi ro trước khi quyết định đầu tư.","tags":["khả thi","rủi ro","đầu tư"],"difficulty":"Nâng cao","author":"Phòng Đầu tư","updated":"2026-07-30","readingTime":"7 phút","slug":"phan-tich-kha-thi-du-an","content":"$29","raw":"$2a","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:2:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Hạch toán chi phí công trình theo khoản mục","department":"finance","summary":"Cách phân loại và ghi nhận chi phí công trình theo hệ thống mã chi phí để theo dõi giá thành chính xác.","tags":["kế toán","chi phí","mã chi phí"],"difficulty":"Trung bình","author":"Phòng Tài chính - Kế toán","updated":"2026-07-30","readingTime":"6 phút","slug":"hach-toan-chi-phi-cong-trinh","content":"$2b","raw":"$2c","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:0:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Review code hiệu quả","department":"engineering","summary":"Nguyên tắc và checklist để review pull request nhanh, chất lượng và tôn trọng đồng đội.","tags":["code review","chất lượng","pull request"],"difficulty":"Trung bình","author":"Phòng Kỹ thuật","updated":"2026-07-30","readingTime":"7 phút","featured":true,"slug":"code-review-hieu-qua","content":"\n## Mục tiêu\n\nĐảm bảo mọi thay đổi code được kiểm tra về **tính đúng đắn, khả năng bảo trì và bảo mật** trước khi merge.\n\n## Nguyên tắc\n\n1. Review **nhỏ và thường xuyên** hơn là dồn một PR khổng lồ.\n2. Bình luận về **code, không về con người**.\n3. Phân biệt rõ *bắt buộc sửa* và *góp ý tuỳ chọn* (dùng tiền tố `nit:`).\n\n## Checklist khi review\n\n- [ ] Thay đổi có giải quyết đúng vấn đề mô tả trong PR không?\n- [ ] Có test bao phủ phần logic mới không?\n- [ ] Có xử lý các trường hợp biên (null, rỗng, lỗi mạng)?\n- [ ] Đặt tên biến/hàm rõ nghĩa?\n- [ ] Không lộ secret/API key?\n\n## Ví dụ bình luận tốt\n\n```text\nnit: Có thể tách hàm này thành helper để tái sử dụng.\nblocker: Query này thiếu index -> có nguy cơ full scan trên bảng lớn.\n```\n\n## SLA đề xuất\n\n| Loại PR | Thời gian phản hồi |\n| --- | --- |\n| Hotfix | < 1 giờ |\n| Thường | < 1 ngày làm việc |\n\n> **Lưu ý:** Nếu tranh luận quá 2 vòng bình luận, hãy chuyển sang trao đổi trực tiếp.\n","raw":"$2d","departmentInfo":{"slug":"engineering","name":"Kỹ thuật","shortName":"Kỹ thuật","description":"Quy trình phát triển phần mềm, review code, vận hành hệ thống và xử lý sự cố.","icon":"💻","gradient":"from-sky-500 to-indigo-500","accent":{"text":"text-sky-700 dark:text-sky-300","bg":"bg-sky-50 dark:bg-sky-500/10","ring":"ring-sky-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Cấp phép công việc nóng (Hot Work Permit)","department":"hse","summary":"Quy trình cấp phép và kiểm soát các công việc phát sinh nhiệt/tia lửa như hàn, cắt để phòng cháy nổ.","tags":["an toàn","hàn cắt","phòng cháy"],"difficulty":"Trung bình","author":"Phòng An toàn (HSE)","updated":"2026-07-30","readingTime":"5 phút","slug":"cap-phep-cong-viec-nong","content":"\n## Mục tiêu\n\nKiểm soát công việc sinh nhiệt/tia lửa (hàn, cắt, mài) để **ngăn cháy nổ** tại công trường.\n\n## Khi nào cần giấy phép\n\nMọi công việc hàn, cắt hơi, mài kim loại, hoặc dùng ngọn lửa trần — đặc biệt gần vật liệu dễ cháy.\n\n## Điều kiện trước khi cấp phép\n\n- [ ] Dọn sạch vật liệu dễ cháy trong bán kính an toàn\n- [ ] Bố trí bình chữa cháy phù hợp tại chỗ\n- [ ] Có người canh lửa (fire watch) trong và sau khi làm\n- [ ] Che chắn tia lửa, bảo vệ khu vực bên dưới\n- [ ] Thiết bị hàn/cắt còn tốt, dây tiếp địa đầy đủ\n\n## Quy trình\n\n1. Người thực hiện đề nghị cấp phép, nêu vị trí & thời gian.\n2. Cán bộ an toàn kiểm tra hiện trường theo checklist.\n3. Cấp giấy phép có **thời hạn** (thường trong ca).\n4. Giám sát trong khi làm; duy trì canh lửa **tối thiểu 30-60 phút** sau khi xong.\n5. Đóng giấy phép khi khu vực an toàn.\n\n> **Cảnh báo:** Nhiều đám cháy bùng phát *sau khi* thợ hàn rời đi — không bỏ qua bước canh lửa sau công việc.\n","raw":"$2e","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:6:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Xử lý phiếu không phù hợp (NCR)","department":"qaqc","summary":"Quy trình phát hành và đóng phiếu Non-Conformance Report khi phát hiện công việc không đạt yêu cầu chất lượng.","tags":["ncr","không phù hợp","chất lượng"],"difficulty":"Trung bình","author":"Phòng QA/QC","updated":"2026-07-29","readingTime":"5 phút","slug":"xu-ly-ncr","content":"\n## Mục tiêu\n\nXử lý **có hệ thống** các sản phẩm/công tác không đạt, đảm bảo được khắc phục và ngăn tái diễn.\n\n## Quy trình NCR\n\n1. **Phát hiện & ghi nhận** — mô tả sai khác so với tiêu chuẩn, kèm ảnh/vị trí.\n2. **Phân loại phương án xử lý:**\n   - Sửa chữa (rework) về đúng thiết kế\n   - Sửa để dùng được (repair) — cần tính toán/duyệt\n   - Chấp nhận có điều kiện (use-as-is) — phải được duyệt\n   - Loại bỏ (reject)\n3. **Phê duyệt phương án** — tư vấn thiết kế / chủ đầu tư khi cần.\n4. **Thực hiện khắc phục** và kiểm tra lại.\n5. **Hành động phòng ngừa** — tránh lặp lại.\n6. **Đóng NCR** — ký xác nhận đã đạt.\n\n## Nội dung tối thiểu của phiếu\n\n- [ ] Mã NCR, ngày, vị trí, hạng mục\n- [ ] Mô tả không phù hợp + tiêu chuẩn vi phạm\n- [ ] Phương án xử lý và người duyệt\n- [ ] Bằng chứng khắc phục (ảnh, kết quả thí nghiệm)\n\n> **Lưu ý:** NCR không phải để \"bắt lỗi\" cá nhân, mà để kiểm soát chất lượng và cải tiến. Ghi nhận trung thực giúp toàn dự án tốt hơn.\n","raw":"$2f","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:12:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Tuân thủ pháp lý dự án xây dựng","department":"legal","summary":"Danh mục hồ sơ pháp lý và giấy phép cần tuân thủ theo các giai đoạn của một dự án xây dựng.","tags":["pháp lý","giấy phép","tuân thủ"],"difficulty":"Nâng cao","author":"Phòng Pháp lý","updated":"2026-07-29","readingTime":"7 phút","slug":"tuan-thu-phap-ly-du-an-xay-dung","content":"$30","raw":"$31","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:3:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Lập và xử lý hồ sơ claim hợp đồng","department":"contracts","summary":"Quy trình lập hồ sơ khiếu nại (claim) đòi thêm thời gian/chi phí: tuân thủ thời hạn thông báo và chứng minh bằng hồ sơ đồng thời.","tags":["claim","khiếu nại","hợp đồng"],"difficulty":"Nâng cao","author":"Phòng Quản lý hợp đồng","updated":"2026-07-28","readingTime":"7 phút","slug":"xu-ly-ho-so-claim","content":"$32","raw":"$33","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:8:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Onboarding nhân viên mới trong 30 ngày","department":"hr","summary":"Lộ trình chuẩn giúp nhân viên mới hội nhập nhanh, rõ vai trò và bắt đầu tạo giá trị trong tháng đầu tiên.","tags":["onboarding","quy trình","văn hóa"],"difficulty":"Cơ bản","author":"Phòng Nhân sự","updated":"2026-07-28","readingTime":"6 phút","featured":true,"slug":"onboarding-nhan-vien-moi","content":"$34","raw":"$35","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:10:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quy trình mua và nghiệm thu vật tư đầu vào","department":"procurement","summary":"Từ đề nghị mua đến nhập kho công trường: kiểm soát chất lượng, chứng từ và số lượng vật tư đầu vào.","tags":["vật tư","mua sắm","nghiệm thu"],"difficulty":"Cơ bản","author":"Phòng Vật tư - Thiết bị","updated":"2026-07-28","readingTime":"6 phút","slug":"mua-nghiem-thu-vat-tu-dau-vao","content":"\n## Mục tiêu\n\nĐảm bảo vật tư về công trường **đúng chủng loại, đủ số lượng, đạt chất lượng** và đầy đủ chứng từ.\n\n## Quy trình\n\n1. **Đề nghị mua** — từ kế hoạch vật tư theo tiến độ.\n2. **Chọn nhà cung cấp** — so sánh báo giá, năng lực, tiến độ giao.\n3. **Duyệt & đặt hàng** — theo hạn mức phê duyệt.\n4. **Nghiệm thu nhập kho** — kiểm tra khi hàng về.\n5. **Lưu hồ sơ** — hóa đơn, CO/CQ, phiếu nhập.\n\n## Nghiệm thu vật tư khi giao\n\n- [ ] Đúng chủng loại, quy cách, mác theo đơn hàng\n- [ ] Đủ số lượng (cân/đo/đếm thực tế)\n- [ ] Có chứng chỉ chất lượng (CO/CQ) với vật tư yêu cầu\n- [ ] Lấy mẫu thí nghiệm với vật tư chịu lực (thép, xi măng, cốt liệu)\n- [ ] Không hư hỏng, ẩm mốc, gỉ sét\n\n## Vật tư cần thí nghiệm đầu vào (ví dụ)\n\n| Vật tư | Chỉ tiêu thường kiểm |\n| --- | --- |\n| Thép | Giới hạn chảy, độ giãn dài, uốn nguội |\n| Xi măng | Cường độ, thời gian đông kết |\n| Cốt liệu | Thành phần hạt, hàm lượng bùn sét |\n\n> **Lưu ý:** Không đưa vào sử dụng vật tư chịu lực khi chưa có kết quả thí nghiệm đạt yêu cầu.\n","raw":"$36","departmentInfo":{"slug":"procurement","name":"Vật tư - Thiết bị","shortName":"Vật tư","description":"Mua sắm, nghiệm thu vật tư đầu vào và quản lý máy móc thiết bị công trường.","icon":"🚚","gradient":"from-purple-500 to-fuchsia-500","accent":{"text":"text-purple-700 dark:text-purple-300","bg":"bg-purple-50 dark:bg-purple-500/10","ring":"ring-purple-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Viết PRD (Product Requirements Document)","department":"product","summary":"Mẫu tài liệu yêu cầu sản phẩm giúp cả team hiểu vấn đề, giải pháp và tiêu chí thành công.","tags":["prd","sản phẩm","tài liệu"],"difficulty":"Trung bình","author":"Phòng Sản phẩm","updated":"2026-07-27","readingTime":"7 phút","slug":"viet-prd-san-pham","content":"\n## Mục tiêu\n\nTạo tài liệu để **cả team đồng thuận** về việc *xây gì* và *tại sao*, trước khi viết dòng code đầu tiên.\n\n## Cấu trúc PRD\n\n1. **Bối cảnh & Vấn đề** — Ai gặp vấn đề gì, ảnh hưởng ra sao.\n2. **Mục tiêu & Chỉ số** — Định nghĩa thành công (metrics).\n3. **Phạm vi** — Làm gì và **không** làm gì (out of scope).\n4. **User stories** — \"Là [vai trò], tôi muốn [hành động] để [lợi ích]\".\n5. **Yêu cầu chức năng** — Chi tiết hành vi mong muốn.\n6. **Rủi ro & Câu hỏi mở**.\n\n## Ví dụ tiêu chí thành công\n\n```text\nMục tiêu: Giảm tỷ lệ bỏ giỏ hàng.\nChỉ số: Tỷ lệ hoàn tất thanh toán tăng từ 60% -> 70% trong 1 tháng.\n```\n\n## Checklist chất lượng PRD\n\n- [ ] Vấn đề được nêu rõ ràng, có dữ liệu\n- [ ] Mục tiêu đo lường được\n- [ ] Phạm vi (in/out) rõ ràng\n- [ ] Đã review cùng Kỹ thuật & Thiết kế\n\n> **Mẹo:** PRD tốt trả lời được câu hỏi \"làm sao biết đã thành công?\".\n","raw":"$37","departmentInfo":{"slug":"product","name":"Sản phẩm","shortName":"Sản phẩm","description":"Nghiên cứu người dùng, viết PRD, ưu tiên tính năng và roadmap.","icon":"🧭","gradient":"from-cyan-500 to-blue-500","accent":{"text":"text-cyan-700 dark:text-cyan-300","bg":"bg-cyan-50 dark:bg-cyan-500/10","ring":"ring-cyan-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Chuẩn bị hồ sơ dự thầu","department":"estimating","summary":"Checklist tổ chức lập hồ sơ dự thầu đầy đủ, đúng yêu cầu và nộp đúng hạn để không bị loại vì lỗi hình thức.","tags":["dự thầu","hồ sơ","đấu thầu"],"difficulty":"Trung bình","author":"Phòng Dự toán - Đấu thầu","updated":"2026-07-27","readingTime":"6 phút","slug":"chuan-bi-ho-so-du-thau","content":"$38","raw":"$39","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:7:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Khóa sổ và lập báo cáo tài chính tháng","department":"finance","summary":"Checklist các bước khóa sổ cuối tháng để lập báo cáo tài chính đúng hạn, đầy đủ và đối chiếu khớp.","tags":["kế toán","khóa sổ","báo cáo"],"difficulty":"Trung bình","author":"Phòng Tài chính - Kế toán","updated":"2026-07-26","readingTime":"5 phút","slug":"khoa-so-bao-cao-thang","content":"\n## Mục tiêu\n\nĐóng sổ kế toán tháng **đúng hạn, chính xác, đối chiếu khớp** để có báo cáo phục vụ điều hành.\n\n## Trình tự khóa sổ\n\n1. **Ghi nhận đầy đủ** hóa đơn, chứng từ trong kỳ.\n2. **Đối chiếu** ngân hàng, công nợ phải thu/phải trả, kho.\n3. **Phân bổ & trích** khấu hao, chi phí trả trước, dự phòng.\n4. **Rà soát bút toán** bất thường, số dư âm.\n5. **Kết chuyển** doanh thu - chi phí, xác định kết quả.\n6. **Lập báo cáo** và giải trình biến động.\n\n## Checklist đối chiếu\n\n- [ ] Số dư ngân hàng khớp sao kê\n- [ ] Công nợ khớp biên bản đối chiếu\n- [ ] Tồn kho khớp kiểm kê\n- [ ] Chi phí công trình khớp báo cáo công trường\n- [ ] Thuế GTGT/TNCN đã kê khai\n\n## Sản phẩm đầu ra\n\n| Báo cáo | Mục đích |\n| --- | --- |\n| Bảng cân đối kế toán | Tình hình tài sản - nguồn vốn |\n| Báo cáo kết quả kinh doanh | Lãi/lỗ trong kỳ |\n| Báo cáo dòng tiền | Thu - chi tiền mặt |\n\n> **Mẹo:** Lập **lịch khóa sổ** với hạn chót cho từng đầu việc và người phụ trách — khóa sổ trễ làm cả chuỗi báo cáo trễ theo.\n","raw":"$3a","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:0:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Lập kế hoạch chiến dịch Marketing","department":"marketing","summary":"Khung lập kế hoạch chiến dịch từ mục tiêu, đối tượng, thông điệp đến kênh và đo lường.","tags":["chiến dịch","kế hoạch","content"],"difficulty":"Trung bình","author":"Phòng Marketing","updated":"2026-07-25","readingTime":"6 phút","featured":true,"slug":"lap-ke-hoach-chien-dich-marketing","content":"\n## Mục tiêu\n\nXây dựng chiến dịch có **mục tiêu đo lường được** và ngân sách hợp lý.\n\n## Khung 5W + Đo lường\n\n1. **Why** — Mục tiêu kinh doanh (nhận diện, lead, doanh thu).\n2. **Who** — Chân dung khách hàng mục tiêu.\n3. **What** — Thông điệp và ưu đãi cốt lõi.\n4. **Where** — Kênh triển khai (SEO, ads, email, social).\n5. **When** — Thời gian và các mốc chính.\n\n## KPI gợi ý\n\n| Mục tiêu | KPI |\n| --- | --- |\n| Nhận diện | Reach, impressions |\n| Tương tác | CTR, engagement rate |\n| Chuyển đổi | Số lead, CPL, ROAS |\n\n## Checklist trước khi chạy\n\n- [ ] Thông điệp thống nhất trên mọi kênh\n- [ ] Landing page & tracking (UTM) sẵn sàng\n- [ ] Ngân sách và lịch chạy được duyệt\n- [ ] Kế hoạch báo cáo hàng tuần\n\n> **Mẹo:** Luôn để lại 10-15% ngân sách để tối ưu dựa trên dữ liệu thực tế.\n","raw":"$3b","departmentInfo":{"slug":"marketing","name":"Marketing","shortName":"Marketing","description":"Xây dựng chiến dịch, content, SEO và đo lường hiệu quả truyền thông.","icon":"📣","gradient":"from-pink-500 to-rose-500","accent":{"text":"text-rose-700 dark:text-rose-300","bg":"bg-rose-50 dark:bg-rose-500/10","ring":"ring-rose-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Chấm công và tính lương công nhân công trường","department":"hr","summary":"Quy trình chấm công minh bạch và tính lương chính xác cho công nhân, tổ đội tại công trường.","tags":["chấm công","tính lương","công trường"],"difficulty":"Cơ bản","author":"Phòng Nhân sự","updated":"2026-07-24","readingTime":"5 phút","slug":"cham-cong-tinh-luong-cong-nhan","content":"\n## Mục tiêu\n\nChấm công **minh bạch**, tính lương **đúng và đúng hạn** cho công nhân và tổ đội tại công trường.\n\n## Quy trình\n\n1. **Chấm công hàng ngày** — theo tổ đội, có xác nhận của tổ trưởng/giám sát.\n2. **Tổng hợp cuối kỳ** — công thường, tăng ca, ngày nghỉ, phụ cấp.\n3. **Đối chiếu khối lượng** — với công việc thực tế/nghiệm thu (nếu khoán).\n4. **Tính lương** — theo công nhật hoặc khoán khối lượng.\n5. **Duyệt & chi trả** — kèm bảng lương chi tiết.\n\n## Hình thức trả lương phổ biến\n\n| Hình thức | Cách tính |\n| --- | --- |\n| Công nhật | Số công × đơn giá ngày công |\n| Khoán khối lượng | Khối lượng nghiệm thu × đơn giá khoán |\n\n## Checklist minh bạch\n\n- [ ] Bảng công có xác nhận của tổ trưởng và giám sát\n- [ ] Đối chiếu công với nhật ký thi công\n- [ ] Bảng lương công khai cho người lao động\n- [ ] Lưu chứng từ ký nhận\n\n> **Lưu ý:** Chấm công thiếu xác nhận hai chiều (tổ trưởng + giám sát) dễ dẫn tới khai khống hoặc tranh chấp lương.\n","raw":"$3c","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:10:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Xử lý sự cố production (Incident Response)","department":"engineering","summary":"Quy trình ứng phó sự cố có mức độ ưu tiên rõ ràng, giảm thời gian downtime và học hỏi sau sự cố.","tags":["incident","vận hành","on-call"],"difficulty":"Nâng cao","author":"Phòng Kỹ thuật","updated":"2026-07-22","readingTime":"8 phút","slug":"xu-ly-su-co-production","content":"\n## Mục tiêu\n\nKhôi phục dịch vụ **nhanh nhất có thể** và rút ra bài học để không lặp lại.\n\n## Phân loại mức độ (Severity)\n\n| Mức | Ảnh hưởng | Ví dụ |\n| --- | --- | --- |\n| SEV1 | Toàn bộ hệ thống ngừng | Website down hoàn toàn |\n| SEV2 | Tính năng chính lỗi | Không thanh toán được |\n| SEV3 | Ảnh hưởng nhỏ | Lỗi hiển thị nhỏ |\n\n## Quy trình 5 bước\n\n1. **Phát hiện** — Nhận alert hoặc báo cáo từ khách hàng.\n2. **Điều phối** — Chỉ định một *Incident Commander*.\n3. **Giảm thiểu** — Ưu tiên khôi phục dịch vụ (rollback, tắt tính năng...).\n4. **Khắc phục** — Sửa triệt để nguyên nhân gốc.\n5. **Hậu sự cố** — Viết postmortem **không đổ lỗi** trong 48 giờ.\n\n## Mẫu thông báo nội bộ\n\n```text\n[SEV2] Thanh toán gián đoạn\nBắt đầu: 14:05\nẢnh hưởng: ~15% giao dịch thất bại\nĐang xử lý: rollback bản deploy 14:00\nIC: @ten-nguoi\n```\n\n> **Nguyên tắc vàng:** Khôi phục trước, tìm nguyên nhân gốc sau.\n","raw":"$3d","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:19:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Xử lý ticket hỗ trợ khách hàng","department":"support","summary":"Quy trình tiếp nhận, phân loại và phản hồi ticket theo SLA để giữ trải nghiệm khách hàng nhất quán.","tags":["ticket","sla","hỗ trợ"],"difficulty":"Cơ bản","author":"Phòng Chăm sóc khách hàng","updated":"2026-07-20","readingTime":"5 phút","slug":"xu-ly-ticket-ho-tro","content":"\n## Mục tiêu\n\nPhản hồi **đúng hạn, đúng người và đúng cách** cho mọi yêu cầu của khách hàng.\n\n## Phân loại ưu tiên\n\n| Mức | Mô tả | SLA phản hồi đầu |\n| --- | --- | --- |\n| Khẩn cấp | Mất dịch vụ hoàn toàn | 30 phút |\n| Cao | Ảnh hưởng nghiệp vụ chính | 2 giờ |\n| Thường | Câu hỏi, yêu cầu nhỏ | 1 ngày làm việc |\n\n## Quy trình\n\n1. **Tiếp nhận & xác nhận** — Trả lời tự động cho khách biết đã nhận.\n2. **Phân loại** — Gắn nhãn ưu tiên và chủ đề.\n3. **Xử lý** — Tự giải quyết hoặc chuyển (escalate) đúng bộ phận.\n4. **Đóng ticket** — Xác nhận khách đã hài lòng.\n\n## Mẫu phản hồi đầu tiên\n\n```text\nChào anh/chị, cảm ơn đã liên hệ.\nBên em đã tiếp nhận yêu cầu và đang kiểm tra.\nEm sẽ phản hồi chi tiết trong vòng [SLA].\n```\n\n> **Mẹo:** Một câu xác nhận sớm giúp giảm mạnh sự lo lắng của khách hàng, ngay cả khi chưa có giải pháp.\n","raw":"$3e","departmentInfo":{"slug":"support","name":"Chăm sóc khách hàng","shortName":"CSKH","description":"Tiếp nhận, phân loại và xử lý yêu cầu hỗ trợ khách hàng.","icon":"🎧","gradient":"from-fuchsia-500 to-pink-500","accent":{"text":"text-fuchsia-700 dark:text-fuchsia-300","bg":"bg-fuchsia-50 dark:bg-fuchsia-500/10","ring":"ring-fuchsia-500/20"}},"modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Kịch bản gọi điện bán hàng (Cold Call)","department":"sales","summary":"Cấu trúc cuộc gọi bán hàng chuyên nghiệp: mở đầu, khai thác nhu cầu, xử lý từ chối và chốt bước tiếp theo.","tags":["bán hàng","cold call","kịch bản"],"difficulty":"Cơ bản","author":"Phòng Kinh doanh","updated":"2026-07-18","readingTime":"5 phút","slug":"kich-ban-goi-dien-ban-hang","content":"\n## Mục tiêu\n\nBiến một cuộc gọi lạ thành **một cuộc hẹn hoặc bước tiếp theo rõ ràng**.\n\n## Cấu trúc cuộc gọi\n\n1. **Mở đầu (15 giây):** Chào, giới thiệu ngắn, xin phép 30 giây.\n2. **Câu hỏi khai thác:** Tìm hiểu vấn đề khách đang gặp.\n3. **Giá trị:** Kết nối sản phẩm với đúng vấn đề đó.\n4. **Xử lý từ chối:** Lắng nghe -> đồng cảm -> làm rõ.\n5. **Chốt bước tiếp theo:** Đặt lịch demo/gửi báo giá.\n\n## Mẫu mở đầu\n\n```text\nChào anh/chị, em là ... bên công ty ...\nEm gọi vì thấy bên mình đang [vấn đề cụ thể].\nAnh/chị cho em xin 30 giây được không ạ?\n```\n\n## Xử lý từ chối thường gặp\n\n| Khách nói | Phản hồi gợi ý |\n| --- | --- |\n| \"Đang bận\" | \"Em xin phép gọi lại lúc nào tiện cho anh/chị ạ?\" |\n| \"Không quan tâm\" | \"Dạ em hiểu, cho em hỏi hiện bên mình đang xử lý [vấn đề] thế nào ạ?\" |\n| \"Gửi email đi\" | \"Vâng em gửi ngay, em xin email để gửi đúng người ạ.\" |\n\n> **Lưu ý:** Mục tiêu của cold call **không phải bán ngay**, mà là mở ra cuộc trò chuyện tiếp theo.\n","raw":"$3f","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:11:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Quy trình duyệt và thanh toán hóa đơn","department":"finance","summary":"Chuẩn hóa việc tiếp nhận, kiểm tra, phê duyệt và thanh toán hóa đơn nhằm kiểm soát chi phí và tránh sai sót.","tags":["hóa đơn","thanh toán","kiểm soát"],"difficulty":"Cơ bản","author":"Phòng Tài chính - Kế toán","updated":"2026-07-15","readingTime":"5 phút","slug":"quy-trinh-thanh-toan-hoa-don","content":"\n## Mục tiêu\n\nĐảm bảo mọi khoản chi được **kiểm tra và phê duyệt đúng thẩm quyền** trước khi thanh toán.\n\n## Quy trình 4 bước\n\n1. **Tiếp nhận** — Nhận hóa đơn kèm PO/hợp đồng liên quan.\n2. **Kiểm tra** — Đối chiếu số tiền, thông tin thuế, người thụ hưởng.\n3. **Phê duyệt** — Theo hạn mức phê duyệt.\n4. **Thanh toán & Lưu trữ** — Thực hiện chi và lưu chứng từ.\n\n## Hạn mức phê duyệt (ví dụ)\n\n| Giá trị | Người duyệt |\n| --- | --- |\n| < 10 triệu | Trưởng phòng |\n| 10 - 100 triệu | Giám đốc tài chính |\n| > 100 triệu | Ban giám đốc |\n\n## Checklist kiểm tra hóa đơn\n\n- [ ] Thông tin công ty & mã số thuế chính xác\n- [ ] Có PO/hợp đồng đối chiếu\n- [ ] Số tiền và thuế đúng\n- [ ] Chưa từng thanh toán trùng\n\n> **Cảnh báo:** Luôn kiểm tra trùng lặp trước khi chi để tránh thanh toán hai lần cho cùng một hóa đơn.\n","raw":"$40","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:0:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Nguyên tắc sử dụng Design System","department":"product","summary":"Hướng dẫn dùng design system nhất quán: token, component và khi nào được tạo ngoại lệ.","tags":["design system","ui","nhất quán"],"difficulty":"Trung bình","author":"Phòng Sản phẩm","updated":"2026-07-12","readingTime":"6 phút","slug":"design-system-nguyen-tac","content":"\n## Mục tiêu\n\nGiữ giao diện **nhất quán** và tăng tốc độ phát triển bằng cách tái sử dụng thành phần chung.\n\n## Nguyên tắc cốt lõi\n\n1. **Ưu tiên component có sẵn** trước khi tạo mới.\n2. **Dùng design token** (màu, khoảng cách, bo góc) thay vì giá trị cứng.\n3. **Nhất quán hơn hoàn hảo** — tuân thủ hệ thống kể cả khi có ý tưởng riêng.\n\n## Khi nào được tạo ngoại lệ\n\n- Có nhu cầu thực sự chưa được hệ thống hỗ trợ.\n- Đã trao đổi với người phụ trách design system.\n- Ghi lại lý do để cân nhắc đưa vào hệ thống sau này.\n\n## Checklist trước khi merge UI\n\n- [ ] Dùng token thay cho màu/spacing cứng\n- [ ] Tái sử dụng component chung khi có thể\n- [ ] Kiểm tra trạng thái: hover, focus, disabled\n- [ ] Kiểm tra khả năng tiếp cận (contrast, aria-label)\n\n> **Mẹo:** Mỗi ngoại lệ không ghi lại hôm nay là một khoản \"nợ thiết kế\" phải trả trong tương lai.\n","raw":"$41","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:26:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false},{"title":"Tối ưu SEO On-page cho bài viết","department":"marketing","summary":"Checklist tối ưu một bài viết chuẩn SEO: từ khóa, cấu trúc, thẻ meta và liên kết nội bộ.","tags":["seo","content","on-page"],"difficulty":"Cơ bản","author":"Phòng Marketing","updated":"2026-07-08","readingTime":"5 phút","slug":"toi-uu-seo-onpage","content":"\n## Mục tiêu\n\nGiúp bài viết **dễ được tìm thấy** trên công cụ tìm kiếm và mang lại traffic bền vững.\n\n## Checklist On-page\n\n- [ ] Từ khóa chính xuất hiện trong tiêu đề (title)\n- [ ] URL ngắn gọn, chứa từ khóa\n- [ ] Thẻ meta description hấp dẫn (~155 ký tự)\n- [ ] Cấu trúc heading H1 → H2 → H3 hợp lý\n- [ ] Ảnh có thuộc tính `alt` mô tả\n- [ ] Có liên kết nội bộ tới bài liên quan\n- [ ] Nội dung trả lời đúng ý định tìm kiếm\n\n## Cấu trúc bài chuẩn\n\n```text\nH1: Tiêu đề chứa từ khóa chính\n  H2: Vấn đề / bối cảnh\n  H2: Giải pháp từng bước\n    H3: Bước 1...\n  H2: Kết luận + CTA\n```\n\n> **Lưu ý:** Viết cho người đọc trước, tối ưu cho máy tìm kiếm sau. Nội dung hữu ích luôn thắng về dài hạn.\n","raw":"---\ntitle: \"Tối ưu SEO On-page cho bài viết\"\ndepartment: \"marketing\"\nsummary: \"Checklist tối ưu một bài viết chuẩn SEO: từ khóa, cấu trúc, thẻ meta và liên kết nội bộ.\"\ntags: [\"seo\", \"content\", \"on-page\"]\ndifficulty: \"Cơ bản\"\nauthor: \"Phòng Marketing\"\nupdated: \"2026-07-08\"\nreadingTime: \"5 phút\"\n---\n\n## Mục tiêu\n\nGiúp bài viết **dễ được tìm thấy** trên công cụ tìm kiếm và mang lại traffic bền vững.\n\n## Checklist On-page\n\n- [ ] Từ khóa chính xuất hiện trong tiêu đề (title)\n- [ ] URL ngắn gọn, chứa từ khóa\n- [ ] Thẻ meta description hấp dẫn (~155 ký tự)\n- [ ] Cấu trúc heading H1 → H2 → H3 hợp lý\n- [ ] Ảnh có thuộc tính `alt` mô tả\n- [ ] Có liên kết nội bộ tới bài liên quan\n- [ ] Nội dung trả lời đúng ý định tìm kiếm\n\n## Cấu trúc bài chuẩn\n\n```text\nH1: Tiêu đề chứa từ khóa chính\n  H2: Vấn đề / bối cảnh\n  H2: Giải pháp từng bước\n    H3: Bước 1...\n  H2: Kết luận + CTA\n```\n\n> **Lưu ý:** Viết cho người đọc trước, tối ưu cho máy tìm kiếm sau. Nội dung hữu ích luôn thắng về dài hạn.\n","departmentInfo":"$9:props:children:0:props:children:1:props:children:props:skills:29:departmentInfo","modes":["guide","check","comply"],"hasAgentPackage":false}],"departments":["$9:props:children:0:props:children:1:props:children:props:skills:19:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:29:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:11:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:10:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:0:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:26:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:32:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:5:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:4:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:12:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:6:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:7:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:25:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:3:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:1:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:8:departmentInfo","$9:props:children:0:props:children:1:props:children:props:skills:2:departmentInfo"]}]}]]}],["$L42"],"$L43"]}]
+48:I[97367,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"OutletBoundary"]
+4a:I[27201,["/Skills.md/_next/static/chunks/0do-rrmaskjy7.js"],"IconMark"]
+b:["$","$1","h",{"children":[null,["$","$L44",null,{"children":"$L45"}],["$","div",null,{"hidden":true,"children":["$","$L46",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L47"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/Skills.md/_next/static/chunks/41t4nt270r_uq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:C
+42:["$","script","script-0",{"src":"/Skills.md/_next/static/chunks/3ytz3w--17sjz.js","async":true,"nonce":"$undefined"}]
+43:["$","$L48",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@49"}]}]
+45:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+47:[["$","title","0",{"children":"Browse skills · SkillsHub"}],["$","meta","1",{"name":"description","content":"Marketplace: tìm kiếm và lọc skill theo phòng ban / agent package."}],["$","link","2",{"rel":"icon","href":"/Skills.md/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L4a","3",{}]]
+49:null
