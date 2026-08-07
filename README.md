@@ -77,15 +77,28 @@ Sau đó trong agent: *“Hướng dẫn nghiệm thu cốt thép”* / *“Ki�
 
 ## Deploy GitHub Pages
 
-Mỗi push `main` chạy [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml):
+**Live:** [https://truongdinh018.github.io/Skills.md/](https://truongdinh018.github.io/Skills.md/)
 
-1. `npm ci` → `npm test`
-2. Static export với `BUILD_STATIC_EXPORT=true` và `PAGES_BASE_PATH=/Skills.md`
-3. Deploy artifact `out/` lên Pages
+### Cách đang dùng: nhánh `gh-pages`
 
-Bật: **Settings → Pages → Source: GitHub Actions**.
+Static site được build và push lên nhánh **`gh-pages`** (không ghi đè source trên `main`).
 
-Build local:
+Một lần trong GitHub: **Settings → Pages → Build and deployment → Deploy from a branch** → Branch **`gh-pages`** / folder **`/`** → Save.
+
+Cập nhật site (từ máy local):
+
+```bash
+BUILD_STATIC_EXPORT=true PAGES_BASE_PATH=/Skills.md npm run build
+# rồi publish thư mục out/ lên nhánh gh-pages (force)
+```
+
+### GitHub Actions (tuỳ chọn)
+
+Workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) build + deploy khi push `main`.
+
+Cần: **Settings → Pages → Source: GitHub Actions**, và tài khoản/org không bị khóa billing Actions.
+
+Build local kiểm tra:
 
 ```bash
 BUILD_STATIC_EXPORT=true PAGES_BASE_PATH=/Skills.md npm run build
